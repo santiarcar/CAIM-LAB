@@ -37,8 +37,8 @@ df_fr = df[['freq', 'rank']].drop_duplicates().reset_index(drop=True)
 
 df_fr_main = df_fr[df_fr.shape[0]//10:].reset_index(drop=True)
 
-f = df_fr_main['freq'].sum()
-df_fr_main['freq'] = df_fr_main['freq'] / f
+# f = df_fr_main['freq'].sum()
+# df_fr_main['freq'] = df_fr_main['freq'] / f
 
 xdata = df_fr_main['rank'].array
 ydata = df_fr_main['freq'].array
