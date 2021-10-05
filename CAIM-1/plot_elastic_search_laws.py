@@ -59,19 +59,19 @@ def zipf_checker(files: list):
 
         # FIT ZIPFS
         popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
-        plt.plot(xdata, func_zipf(xdata, *popt), 'g--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f' % tuple(popt))
+        plt.plot(xdata, func_zipf(xdata, *popt), 'g--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c/(x+b)^a' % tuple(popt))
 
         # FIT A/X
         popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
-        plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f' % tuple(popt))
+        plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f\nf = a/x' % tuple(popt))
 
-        # FIT A/X
+        # FIT LN(X)
         popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+        plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = -a * ln(x*b)' % tuple(popt))
 
         # FIT inverse exponential
         popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+        plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = a * e^(b/x)' % tuple(popt))
 
         # PLOT
 
@@ -112,19 +112,21 @@ def heaps_checker(files: list):
 
     # FIT HEAPS
     popt, pcov = curve_fit(func_heap, xdata, ydata)
-    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='fit-with-bounds\nfit: k=%5.3f, b=%5.3f' % tuple(popt))
+    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='fit-with-bounds\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
 
     # # FIT A/X
     # popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
-    # plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f' % tuple(popt))
+    # plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f\nf = a/x' % tuple(popt))
     #
-    # # FIT A/X
+    # # FIT LN(X)
     # popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-    # plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+    # plt.plot(xdata, func_ln(xdata, *popt), 'y--',
+    #          label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = -a * ln(x*b)' % tuple(popt))
     #
     # # FIT inverse exponential
     # popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-    # plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+    # plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
+    #          label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = a * e^(b/x)' % tuple(popt))
 
     # PLOT
 
