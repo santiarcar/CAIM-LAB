@@ -3,7 +3,7 @@ import os
 
 cwd = os.getcwd()
 
-search_on = 'news'
+search_on = 'novels9'
 
 
 def has_number(word):
@@ -36,7 +36,13 @@ for linea in f:
                 or not_alnum(word) or ('ª' in word) or ('º' in word)):
             newOutput.write(linea)
         else:
-            deprecatedOutput.write(linea)
+            word = word.replace("_", "")
+            word = word.split("'", 1)[0]
+            if not ((word.isdigit()) or (has_number(word)) or (has_punctuation(word))
+                    or not_alnum(word) or ('ª' in word) or ('º' in word)):
+                newOutput.write(linea)
+            else:
+                deprecatedOutput.write(linea)
 
     except Exception as e:
         break

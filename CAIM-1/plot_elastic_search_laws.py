@@ -10,64 +10,122 @@ warnings.filterwarnings('error')
 
 cwd = os.getcwd()
 
-archive = 'news'
+file = 'news'
+
+files = ["novels" + str(n) + "_output.txt" for n in range(1, 11)]
 
 
-def func(x, a, b, c):
+def func_zipf(x, a, b, c):
     try:
-        return c / pow(x+b, a)
+        return c / pow(x + b, a)
     except:
         return 0
 
+
 def func_a_over_x(x, a):
-    return a/x
+    return a / x
+
 
 def func_ln(x, a, b):
-    return -a * np.log(x*b)
+    return -a * np.log(x * b)
+
 
 def func_invexp(x, a, b):
-    return a * np.exp(b/x)
+    return a * np.exp(b / x)
 
 
-df = pd.read_csv('{0}_clean.txt'.format(archive), names=['freq', 'word'])
-df.sort_values(by=['freq'], ascending=[False], inplace=True)
-df['rank'] = df['freq'].rank(ascending=False, method='dense')
+def func_heap(x, k, b):
+    return k / pow(x, b)
 
-df_fr = df[['freq', 'rank']].drop_duplicates().reset_index(drop=True)
 
-df_fr_main = df_fr[df_fr.shape[0]//10:].reset_index(drop=True)
+def zipf_checker(file: str):
+    df = pd.read_csv('{0}_clean.txt'.format(file), names=['freq', 'word'])
+    df.sort_values(by=['freq'], ascending=[False], inplace=True)
+    df['rank'] = df['freq'].rank(ascending=False, method='dense')
 
-# f = df_fr_main['freq'].sum()
-# df_fr_main['freq'] = df_fr_main['freq'] / f
+    df_fr = df[['freq', 'rank']].drop_duplicates().reset_index(drop=True)
 
-xdata = df_fr_main['rank'].array
-ydata = df_fr_main['freq'].array
+    df_fr_main = df_fr[df_fr.shape[0] // 10:].reset_index(drop=True)
 
-# DATA
-plt.plot(xdata, ydata, 'b-', label='data')
+    # f = df_fr_main['freq'].sum()
+    # df_fr_main['freq'] = df_fr_main['freq'] / f
 
-# FIT ZIPFS
-popt, pcov = curve_fit(func, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
-plt.plot(xdata, func(xdata, *popt), 'g--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f' % tuple(popt))
+    xdata = df_fr_main['rank'].array
+    ydata = df_fr_main['freq'].array
 
-# FIT A/X
-popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
-plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f' % tuple(popt))
+    # DATA
+    plt.plot(xdata, ydata, 'b-', label='data')
 
-# FIT A/X
-popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+    # FIT ZIPFS
+    popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
+    plt.plot(xdata, func_zipf(xdata, *popt), 'g--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f' % tuple(popt))
 
-# FIT inverse exponential
-popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+    # FIT A/X
+    popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
+    plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f' % tuple(popt))
 
-# PLOT
+    # FIT A/X
+    popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+    plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
 
-plt.xlabel('x')
-plt.ylabel('y')
-# plt.yscale('log')
-plt.legend()
-plt.show()
+    # FIT inverse exponential
+    popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+    plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
 
-pause = True
+    # PLOT
+
+    plt.xlabel('x')
+    plt.ylabel('y')
+    # plt.yscale('log')
+    plt.legend()
+    plt.show()
+
+
+
+def heaps_checker(files: list):
+
+    totals = []
+    distincts = []
+
+    for f in files:
+        df = pd.read_csv('{0}_clean.txt'.format(file), names=['freq', 'word'])
+        total_words = df['freq'].sum()
+        distinct_words = df.shape[0]
+
+        totals.append(total_words)
+        distincts.append(distinct_words)
+
+    xdata = np.array(totals)
+    ydata = np.array(distincts)
+
+    # DATA
+    plt.plot(xdata, ydata, 'b-', label='data')
+
+    # FIT HEAPS
+    popt, pcov = curve_fit(func_heap, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
+    plt.plot(xdata, func_heap(xdata, *popt), 'g--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f' % tuple(popt))
+
+    # FIT A/X
+    popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
+    plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f' % tuple(popt))
+
+    # FIT A/X
+    popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+    plt.plot(xdata, func_ln(xdata, *popt), 'y--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+
+    # FIT inverse exponential
+    popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+    plt.plot(xdata, func_invexp(xdata, *popt), 'k--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f' % tuple(popt))
+
+    # PLOT
+
+    plt.xlabel('x')
+    plt.ylabel('y')
+    # plt.yscale('log')
+    plt.legend()
+    plt.show()
+
+a = zipf_checker(file=file)
+b = heaps_checker(files=)
+
+
