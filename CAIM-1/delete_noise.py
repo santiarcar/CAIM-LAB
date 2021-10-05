@@ -3,7 +3,7 @@ import os
 
 cwd = os.getcwd()
 
-search_on = 'novels9'
+search_on = 'news'
 
 
 def has_number(word):
