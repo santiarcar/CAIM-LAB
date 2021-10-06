@@ -122,24 +122,15 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
 
         data[total_words] = distinct_words
 
-    if zoomed:
-        x = sorted(data)
-
-        median = x[len(x)//2]
-
-        xdata = []
-
-        for i in x:
-            if i < median*2:
-                xdata.append(i)
-
-    else:
-        xdata = sorted(data)
+    xdata = sorted(data)
 
     ydata = []
 
     for x in xdata:
         ydata.append(data[x])
+
+    xmedian = xdata[len(xdata) // 2]
+    ymedian = sorted(ydata)[len(ydata) // 2]
 
     xdata = np.array(xdata)
     ydata = np.array(ydata)
@@ -149,7 +140,7 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
 
     # FIT HEAPS
     popt, pcov = curve_fit(func_heap, xdata, ydata)
-    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='HEAP\'S FIT\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
+    plt.plot(xdata, func_heap(xdata, *popt), 'gx--', label='HEAP\'S FIT\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
 
     # FIT SQRT
     popt, pcov = curve_fit(sq_root, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
@@ -161,12 +152,15 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.xlabel('x')
     plt.ylabel('y')
     # plt.yscale('log')
+    if zoomed:
+        plt.xlim(right=xmedian*2)
+        plt.ylim(top=ymedian*2)
     plt.legend()
     plt.title("HEAP'S: {0}".format(file_basic))
     plt.savefig("heaps_{0}{1}.png".format(file_basic, "_zoomed"*zoomed))
 
 
-a = zipf_checker(files=files_zipf)
+# a = zipf_checker(files=files_zipf)
 
 b = heaps_checker(file_basic='novels', num_of_files=32, zoomed=False)
 
