@@ -55,10 +55,3 @@ class noise_cleaner:
         newOutput.close()
         deprecatedOutput.close()
 
-
-
-a = noise_cleaner('novels')
-a.clean_noise()
-
-b = noise_cleaner('news')
-b.clean_noise()

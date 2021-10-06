@@ -1,47 +1,3 @@
-1, _aimin
-1, _americanista
-1, _americanista_
-1, _americanistas_
-1, _argumentum
-1, _arizona
-1, _barrios_
-1, _ben
-1, _betty
-1, _bosques_
-1, _bought
-1, _chip
-1, _conjuror's
-1, _dence_
-1, _desert
-1, _emmy
-1, _escolta_
-1, _estero_
-1, _foot
-1, _freckles
-1, _friar
-1, _her
-1, _indiana_
-1, _joyce
-1, _just
-1, _lavender
-1, _maine_
-1, _mucho_
-1, _nipa_
-1, _other
-1, _paseo_
-1, _presidente_
-1, _pronto_
-1, _published
-1, _recuerdos_
-1, _soldado
-1, _somewhars
-1, _tao_
-1, _teniente_
-1, _that_
-1, _thet_
-1, _what
-1, _when
-1, _within
 1, abandon
 1, abide
 1, ablaze
@@ -89,6 +45,7 @@
 1, acts
 1, actuality
 1, acute
+1, ad
 1, adams
 1, adapt
 1, adaptation
@@ -104,7 +61,6 @@
 1, adjourning
 1, adjusted
 1, adjutant
-1, adjutant's
 1, administered
 1, admire
 1, admits
@@ -139,6 +95,7 @@
 1, aholden
 1, aid
 1, aiming
+1, ak
 1, akimbo
 1, alertly
 1, alertness
@@ -162,7 +119,6 @@
 1, alternated
 1, altogether
 1, amateur
-1, amateur's
 1, amateurs
 1, ambassadors
 1, amber
@@ -173,7 +129,6 @@
 1, amenable
 1, amended
 1, america
-1, americano_
 1, amiably
 1, amicable
 1, ample
@@ -245,7 +200,6 @@
 1, aristides
 1, arithmetic
 1, arizona
-1, arm's
 1, armored
 1, armories
 1, armory
@@ -310,7 +264,6 @@
 1, attire
 1, attracted
 1, auctioneer
-1, auctioneer's
 1, audacity
 1, audible
 1, augured
@@ -336,6 +289,7 @@
 1, awe
 1, awed
 1, awnings
+1, ax
 1, axed
 1, axes
 1, axiomatic
@@ -356,7 +310,6 @@
 1, balky
 1, balloon
 1, balloons
-1, band's
 1, bandages
 1, bandits
 1, banjo
@@ -386,7 +339,6 @@
 1, bass
 1, bathing
 1, batingtang
-1, battalion's
 1, battleship
 1, bayard
 1, bayou
@@ -394,7 +346,6 @@
 1, beach
 1, beards
 1, bears
-1, beast's
 1, beasts
 1, beaten
 1, beatrice
@@ -433,7 +384,6 @@
 1, bestirred
 1, betrayal
 1, betraying
-1, better'n
 1, betty
 1, bewildering
 1, bewitchingly
@@ -466,7 +416,6 @@
 1, blended
 1, blessings
 1, blight
-1, blight's
 1, blighted
 1, blinded
 1, blinding
@@ -509,7 +458,6 @@
 1, bounden
 1, bounding
 1, bout
-1, bower's
 1, bowing
 1, bowl
 1, boxes
@@ -578,7 +526,6 @@
 1, bulges
 1, bulk
 1, bulky
-1, bull's
 1, bulletin
 1, bunkie
 1, buoyant
@@ -727,7 +674,6 @@
 1, chins
 1, chintz
 1, chip
-1, chip's
 1, chiseled
 1, chisholm
 1, choice
@@ -805,20 +751,16 @@
 1, collateral
 1, collect
 1, collecting
-1, college_
-1, colonel's
 1, colonial
 1, coloring
 1, colts
 1, columned
 1, comb
 1, combined
-1, come_
 1, comer
 1, comers
 1, comforting
 1, commandant
-1, commander's
 1, commanders
 1, commandin
 1, commence
@@ -832,7 +774,6 @@
 1, communication
 1, compact
 1, companions
-1, company's
 1, comparatively
 1, compared
 1, compass
@@ -884,7 +825,6 @@
 1, confuse
 1, conjure
 1, conjured
-1, conjuror's
 1, connection
 1, conned
 1, connor
@@ -951,13 +891,11 @@
 1, counseled
 1, count
 1, countries
-1, country's
 1, courageous
 1, courageously
 1, coursed
 1, courteous
 1, courting
-1, courtship_
 1, cove
 1, covering
 1, covert
@@ -1051,7 +989,6 @@
 1, dates
 1, daubed
 1, daughter
-1, daughter's
 1, davidson
 1, dawdling
 1, dawned
@@ -1132,7 +1069,6 @@
 1, describes
 1, describing
 1, descriptive
-1, desert_
 1, deserve
 1, design
 1, designated
@@ -1267,7 +1203,6 @@
 1, doffed
 1, doggone
 1, doglike
-1, doin's
 1, doings
 1, dollars
 1, dome
@@ -1295,7 +1230,6 @@
 1, draws
 1, dread
 1, dreamed
-1, dreamer's
 1, dreamily
 1, dreamy
 1, dreariness
@@ -1334,7 +1268,6 @@
 1, durn
 1, dutifully
 1, dwellers
-1, dwellers_
 1, dwelling
 1, dwindle
 1, dwindled
@@ -1362,7 +1295,6 @@
 1, eighteenth
 1, eighth
 1, ein
-1, elder's
 1, elderly
 1, eleanor
 1, elect
@@ -1374,7 +1306,6 @@
 1, eleven
 1, elixir
 1, eloquently
-1, else_
 1, elusive
 1, elysã
 1, emaciated
@@ -1394,6 +1325,7 @@
 1, employer
 1, employing
 1, emptied
+1, en
 1, enabled
 1, enchanted
 1, encountered
@@ -1462,8 +1394,6 @@
 1, evenness
 1, eventful
 1, eventually
-1, ever'body
-1, everlastin'ly
 1, everyday
 1, evilly
 1, evince
@@ -1530,7 +1460,6 @@
 1, falsification
 1, falsity
 1, faltering
-1, family_
 1, famishing
 1, fanatic
 1, fanatical
@@ -1541,7 +1470,6 @@
 1, fantastically
 1, farce
 1, faring
-1, farm_
 1, farming
 1, fasted
 1, fasting
@@ -1557,7 +1485,6 @@
 1, feelin
 1, feels
 1, feline
-1, fellers'll
 1, felons
 1, female
 1, fergit
@@ -1581,7 +1508,6 @@
 1, figger
 1, figgered
 1, fightin
-1, filipino's
 1, filipinos
 1, finality
 1, financial
@@ -1636,11 +1562,9 @@
 1, focused
 1, fogarty
 1, fogs
-1, folks'll
 1, follerin
 1, fond
 1, fondness
-1, fool's
 1, fooled
 1, foolin
 1, foolish
@@ -1679,7 +1603,6 @@
 1, fotch
 1, fotchin
 1, founded
-1, fox's
 1, fraction
 1, fractions
 1, fragment
@@ -1752,14 +1675,12 @@
 1, gawd
 1, gawky
 1, gbnewby
+1, ge
 1, gear
 1, gene
-1, gene'lly
-1, general's
 1, generality
 1, generals
 1, gentle
-1, gentleman's
 1, geographical
 1, geography
 1, georgia
@@ -1799,7 +1720,6 @@
 1, godless
 1, gods
 1, goers
-1, gold_
 1, golgotha
 1, goodwin
 1, gorge
@@ -1807,17 +1727,14 @@
 1, gospel
 1, gossamer
 1, gossip
-1, gov'ment
 1, govern
 1, governess
-1, governor's
 1, gown
 1, gowns
 1, gradual
 1, gradually
 1, graft
 1, gran
-1, gran'pap
 1, grandchildren
 1, grandeur
 1, grandfather
@@ -1846,7 +1763,6 @@
 1, grefe
 1, gregory
 1, grey
-1, grey's
 1, grief
 1, grievance
 1, grievances
@@ -1929,8 +1845,6 @@
 1, harshness
 1, harvard
 1, harvester
-1, harvester's
-1, harvester_
 1, hastened
 1, hasty
 1, hatched
@@ -1950,7 +1864,6 @@
 1, healthful
 1, healthy
 1, heaped
-1, hear'n
 1, hearkened
 1, hears
 1, heathenish
@@ -1963,12 +1876,10 @@
 1, heerd
 1, heerin
 1, heired
-1, hell's
 1, hellish
 1, hence
 1, henceforth
 1, henchmen
-1, henry's
 1, heralded
 1, herbert
 1, hereafter
@@ -2013,7 +1924,6 @@
 1, homesick
 1, homespun
 1, homilies
-1, hominem_
 1, homing
 1, honestly
 1, honeymoon
@@ -2021,7 +1931,6 @@
 1, honored
 1, hoofbeats
 1, hoops
-1, hoover's
 1, hopelessly
 1, hopelessness
 1, hopkins
@@ -2065,7 +1974,6 @@
 1, hurtin
 1, husbands
 1, huts
-1, hyar's
 1, hyena
 1, hypertext
 1, hypnotism
@@ -2084,10 +1992,10 @@
 1, idiosyncracies
 1, idly
 1, idolatry
-1, ign'rance
-1, ign'rant
 1, ignorantly
+1, ii
 1, iii
+1, il
 1, ilacanos
 1, illness
 1, illustrator
@@ -2293,7 +2201,9 @@
 1, irritable
 1, irs
 1, issue
+1, iv
 1, ivy
+1, ix
 1, jacket
 1, jacobs
 1, jade
@@ -2315,8 +2225,6 @@
 1, jet
 1, jeweled
 1, jig
-1, jim's
-1, jimmy's
 1, jockey
 1, joe
 1, jogging
@@ -2330,7 +2238,6 @@
 1, jostling
 1, jouett
 1, journalist
-1, journey's
 1, journeying
 1, jovial
 1, joyously
@@ -2348,7 +2255,6 @@
 1, kemp
 1, ken
 1, kentuckian
-1, kentucky's
 1, keyed
 1, keyhole
 1, keys
@@ -2362,7 +2268,6 @@
 1, kit
 1, knack
 1, kneeling
-1, knight_
 1, knitting
 1, knives
 1, knock
@@ -2400,7 +2305,6 @@
 1, launch
 1, lawfully
 1, lawn
-1, lawyer's
 1, laying
 1, leaden
 1, leafage
@@ -2422,7 +2326,6 @@
 1, lent
 1, lets
 1, levels
-1, lexin'ton
 1, liars
 1, libel
 1, liberated
@@ -2430,7 +2333,6 @@
 1, lick
 1, lidded
 1, lies
-1, lieutenant's
 1, lifelike
 1, lifelong
 1, lifetime
@@ -2470,10 +2372,8 @@
 1, loosened
 1, lots
 1, lou
-1, lou_
 1, loueyville
 1, louisville
-1, lover's
 1, lower
 1, lowin
 1, lucid
@@ -2484,7 +2384,6 @@
 1, luggage
 1, luk
 1, lullaby
-1, lumberman's
 1, lunatic
 1, lung
 1, lurched
@@ -2497,8 +2396,8 @@
 1, luxurious
 1, lynch
 1, lynching
+1, ma
 1, macadam
-1, mack's
 1, madame
 1, madden
 1, maddened
@@ -2536,13 +2435,9 @@
 1, martyrs
 1, marveling
 1, marvin
-1, mary_
 1, masculine
-1, massa's
 1, masse
-1, masse_
 1, masses
-1, master's
 1, mastered
 1, mastering
 1, masterpiece
@@ -2556,7 +2451,6 @@
 1, maturity
 1, maudlin
 1, mausers
-1, may_
 1, maze
 1, mcconaughy
 1, meadow
@@ -2575,7 +2469,6 @@
 1, melancholia
 1, melting
 1, mementos
-1, men's
 1, mend
 1, mended
 1, mendicant
@@ -2647,11 +2540,8 @@
 1, moodily
 1, moody
 1, moonshiner
-1, moonshiner's
 1, morals
-1, morgan's
 1, morose
-1, morrow's
 1, mortared
 1, mortgage
 1, mos
@@ -2664,7 +2554,6 @@
 1, motives
 1, motto
 1, mound
-1, mountain's
 1, mountainsides
 1, mourned
 1, mournful
@@ -2684,7 +2573,6 @@
 1, musical
 1, musically
 1, musician
-1, mustn't
 1, mute
 1, mutely
 1, mutineers
@@ -2700,7 +2588,6 @@
 1, nameless
 1, nap
 1, nape
-1, napoleon's
 1, narcotic
 1, narrative
 1, narratives
@@ -2710,7 +2597,6 @@
 1, nation
 1, natives
 1, naturally
-1, nature's
 1, natured
 1, natures
 1, nausea
@@ -2746,7 +2632,6 @@
 1, nibbling
 1, nicety
 1, nigh
-1, night's
 1, nightingale
 1, ninth
 1, nippers
@@ -2796,6 +2681,7 @@
 1, offenses
 1, offers
 1, oiled
+1, ol
 1, ole
 1, oliver
 1, ominously
@@ -2823,7 +2709,6 @@
 1, ornery
 1, orphaned
 1, ostracized
-1, other's
 1, oughter
 1, ours
 1, outburstings
@@ -2848,6 +2733,7 @@
 1, overtime
 1, owe
 1, owed
+1, ox
 1, pabulum
 1, paces
 1, pacification
@@ -2908,7 +2794,6 @@
 1, patron
 1, patronage
 1, patted
-1, patty_
 1, peaceably
 1, peaceful
 1, peach
@@ -2924,12 +2809,10 @@
 1, peeved
 1, peevish
 1, peg
-1, pen'tenshery
 1, pencil
 1, pendulum
 1, penetrated
 1, penetrating
-1, peniten'shery
 1, penitence
 1, penitensheried
 1, penitensherry
@@ -2968,6 +2851,7 @@
 1, petals
 1, petit
 1, petrifying
+1, pg
 1, pglaf
 1, phenomenal
 1, phenomenon
@@ -2991,7 +2875,6 @@
 1, pigeon
 1, pike
 1, pillion
-1, pilot_
 1, pinching
 1, pinioned
 1, pinned
@@ -3011,7 +2894,6 @@
 1, placid
 1, placidly
 1, placing
-1, plainsmen_
 1, plank
 1, plantation
 1, plantin
@@ -3111,8 +2993,6 @@
 1, preserved
 1, preserver
 1, preserving
-1, presidente_
-1, presidentes_
 1, presidio
 1, prestige
 1, presumption
@@ -3142,7 +3022,6 @@
 1, processes
 1, processing
 1, proclamation
-1, prodigal's
 1, production
 1, profanely
 1, proffer
@@ -3279,7 +3158,6 @@
 1, reasoned
 1, reasoning
 1, reassurance
-1, rebecca's
 1, rebellion
 1, rebellious
 1, rebuking
@@ -3306,14 +3184,12 @@
 1, recruit
 1, recumbent
 1, recurred
-1, red's
 1, redistribute
 1, redly
 1, redmond
 1, redoubled
 1, redoubling
 1, reed
-1, reed's
 1, reeked
 1, reeking
 1, reeks
@@ -3331,7 +3207,6 @@
 1, regaining
 1, regarding
 1, regeneration
-1, regiment's
 1, region
 1, regret
 1, regretfully
@@ -3454,7 +3329,6 @@
 1, rippling
 1, rises
 1, rivalry
-1, river_
 1, rivers
 1, riverside
 1, roaring
@@ -3469,7 +3343,6 @@
 1, rooms
 1, rooted
 1, roped
-1, rosario's
 1, rougher
 1, roughs
 1, roun
@@ -3530,7 +3403,6 @@
 1, satirical
 1, satisfy
 1, satisfying
-1, saturday's
 1, saturdays
 1, sauntered
 1, sauntering
@@ -3540,7 +3412,6 @@
 1, savor
 1, sawed
 1, saxons
-1, saxton's
 1, scaffold
 1, scairt
 1, scalded
@@ -3614,7 +3485,6 @@
 1, sergeants
 1, sermon
 1, serpent
-1, servant's
 1, serves
 1, serviceably
 1, services
@@ -3626,7 +3496,6 @@
 1, sex
 1, seymour
 1, seã
-1, shadow_
 1, shaft
 1, shafts
 1, shaking
@@ -3645,7 +3514,6 @@
 1, shattered
 1, shaver
 1, shed
-1, sheep's
 1, sheepishly
 1, sheet
 1, sheets
@@ -3722,8 +3590,6 @@
 1, sinking
 1, sinner
 1, sire
-1, sis's
-1, sister's
 1, situations
 1, sixteen
 1, sixth
@@ -3736,7 +3602,6 @@
 1, skulker
 1, skulkin
 1, skulking
-1, sky's
 1, slab
 1, slackened
 1, slackening
@@ -3796,7 +3661,6 @@
 1, sojournin
 1, soldiering
 1, soldierliness
-1, soldiers'll
 1, solemnly
 1, solicitation
 1, solidly
@@ -3832,7 +3696,6 @@
 1, spattering
 1, speaks
 1, spears
-1, spec's
 1, specific
 1, spectacular
 1, speeches
@@ -3891,7 +3754,6 @@
 1, standers
 1, stanley
 1, stark
-1, stars_
 1, starshine
 1, startin
 1, startling
@@ -3937,7 +3799,6 @@
 1, stony
 1, stored
 1, stormy
-1, story's
 1, straddles
 1, stragglers
 1, straining
@@ -4017,7 +3878,6 @@
 1, superb
 1, superhuman
 1, superintendent
-1, superior's
 1, supine
 1, supper
 1, supply
@@ -4110,7 +3970,6 @@
 1, tautness
 1, tawny
 1, taxes
-1, teacher's
 1, teaching
 1, teams
 1, tearful
@@ -4155,7 +4014,6 @@
 1, theatres
 1, theatric
 1, theft
-1, them's
 1, theoretically
 1, theories
 1, thickening
@@ -4216,7 +4074,6 @@
 1, tortuous
 1, tortured
 1, totally
-1, town's
 1, townward
 1, toying
 1, traceable
@@ -4227,7 +4084,6 @@
 1, trading
 1, trafficked
 1, tragedies
-1, trails_
 1, trainer
 1, trample
 1, tramps
@@ -4243,7 +4099,6 @@
 1, transportation
 1, transverses
 1, trapped
-1, traveler's
 1, traversed
 1, treacherous
 1, treacherously
@@ -4283,7 +4138,6 @@
 1, trussed
 1, trustfulness
 1, tuberculosis
-1, tuck_
 1, tucked
 1, tuckered
 1, tulip
@@ -4363,7 +4217,6 @@
 1, unheard
 1, unheralded
 1, unhinged
-1, uniform's
 1, uninhabited
 1, uninvited
 1, unison
@@ -4427,6 +4280,7 @@
 1, uptorn
 1, uses
 1, usin
+1, ut
 1, vacancies
 1, vacancy
 1, vacant
@@ -4443,6 +4297,7 @@
 1, vassal
 1, vaulting
 1, vaunting
+1, ve
 1, vehement
 1, vehemently
 1, vehicles
@@ -4450,7 +4305,6 @@
 1, veils
 1, velvety
 1, venal
-1, vendetta's
 1, venerable
 1, venerated
 1, vengeful
@@ -4468,6 +4322,7 @@
 1, vestibule
 1, vestige
 1, veto
+1, vi
 1, vibrant
 1, vibrated
 1, vicinage
@@ -4527,9 +4382,7 @@
 1, walks
 1, walnut
 1, waltz
-1, war's
 1, ward
-1, warden's
 1, warder
 1, wares
 1, warfield
@@ -4565,7 +4418,6 @@
 1, wedgelike
 1, wedgesley
 1, weed
-1, week's
 1, weighed
 1, welcomed
 1, welcoming
@@ -4574,7 +4426,6 @@
 1, westering
 1, westerners
 1, westward
-1, whar'd
 1, wharves
 1, wheat
 1, wheels
@@ -4608,7 +4459,6 @@
 1, widower
 1, width
 1, wield
-1, wife's
 1, wildfire
 1, willed
 1, williams
@@ -4633,8 +4483,8 @@
 1, wizardry
 1, wizened
 1, wladyslaw
+1, wm
 1, wodehouse
-1, women's
 1, wonderfully
 1, wonderin
 1, wonders
@@ -4643,7 +4493,6 @@
 1, wooden
 1, woodpecker
 1, woodpeckers
-1, woods_
 1, wool
 1, wordless
 1, wormwood
@@ -4673,13 +4522,16 @@
 1, wus
 1, wusser
 1, wuz
+1, xi
 1, xii
 1, xiii
 1, xiv
 1, xix
+1, xv
 1, xvi
 1, xvii
 1, xviii
+1, xx
 1, xxi
 1, xxii
 1, xxiii
@@ -4698,14 +4550,8 @@
 1, yonder
 1, yoreself
 1, youngster
-1, zane_
 1, zip
 1, zone
-2, _adios
-2, _amigos_
-2, _lew_
-2, _rebecca
-2, _riders
 2, abandoned
 2, abiding
 2, ability
@@ -4732,7 +4578,6 @@
 2, afford
 2, afforded
 2, afresh
-2, afternoon's
 2, afterward
 2, aim
 2, alacrity
@@ -4817,7 +4662,6 @@
 2, benighted
 2, bestowed
 2, betray
-2, betty's
 2, bewilderment
 2, binondo
 2, birth
@@ -5080,7 +4924,6 @@
 2, disturbance
 2, disturbed
 2, disturbing
-2, doesn't
 2, dogged
 2, doggedly
 2, dogs
@@ -5106,7 +4949,6 @@
 2, dropping
 2, drumming
 2, dry
-2, dunlap's
 2, dusty
 2, dwell
 2, eagerness
@@ -5133,7 +4975,6 @@
 2, emphasis
 2, emphasizing
 2, employees
-2, enemy's
 2, engagement
 2, engaging
 2, engineer
@@ -5193,7 +5034,6 @@
 2, federal
 2, feed
 2, feeding
-2, felicidad_
 2, fellowship
 2, fern
 2, ferns
@@ -5275,7 +5115,6 @@
 2, geysers
 2, gibbering
 2, gime
-2, girl_
 2, girlish
 2, givin
 2, gleam
@@ -5311,8 +5150,6 @@
 2, guise
 2, gums
 2, gusty
-2, gutenberg's
-2, hadn't
 2, haired
 2, halls
 2, halt
@@ -5365,7 +5202,6 @@
 2, hopeless
 2, hoping
 2, horns
-2, horse's
 2, horseman
 2, hossback
 2, hostage
@@ -5450,7 +5286,6 @@
 2, iscariot
 2, itching
 2, ivory
-2, jackson's
 2, jailer
 2, january
 2, jawed
@@ -5461,7 +5296,6 @@
 2, jumbled
 2, juries
 2, justly
-2, kain't
 2, kate
 2, keeper
 2, killing
@@ -5474,7 +5308,6 @@
 2, knight
 2, knightly
 2, knobs
-2, lad's
 2, lair
 2, lake
 2, lamp
@@ -5486,7 +5319,6 @@
 2, lashing
 2, lasted
 2, lasts
-2, law's
 2, lawns
 2, lazy
 2, leads
@@ -5581,7 +5413,6 @@
 2, mild
 2, militiamen
 2, minds
-2, minerva's
 2, minervy
 2, mingling
 2, minor
@@ -5604,7 +5435,6 @@
 2, motion
 2, motive
 2, mounds
-2, mountaineer's
 2, mucho
 2, muddy
 2, muffled
@@ -5625,7 +5455,6 @@
 2, nestled
 2, nevertheless
 2, newly
-2, newton's
 2, noise
 2, noisily
 2, nonchalantly
@@ -5683,7 +5512,6 @@
 2, pall
 2, panel
 2, papers
-2, pappy's
 2, paralyzing
 2, pardon
 2, park
@@ -5729,6 +5557,7 @@
 2, platoons
 2, plaza
 2, pleasantly
+2, po
 2, poisoning
 2, poplar
 2, poplars
@@ -5752,7 +5581,6 @@
 2, pressure
 2, presumably
 2, prints
-2, prisoner's
 2, prisons
 2, privacy
 2, privates
@@ -5892,9 +5720,9 @@
 2, ruined
 2, rule
 2, runnin
+2, rã
 2, sad
 2, saddled
-2, sage_
 2, sailed
 2, saloons
 2, san
@@ -5930,7 +5758,6 @@
 2, sets
 2, setting
 2, seven
-2, sha'n't
 2, shade
 2, shadowed
 2, shaggy
@@ -5948,7 +5775,6 @@
 2, shock
 2, shone
 2, shooter
-2, shooter's
 2, shout
 2, showing
 2, shrank
@@ -6036,7 +5862,6 @@
 2, stare
 2, staring
 2, starting
-2, state's
 2, stationed
 2, steadiness
 2, steeper
@@ -6140,8 +5965,6 @@
 2, thanks
 2, theater
 2, theory
-2, there'll
-2, they've
 2, thinkin
 2, thinks
 2, thirteen
@@ -6159,7 +5982,6 @@
 2, tip
 2, toe
 2, toes
-2, tol'able
 2, toll
 2, tones
 2, tore
@@ -6172,7 +5994,6 @@
 2, traders
 2, tradition
 2, traditions
-2, trail_
 2, training
 2, trains
 2, traitor
@@ -6299,7 +6120,6 @@
 2, wistful
 2, withered
 2, wolf
-2, woman's
 2, wondering
 2, wood
 2, worn
@@ -6311,12 +6131,10 @@
 2, wuth
 2, wyeth
 2, yankee
-2, year's
 2, yelled
 2, yestiddy
 2, yielded
 2, youngest
-3, _americanos_
 3, absence
 3, acceptance
 3, accomplish
@@ -6460,10 +6278,8 @@
 3, contemplative
 3, contraption
 3, convert
-3, convict's
 3, coolly
 3, costs
-3, couldn't
 3, countenance
 3, countryside
 3, courts
@@ -6602,7 +6418,6 @@
 3, forgetting
 3, forks
 3, former
-3, foundation's
 3, framed
 3, freedom
 3, french
@@ -6632,7 +6447,6 @@
 3, gift
 3, glances
 3, goal
-3, god's
 3, golden
 3, gorges
 3, government
@@ -6793,7 +6607,6 @@
 3, mornin
 3, mortal
 3, mosquitoes
-3, mother's
 3, mount
 3, mountainside
 3, mumbled
@@ -6819,7 +6632,6 @@
 3, occupant
 3, occupied
 3, odor
-3, officer's
 3, onward
 3, operator
 3, orderly
@@ -6886,7 +6698,6 @@
 3, primitive
 3, print
 3, printed
-3, private's
 3, produced
 3, prominently
 3, prompt
@@ -6908,6 +6719,7 @@
 3, ranged
 3, rasping
 3, raving
+3, re
 3, reaching
 3, readable
 3, readily
@@ -7137,10 +6949,8 @@
 3, week
 3, weeks
 3, wet
-3, whar's
 3, whatsoever
 3, wheeling
-3, where's
 3, whisper
 3, wicked
 3, widderer
@@ -7160,7 +6970,6 @@
 3, write
 3, yours
 3, zane
-4, _bijuca_
 4, able
 4, accompanied
 4, acted
@@ -7221,7 +7030,6 @@
 4, bust
 4, buy
 4, capital
-4, captain's
 4, captured
 4, casual
 4, catch
@@ -7286,6 +7094,7 @@
 4, dode
 4, donate
 4, doubt
+4, dr
 4, dragged
 4, drank
 4, drinking
@@ -7322,7 +7131,6 @@
 4, extended
 4, facts
 4, farm
-4, father's
 4, feature
 4, fees
 4, fellow
@@ -7369,7 +7177,6 @@
 4, heroine
 4, higher
 4, hint
-4, his'n
 4, holder
 4, homicide
 4, hoofs
@@ -7419,11 +7226,9 @@
 4, learns
 4, legs
 4, leisure
-4, let's
 4, lexington
 4, licker
 4, lied
-4, life's
 4, lift
 4, likewise
 4, located
@@ -7475,7 +7280,6 @@
 4, occur
 4, october
 4, oncet
-4, one's
 4, organized
 4, outfit
 4, outskirts
@@ -7554,7 +7358,6 @@
 4, semi
 4, sence
 4, sentry
-4, sergeant's
 4, seventy
 4, shabby
 4, sharply
@@ -7568,7 +7371,6 @@
 4, smoothness
 4, snack
 4, softness
-4, soldier's
 4, solitary
 4, somewhat
 4, sonny
@@ -7605,7 +7407,6 @@
 4, tense
 4, terday
 4, testified
-4, they're
 4, thumb
 4, thunder
 4, thus
@@ -7652,7 +7453,6 @@
 4, weight
 4, whatever
 4, whitewashed
-4, who's
 4, whut
 4, wilder
 4, wily
@@ -7664,9 +7464,7 @@
 4, wrought
 4, yearning
 4, yohn
-4, your'n
 4, yourself
-5, _mestiza_
 5, abouts
 5, abruptly
 5, acknowledged
@@ -7720,7 +7518,6 @@
 5, clung
 5, com
 5, commonwealth
-5, commonwealth's
 5, conditions
 5, conscious
 5, consciousness
@@ -7779,7 +7576,6 @@
 5, groups
 5, grudge
 5, hanged
-5, haven't
 5, heads
 5, hearted
 5, hed
@@ -7796,7 +7592,6 @@
 5, instrument
 5, interior
 5, invited
-5, isn't
 5, jason
 5, kicked
 5, killin
@@ -7839,7 +7634,6 @@
 5, neck
 5, nerves
 5, neville
-5, newty's
 5, nightfall
 5, noiselessly
 5, noisy
@@ -7857,7 +7651,6 @@
 5, passionate
 5, pears
 5, permanent
-5, pete's
 5, phrase
 5, pile
 5, pines
@@ -7951,7 +7744,6 @@
 5, visit
 5, vivid
 5, volunteer
-5, warn't
 5, wasted
 5, watching
 5, weary
@@ -7967,7 +7759,6 @@
 5, yer
 5, yesterday
 5, yon
-5, you'll
 6, additional
 6, affair
 6, alive
@@ -7987,7 +7778,6 @@
 6, cannot
 6, capable
 6, caution
-6, cawsler's
 6, charm
 6, clamped
 6, clans
@@ -8001,7 +7791,7 @@
 6, contempt
 6, cumberland
 6, dangerous
-6, day's
+6, de
 6, declaration
 6, defeat
 6, difference
@@ -8352,7 +8142,6 @@
 7, tax
 7, tears
 7, testimony
-7, they'll
 7, threshold
 7, threw
 7, thrown
@@ -8373,7 +8162,6 @@
 7, violent
 7, vision
 7, walking
-7, wasn't
 7, wave
 7, waved
 7, whar
@@ -8382,9 +8170,6 @@
 7, wiped
 7, wished
 7, wonderful
-7, you'd
-7, you've
-8, _bosque_
 8, arrival
 8, associated
 8, attitude
@@ -8414,7 +8199,7 @@
 8, elbow
 8, enlightened
 8, escort
-8, falerin's
+8, ex
 8, farther
 8, fast
 8, fee
@@ -8424,7 +8209,6 @@
 8, frank
 8, friends
 8, friendship
-8, girl's
 8, grass
 8, hair
 8, hate
@@ -8438,15 +8222,15 @@
 8, leaves
 8, lie
 8, mad
-8, major's
-8, man's
 8, manila
 8, meet
 8, money
 8, morrow
 8, mounted
 8, movements
+8, mr
 8, novel
+8, oh
 8, palm
 8, passing
 8, person
@@ -8521,6 +8305,7 @@
 9, eagerly
 9, ebook
 9, entire
+9, es
 9, evidence
 9, excitement
 9, explanation
@@ -8610,7 +8395,6 @@
 10, cross
 10, dance
 10, darkness
-10, deacon's
 10, detachment
 10, doors
 10, early
@@ -8633,7 +8417,6 @@
 10, hats
 10, hearth
 10, hev
-10, hit's
 10, however
 10, http
 10, hurt
@@ -8680,8 +8463,6 @@
 10, superior
 10, sympathy
 10, tent
-10, thar's
-10, there's
 10, thrust
 10, tight
 10, tone
@@ -8692,9 +8473,7 @@
 10, unless
 10, wall
 10, warden
-10, what's
 10, worked
-10, you're
 11, access
 11, act
 11, aims
@@ -8825,6 +8604,7 @@
 12, yellow
 12, youth
 13, afraid
+13, am
 13, anything
 13, archive
 13, aside
@@ -8915,15 +8695,12 @@
 14, struck
 14, sudden
 14, teeth
-14, thet's
 14, thoughts
 14, walk
 14, whispered
-14, wouldn't
 15, ask
 15, below
 15, body
-15, clem's
 15, color
 15, convict
 15, copyright
@@ -8932,6 +8709,7 @@
 15, dark
 15, detail
 15, donations
+15, em
 15, empty
 15, fall
 15, fashion
@@ -8963,11 +8741,10 @@
 15, slipped
 15, sought
 15, space
-15, spooner's
 15, taking
+15, us
 15, wanted
 15, west
-15, won't
 16, bed
 16, carry
 16, church
@@ -8985,7 +8762,6 @@
 16, military
 16, mountaineers
 16, neither
-16, newt's
 16, next
 16, oath
 16, outside
@@ -9075,7 +8851,6 @@
 19, soldier
 19, soul
 19, stand
-19, that's
 19, trenches
 19, understand
 19, want
@@ -9125,7 +8900,6 @@
 21, strong
 21, together
 22, broken
-22, can't
 22, creek
 22, gazing
 22, paused
@@ -9137,7 +8911,6 @@
 22, walked
 22, walls
 22, woman
-23, ain't
 23, bore
 23, clem
 23, faces
@@ -9155,11 +8928,11 @@
 23, sir
 23, streets
 23, wore
-24, boy's
 24, call
 24, chance
 24, college
 24, demanded
+24, ef
 24, foot
 24, human
 24, knows
@@ -9181,7 +8954,6 @@
 25, school
 25, several
 25, sun
-26, _the
 26, added
 26, bluegrass
 26, crowd
@@ -9224,7 +8996,6 @@
 29, word
 29, years
 30, dead
-30, didn't
 30, drew
 30, kin
 30, mother
@@ -9348,7 +9119,6 @@
 50, set
 51, against
 51, both
-51, don't
 51, far
 51, lips
 51, story
@@ -9364,6 +9134,7 @@
 54, mountain
 54, red
 55, front
+56, tm
 57, forward
 57, last
 57, sat
@@ -9386,11 +9157,11 @@
 62, still
 63, without
 64, again
-64, hain't
 64, thet
 64, town
 65, lay
 65, rose
+66, go
 66, such
 67, first
 67, just
@@ -9405,6 +9176,7 @@
 71, made
 72, know
 72, place
+72, we
 73, between
 74, moment
 74, until
@@ -9433,6 +9205,7 @@
 90, little
 91, young
 92, than
+94, my
 95, said
 96, yet
 98, though
@@ -9448,6 +9221,7 @@
 106, house
 107, about
 108, hand
+110, do
 110, through
 114, went
 115, life
@@ -9459,6 +9233,7 @@
 124, did
 131, face
 132, stood
+134, me
 139, more
 146, where
 147, down
@@ -9466,13 +9241,18 @@
 151, could
 151, now
 152, like
+154, if
 155, only
 167, eyes
 168, came
+168, so
 168, ter
+170, ye
 173, then
+173, up
 177, them
 190, its
+190, or
 191, all
 194, men
 198, have
@@ -9482,30 +9262,43 @@
 221, who
 223, man
 223, when
+226, is
 228, falkins
 244, one
 247, would
 253, their
 253, there
+256, no
 258, into
 263, been
 274, this
+296, be
+309, by
 314, newt
 324, were
 337, not
 355, him
 356, which
+365, an
 375, they
 383, from
 396, you
 407, she
 444, her
+504, on
 506, but
+519, at
 526, for
+593, it
+651, as
 774, with
 883, that
 972, had
 1064, was
 1311, his
+1319, in
+1434, he
+1755, to
+2656, of
 2961, and
 5525, the

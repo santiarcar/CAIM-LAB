@@ -1,7 +1,3 @@
-1, _possession_
-1, _prairie_
-1, _senior_
-1, _touch
 1, abandoned
 1, abelard
 1, aberration
@@ -65,6 +61,7 @@
 1, aide
 1, aim
 1, airs
+1, ak
 1, akin
 1, alas
 1, albert
@@ -182,7 +179,6 @@
 1, asthma
 1, astutest
 1, ate
-1, atheist's
 1, athletes
 1, atmosphere
 1, atrocious
@@ -216,7 +212,6 @@
 1, bandage
 1, bandana
 1, banishment
-1, banker's
 1, bankers
 1, banquier
 1, baptiste
@@ -269,7 +264,6 @@
 1, benevolent
 1, bequeathed
 1, bereft
-1, berri's
 1, beseems
 1, beside
 1, bestow
@@ -277,7 +271,6 @@
 1, betraying
 1, better
 1, betty
-1, bianchon's
 1, bible
 1, bifrons
 1, bill
@@ -328,7 +321,6 @@
 1, breteche
 1, brethren
 1, brewing
-1, bride's
 1, briefly
 1, brightly
 1, brilliancy
@@ -345,17 +337,14 @@
 1, bushel
 1, bust
 1, bustling
-1, butcher's
 1, button
 1, buying
 1, cabinet
 1, cabriolet
 1, cadi
-1, caesar's
 1, calculate
 1, calculated
 1, calculations
-1, calf's
 1, calling
 1, calm
 1, calumnious
@@ -363,7 +352,6 @@
 1, camlet
 1, camp
 1, camps
-1, can't
 1, candle
 1, candles
 1, candlesticks
@@ -450,7 +438,6 @@
 1, clearest
 1, clearly
 1, cleverly
-1, client's
 1, climate
 1, climbed
 1, clinging
@@ -573,7 +560,6 @@
 1, copper
 1, coquette
 1, core
-1, cornelia's
 1, corporation
 1, correct
 1, correctly
@@ -625,7 +611,6 @@
 1, crying
 1, crystal
 1, cuirassiers
-1, cuortesan's
 1, cups
 1, cure
 1, curiosities
@@ -719,6 +704,7 @@
 1, devoting
 1, devour
 1, devout
+1, di
 1, dialects
 1, diane
 1, diary
@@ -785,9 +771,7 @@
 1, divination
 1, divinely
 1, document
-1, doesn't
 1, dog
-1, don't
 1, donation
 1, donors
 1, doors
@@ -829,7 +813,6 @@
 1, earn
 1, ears
 1, earth
-1, earth's
 1, eastern
 1, ecco
 1, economy
@@ -904,6 +887,7 @@
 1, esteem
 1, estimated
 1, estimating
+1, et
 1, etc
 1, etext
 1, eugenie
@@ -1126,7 +1110,6 @@
 1, gigantic
 1, gilded
 1, gilding
-1, girl's
 1, glad
 1, gleam
 1, gleaming
@@ -1151,7 +1134,6 @@
 1, grande
 1, grandet
 1, grandeur
-1, grandfather's
 1, grandlieu
 1, grant
 1, granting
@@ -1185,7 +1167,6 @@
 1, guilty
 1, gules
 1, gulf
-1, gutenberg's
 1, gutter
 1, habitually
 1, hailed
@@ -1270,6 +1251,7 @@
 1, ignoble
 1, ignorant
 1, ignore
+1, ii
 1, iii
 1, illness
 1, imagination
@@ -1406,6 +1388,7 @@
 1, isle
 1, italian
 1, items
+1, ix
 1, jacket
 1, jackets
 1, january
@@ -1454,7 +1437,6 @@
 1, ladder
 1, ladies
 1, lads
-1, lady's
 1, lake
 1, lamented
 1, lancet
@@ -1470,10 +1452,7 @@
 1, laubardemont
 1, laudable
 1, laughs
-1, laurence's
-1, lavienne's
 1, lavished
-1, law's
 1, layer
 1, leaned
 1, lease
@@ -1545,7 +1524,6 @@
 1, mail
 1, main
 1, majestic
-1, majesty's
 1, majority
 1, maladministration
 1, malevolence
@@ -1571,7 +1549,6 @@
 1, marne
 1, marone
 1, marsay
-1, marshal's
 1, marvelous
 1, marville
 1, masonry
@@ -1599,13 +1576,11 @@
 1, melan
 1, melancholy
 1, melmoth
-1, men's
 1, mentioned
 1, merchantibility
 1, mercy
 1, merged
 1, merits
-1, mesmer's
 1, method
 1, methods
 1, michonneaus
@@ -1625,6 +1600,7 @@
 1, mississippi
 1, mistake
 1, mistresses
+1, mm
 1, mob
 1, mobile
 1, mockery
@@ -1646,7 +1622,6 @@
 1, monstrosities
 1, monstrosity
 1, monstrous
-1, montluc's
 1, montriveau
 1, monuments
 1, morocco
@@ -1708,7 +1683,6 @@
 1, nonsense
 1, north
 1, northwest
-1, not_
 1, notes
 1, nothings
 1, notices
@@ -1769,7 +1743,6 @@
 1, overwhelmed
 1, owes
 1, owing
-1, owner's
 1, pace
 1, pacing
 1, packet
@@ -1832,7 +1805,6 @@
 1, peculiarities
 1, peculiarity
 1, peer
-1, peer's
 1, peers
 1, pelted
 1, penal
@@ -1842,7 +1814,6 @@
 1, pens
 1, pension
 1, penthouse
-1, people's
 1, perceived
 1, perceives
 1, perceiving
@@ -1881,6 +1852,7 @@
 1, pettifogging
 1, petty
 1, petulance
+1, pg
 1, pglaf
 1, phaeton
 1, philosophy
@@ -1970,7 +1942,6 @@
 1, presenting
 1, presently
 1, presided
-1, president's
 1, presidents
 1, pressed
 1, pretence
@@ -2052,7 +2023,6 @@
 1, qualifying
 1, quality
 1, quarreling
-1, quarter's
 1, quarterly
 1, quartier
 1, quietly
@@ -2216,7 +2186,6 @@
 1, sacrificed
 1, sacrifices
 1, sad
-1, saint's
 1, salaried
 1, salient
 1, saltire
@@ -2281,7 +2250,6 @@
 1, serizy
 1, sermon
 1, serpente
-1, servant's
 1, servitude
 1, seventeen
 1, sex
@@ -2357,7 +2325,6 @@
 1, slowness
 1, smell
 1, smiles
-1, smith's
 1, smoke
 1, smoky
 1, smuts
@@ -2425,7 +2392,6 @@
 1, starchless
 1, stared
 1, starting
-1, state's
 1, statesmen
 1, stationers
 1, statistical
@@ -2660,7 +2626,6 @@
 1, unblemished
 1, unbridled
 1, unceremoniously
-1, uncle's
 1, uncomfortable
 1, uncommonly
 1, uncommunicative
@@ -2714,6 +2679,7 @@
 1, usually
 1, usurious
 1, usurp
+1, ut
 1, utrecht
 1, uttered
 1, vacancies
@@ -2741,7 +2707,6 @@
 1, vexation
 1, vicomtesse
 1, victim
-1, victim's
 1, viewed
 1, viewing
 1, villeparisis
@@ -2761,7 +2726,6 @@
 1, vitality
 1, vitiated
 1, void
-1, voltaire's
 1, volumes
 1, volunteer
 1, votos
@@ -2817,7 +2781,6 @@
 1, wiliness
 1, willingly
 1, wing
-1, winter's
 1, wipe
 1, wipes
 1, wiry
@@ -2825,7 +2788,6 @@
 1, witty
 1, wives
 1, woes
-1, wolf's
 1, won
 1, wonder
 1, woodwork
@@ -3088,6 +3050,7 @@
 2, dominant
 2, doubly
 2, doubtful
+2, dr
 2, drawn
 2, draws
 2, dressing
@@ -3122,6 +3085,7 @@
 2, estate
 2, eugene
 2, eve
+2, ex
 2, examination
 2, example
 2, exclusively
@@ -3228,6 +3192,7 @@
 2, hideous
 2, higher
 2, hit
+2, hm
 2, holding
 2, hole
 2, holes
@@ -3278,7 +3243,6 @@
 2, jacques
 2, jealousies
 2, jeanne
-2, jeanrenaud's
 2, john
 2, kingdom
 2, knitted
@@ -3319,15 +3283,12 @@
 2, lower
 2, lowest
 2, luck
-2, magistrate's
 2, maintaining
 2, maison
 2, maitre
 2, major
 2, malady
 2, marks
-2, marquise's
-2, master's
 2, matched
 2, materials
 2, maternal
@@ -3379,6 +3340,7 @@
 2, obtaining
 2, occasion
 2, offered
+2, oh
 2, opinions
 2, opportunities
 2, opposition
@@ -3418,7 +3380,6 @@
 2, political
 2, pons
 2, porter
-2, porter's
 2, portrait
 2, portress
 2, possessions
@@ -3466,6 +3427,7 @@
 2, rag
 2, rage
 2, ran
+2, re
 2, reaching
 2, readable
 2, recognize
@@ -3692,7 +3654,6 @@
 2, wrapped
 2, wretches
 2, xiii
-2, year's
 2, youthful
 3, abbe
 3, absence
@@ -3839,7 +3800,6 @@
 3, fall
 3, fancies
 3, fascination
-3, father's
 3, feels
 3, filled
 3, finding
@@ -3849,7 +3809,6 @@
 3, foolish
 3, forced
 3, forty
-3, foundation's
 3, fully
 3, gaze
 3, gilt
@@ -3880,7 +3839,6 @@
 3, judged
 3, judicial
 3, keen
-3, king's
 3, knees
 3, knowledge
 3, lack
@@ -3924,12 +3882,10 @@
 3, monomania
 3, moral
 3, morality
-3, mother's
 3, muddy
 3, mystery
 3, naturally
 3, neck
-3, nephew's
 3, nouvion
 3, nurse
 3, observer
@@ -4074,7 +4030,6 @@
 3, ways
 3, wheels
 3, wholesome
-3, wife's
 3, withdrew
 3, wretched
 3, wrinkled
@@ -4084,13 +4039,13 @@
 4, active
 4, additional
 4, agreed
+4, ah
 4, allowed
 4, alone
 4, amused
 4, appeared
 4, aspect
 4, attached
-4, bachelor's
 4, belonged
 4, benches
 4, bent
@@ -4311,7 +4266,6 @@
 4, whenever
 4, whether
 4, witness
-4, woman's
 4, wood
 4, wooden
 4, worthy
@@ -4340,7 +4294,6 @@
 5, certainly
 5, charles
 5, chauvry
-5, children's
 5, clement
 5, close
 5, complete
@@ -4385,9 +4338,9 @@
 5, highest
 5, hope
 5, hung
-5, husband's
 5, illusions
 5, incapable
+5, iv
 5, jean
 5, keeper
 5, kindness
@@ -4485,7 +4438,6 @@
 6, comte
 6, condition
 6, conversation
-6, courtesan's
 6, covered
 6, days
 6, distribution
@@ -4506,10 +4458,8 @@
 6, individual
 6, instead
 6, iron
-6, judge's
 6, keeping
 6, landlord
-6, lawyer's
 6, leave
 6, married
 6, marry
@@ -4596,11 +4546,9 @@
 7, light
 7, madman
 7, makes
-7, man's
 7, manners
 7, near
 7, neighborhood
-7, popinot's
 7, pride
 7, prove
 7, provide
@@ -4795,6 +4743,7 @@
 11, boys
 11, brother
 11, clear
+11, du
 11, fact
 11, fellow
 11, forth
@@ -4871,6 +4820,7 @@
 14, garden
 14, gave
 14, head
+14, la
 14, lady
 14, literary
 14, love
@@ -4918,12 +4868,14 @@
 16, petition
 16, replied
 16, think
+16, us
 16, word
 16, young
 17, brought
 17, doubt
 17, even
 17, heart
+17, le
 17, live
 17, looked
 17, persons
@@ -4980,10 +4932,12 @@
 24, rastignac
 24, set
 24, went
+25, am
 25, much
 25, never
 25, terms
 25, use
+26, go
 26, money
 26, too
 26, years
@@ -5030,6 +4984,7 @@
 38, room
 38, very
 40, only
+40, up
 41, about
 42, court
 42, most
@@ -5048,7 +5003,10 @@
 55, old
 56, like
 56, some
+56, tm
+56, we
 58, can
+58, de
 58, without
 59, monsieur
 59, what
@@ -5060,12 +5018,17 @@
 66, work
 67, two
 67, when
+68, do
 71, there
 72, has
 72, would
 73, one
 73, them
+76, no
 83, marquis
+84, if
+84, me
+84, so
 86, any
 86, gutenberg
 87, project
@@ -5081,21 +5044,35 @@
 111, all
 111, from
 112, but
+119, an
 122, are
 130, said
 130, who
 141, she
+149, or
+152, be
+158, my
+180, it
 181, not
 186, have
 191, her
 195, had
+205, at
 206, this
 207, which
+209, on
 220, for
+243, by
 253, with
 257, was
+258, he
+260, is
+272, as
 322, that
 330, you
 386, his
+623, in
 732, and
+925, to
+1190, of
 2153, the

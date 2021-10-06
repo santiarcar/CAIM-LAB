@@ -43,7 +43,9 @@
 1, ahem
 1, ahoo
 1, ahuwora
+1, ai
 1, aihai
+1, ak
 1, alala
 1, alcove
 1, aleut
@@ -64,7 +66,6 @@
 1, amused
 1, anachronism
 1, angle
-1, animal's
 1, ankle
 1, annas
 1, annoyed
@@ -117,7 +118,6 @@
 1, awoke
 1, babbling
 1, babes
-1, baby's
 1, badger
 1, baked
 1, balances
@@ -128,7 +128,6 @@
 1, banana
 1, banging
 1, bank
-1, bantam's
 1, bap
 1, bapree
 1, barber
@@ -183,7 +182,6 @@
 1, betrayed
 1, betters
 1, bewilders
-1, billy's
 1, binary
 1, birchi
 1, birth
@@ -229,7 +227,6 @@
 1, bothering
 1, bough
 1, bounds
-1, bouvet's
 1, box
 1, braced
 1, brained
@@ -253,7 +250,6 @@
 1, brings
 1, bristles
 1, brood
-1, brother's
 1, browed
 1, bruise
 1, brushed
@@ -263,10 +259,8 @@
 1, bubbling
 1, bucked
 1, bucks
-1, buffalo's
 1, buildings
 1, bulged
-1, bull's
 1, bullied
 1, bully
 1, bundled
@@ -393,7 +387,6 @@
 1, compilation
 1, complete
 1, compliment
-1, compliment's
 1, composedly
 1, compressed
 1, compromised
@@ -474,7 +467,6 @@
 1, cuffed
 1, cunliffe
 1, cup
-1, cupid's
 1, cups
 1, curb
 1, cure
@@ -598,7 +590,6 @@
 1, dressing
 1, drifted
 1, drinking
-1, driver's
 1, drizzle
 1, dropping
 1, drought
@@ -618,7 +609,6 @@
 1, earliest
 1, earnestly
 1, earrings
-1, earth's
 1, earthen
 1, earthenware
 1, easily
@@ -657,6 +647,7 @@
 1, epilepsy
 1, ere
 1, errors
+1, es
 1, escaped
 1, establishment
 1, examining
@@ -699,7 +690,6 @@
 1, fans
 1, fantastic
 1, fare
-1, farrier's
 1, farthest
 1, fascination
 1, fasted
@@ -814,7 +804,6 @@
 1, gap
 1, gather
 1, gbnewby
-1, general's
 1, gentlest
 1, georgia
 1, giant
@@ -831,7 +820,6 @@
 1, glowing
 1, gnawed
 1, goals
-1, goat's
 1, goblin
 1, goblins
 1, goer
@@ -906,7 +894,6 @@
 1, hapur
 1, harder
 1, hardest
-1, harm's
 1, harmless
 1, harnessed
 1, harnesses
@@ -934,7 +921,6 @@
 1, hercules
 1, herded
 1, herdsboy
-1, here's
 1, hero
 1, heroes
 1, heya
@@ -950,6 +936,7 @@
 1, hits
 1, hive
 1, hives
+1, hm
 1, hmph
 1, hoarse
 1, hobbled
@@ -977,7 +964,6 @@
 1, horror
 1, hotfoot
 1, housekeeping
-1, how's
 1, howdah
 1, howling
 1, howlings
@@ -990,7 +976,6 @@
 1, humbly
 1, huqas
 1, hurrah
-1, husbandman's
 1, husky
 1, hussars
 1, hustle
@@ -1039,7 +1024,6 @@
 1, inshore
 1, insisted
 1, inspection
-1, instant's
 1, instincts
 1, insubordinate
 1, intended
@@ -1089,7 +1073,6 @@
 1, kicks
 1, kid
 1, kiss
-1, kite's
 1, kittiwakes
 1, knee
 1, kneeled
@@ -1141,7 +1124,6 @@
 1, lichens
 1, licker
 1, lied
-1, life's
 1, lighted
 1, lightly
 1, lilt
@@ -1205,7 +1187,6 @@
 1, mass
 1, mast
 1, masterless
-1, matkah's
 1, matted
 1, mauled
 1, maxims
@@ -1227,6 +1208,7 @@
 1, messy
 1, method
 1, methods
+1, mf
 1, milky
 1, millet
 1, mired
@@ -1262,7 +1244,6 @@
 1, mowglis
 1, muffled
 1, mul
-1, mule's
 1, mumbled
 1, mumbling
 1, murderer
@@ -1278,7 +1259,6 @@
 1, nags
 1, named
 1, narrowly
-1, nathoo's
 1, national
 1, natives
 1, natural
@@ -1289,7 +1269,6 @@
 1, necessarily
 1, necked
 1, necklace
-1, needn't
 1, negligence
 1, nerve
 1, nerves
@@ -1365,6 +1344,7 @@
 1, overlook
 1, overlooked
 1, overtaking
+1, ow
 1, owed
 1, owest
 1, owl
@@ -1379,7 +1359,6 @@
 1, pan
 1, pandemonium
 1, pane
-1, panther's
 1, paper
 1, paperwork
 1, paraded
@@ -1416,7 +1395,6 @@
 1, pegged
 1, pegs
 1, pension
-1, people's
 1, peoples
 1, pepper
 1, perfect
@@ -1427,11 +1405,11 @@
 1, perpendicular
 1, pershad
 1, pewter
+1, pg
 1, pglaf
 1, phosphorescent
 1, pickers
 1, picture
-1, pig's
 1, pigs
 1, pilly
 1, pimpled
@@ -1475,14 +1453,12 @@
 1, poltoos
 1, poppy
 1, population
-1, porcupine's
 1, porpoise
 1, porpoises
 1, porthole
 1, possession
 1, possibility
 1, potter
-1, potter's
 1, pour
 1, powder
 1, powers
@@ -1555,7 +1531,6 @@
 1, rammers
 1, ranged
 1, ranges
-1, rann's
 1, rapids
 1, ration
 1, rattle
@@ -1713,7 +1688,6 @@
 1, scumfish
 1, seated
 1, seaward
-1, second's
 1, seconds
 1, secrets
 1, sections
@@ -1743,8 +1717,6 @@
 1, sharpen
 1, sharpened
 1, shattered
-1, she'd
-1, she'll
 1, sheath
 1, sheering
 1, sheltered
@@ -1759,7 +1731,6 @@
 1, shotgun
 1, shouldered
 1, shouldering
-1, shouldn't
 1, shovel
 1, shows
 1, shriek
@@ -1888,7 +1859,6 @@
 1, stare
 1, starting
 1, starvation
-1, state's
 1, statements
 1, station
 1, stays
@@ -1971,7 +1941,6 @@
 1, sympathized
 1, synonymous
 1, tackle
-1, tail's
 1, tailor
 1, talon
 1, talons
@@ -1991,13 +1960,11 @@
 1, temples
 1, tended
 1, tending
-1, tent's
 1, terraces
 1, terribly
 1, terrier
 1, tethered
 1, theodore
-1, they'd
 1, thickness
 1, thievish
 1, thinner
@@ -2020,7 +1987,6 @@
 1, tickles
 1, tickling
 1, tide
-1, tide's
 1, tie
 1, tigers
 1, tight
@@ -2124,6 +2090,7 @@
 1, useless
 1, usual
 1, usually
+1, ut
 1, uttered
 1, valleys
 1, variety
@@ -2138,10 +2105,8 @@
 1, viewing
 1, vile
 1, villager
-1, villager's
 1, violates
 1, virus
-1, vitch's
 1, void
 1, volleys
 1, waddled
@@ -2152,7 +2117,6 @@
 1, wahooa
 1, waist
 1, wallowing
-1, walrus's
 1, waltz
 1, wandered
 1, wandering
@@ -2161,7 +2125,6 @@
 1, washes
 1, wasp
 1, watchman
-1, water's
 1, watered
 1, watery
 1, wavy
@@ -2195,8 +2158,6 @@
 1, whitish
 1, whittled
 1, whizzed
-1, who'd
-1, who's
 1, whoo
 1, whoop
 1, wicker
@@ -2205,14 +2166,12 @@
 1, wildly
 1, willing
 1, wills
-1, wind's
 1, windings
 1, windows
 1, wine
 1, winked
 1, winkie
 1, winking
-1, winky's
 1, winner
 1, wipe
 1, wishing
@@ -2224,7 +2183,6 @@
 1, woodcutters
 1, woods
 1, working
-1, world's
 1, worshiped
 1, wow
 1, wrangling
@@ -2245,7 +2203,6 @@
 1, yelping
 1, yesterday
 1, yoked
-1, you'd
 1, yourself
 1, yourselves
 1, youth
@@ -2259,7 +2216,6 @@
 2, admired
 2, affairs
 2, afoot
-2, akela's
 2, alarmed
 2, albatross
 2, allow
@@ -2280,6 +2236,7 @@
 2, attend
 2, available
 2, avoid
+2, ay
 2, bachelors
 2, backing
 2, bade
@@ -2292,7 +2249,6 @@
 2, barked
 2, bars
 2, based
-2, bat's
 2, bats
 2, bay
 2, bears
@@ -2377,7 +2333,6 @@
 2, clucking
 2, clumsy
 2, clung
-2, cobra's
 2, cock
 2, cod
 2, coil
@@ -2418,9 +2373,7 @@
 2, crossing
 2, crowds
 2, crushing
-2, cub's
 2, cultivated
-2, cunliffe's
 2, cunningly
 2, curiosity
 2, curiously
@@ -2464,6 +2417,7 @@
 2, dotted
 2, doubled
 2, doubt
+2, dr
 2, dragging
 2, drank
 2, drawing
@@ -2481,6 +2435,7 @@
 2, elders
 2, eldest
 2, electronically
+2, em
 2, employees
 2, enjoying
 2, enter
@@ -2551,7 +2506,6 @@
 2, glitter
 2, glossy
 2, golden
-2, gough's
 2, grain
 2, grateful
 2, gravely
@@ -2566,7 +2520,7 @@
 2, guddee
 2, guess
 2, gull
-2, hadn't
+2, ha
 2, haired
 2, hairy
 2, hark
@@ -2580,7 +2534,6 @@
 2, heaps
 2, heaved
 2, heavily
-2, hen's
 2, herb
 2, higher
 2, history
@@ -2598,7 +2551,6 @@
 2, hunger
 2, hunts
 2, hush
-2, hutchinson's
 2, hyaena
 2, identify
 2, idiots
@@ -2670,7 +2622,6 @@
 2, mael
 2, mahout
 2, mahouts
-2, majesty's
 2, major
 2, married
 2, marry
@@ -2681,7 +2632,6 @@
 2, melons
 2, memories
 2, memory
-2, men's
 2, mercy
 2, mere
 2, message
@@ -2700,7 +2650,6 @@
 2, muscles
 2, music
 2, musk
-2, nagaina's
 2, nap
 2, narrow
 2, nasty
@@ -2720,7 +2669,6 @@
 2, obtaining
 2, odds
 2, olds
-2, other's
 2, otter
 2, ours
 2, overhead
@@ -2742,7 +2690,6 @@
 2, patch
 2, patches
 2, paul
-2, paul's
 2, pebbles
 2, pens
 2, permanent
@@ -2786,7 +2733,6 @@
 2, purred
 2, push
 2, putting
-2, python's
 2, quarry
 2, queens
 2, question
@@ -2799,6 +2745,7 @@
 2, ranks
 2, rattled
 2, ravines
+2, re
 2, reaching
 2, readable
 2, receipt
@@ -2866,8 +2813,6 @@
 2, several
 2, sew
 2, shameless
-2, shan't
-2, shark's
 2, sharp
 2, sheet
 2, shells
@@ -2895,7 +2840,6 @@
 2, softness
 2, solicit
 2, somalo
-2, son's
 2, soothing
 2, sorcerer
 2, sorrow
@@ -2960,8 +2904,6 @@
 2, tend
 2, tens
 2, thatch
-2, they'll
-2, they're
 2, thicker
 2, thickets
 2, thumping
@@ -2974,7 +2916,6 @@
 2, tock
 2, toil
 2, tomorrow
-2, toomai's
 2, torch
 2, tore
 2, tossing
@@ -2995,6 +2936,7 @@
 2, tripped
 2, trips
 2, trombone
+2, ts
 2, tucked
 2, tunk
 2, tusk
@@ -3031,12 +2973,10 @@
 2, weaving
 2, weed
 2, weeds
-2, weren't
 2, whatever
 2, whatsoever
 2, wheeled
 2, wheeling
-2, where's
 2, whimpered
 2, whimpering
 2, whine
@@ -3074,7 +3014,6 @@
 2, younger
 2, youngsters
 2, yours
-2, zaharrof's
 3, accident
 3, active
 3, advantage
@@ -3110,7 +3049,6 @@
 3, boot
 3, bottle
 3, boulders
-3, boy's
 3, brat
 3, brave
 3, breakers
@@ -3145,10 +3083,8 @@
 3, concerning
 3, costs
 3, cotton
-3, couldn't
 3, counted
 3, couple
-3, cow's
 3, cowards
 3, cries
 3, cross
@@ -3168,7 +3104,6 @@
 3, disturbed
 3, ditch
 3, doe
-3, doesn't
 3, dong
 3, double
 3, drag
@@ -3197,7 +3132,6 @@
 3, fancy
 3, farewell
 3, fate
-3, father's
 3, fathoms
 3, favor
 3, feared
@@ -3221,7 +3155,6 @@
 3, folly
 3, forbidden
 3, fore
-3, foundation's
 3, frighten
 3, frowned
 3, fruit
@@ -3245,13 +3178,13 @@
 3, hate
 3, heel
 3, hence
+3, hi
 3, hiss
 3, hissing
 3, holding
 3, hollow
 3, hoofs
 3, horn
-3, horse's
 3, however
 3, human
 3, hurried
@@ -3262,7 +3195,6 @@
 3, inherited
 3, itself
 3, journey
-3, kaa's
 3, keddahs
 3, kick
 3, knock
@@ -3280,7 +3212,6 @@
 3, lightning
 3, limitation
 3, links
-3, lion's
 3, lip
 3, listening
 3, lock
@@ -3294,20 +3225,16 @@
 3, mao
 3, matting
 3, mayest
-3, messua's
 3, midday
 3, million
 3, minds
 3, mob
-3, mongoose's
 3, morrow
 3, moss
 3, mouths
-3, mustn't
 3, names
 3, nathoo
 3, nearest
-3, night's
 3, noises
 3, nonsense
 3, obtain
@@ -3343,7 +3270,6 @@
 3, produced
 3, property
 3, proudly
-3, pudmini's
 3, pulling
 3, punishment
 3, purr
@@ -3352,7 +3278,6 @@
 3, quickness
 3, raced
 3, rags
-3, rama's
 3, raw
 3, reached
 3, rear
@@ -3384,7 +3309,6 @@
 3, school
 3, screaming
 3, scuffling
-3, seal's
 3, search
 3, sentence
 3, sergeant
@@ -3417,7 +3341,6 @@
 3, slivers
 3, sneezed
 3, solemnly
-3, somebody's
 3, songs
 3, sorcery
 3, speaking
@@ -3444,6 +3367,7 @@
 3, swayed
 3, sweeping
 3, swell
+3, ta
 3, takes
 3, teaching
 3, tearing
@@ -3483,7 +3407,6 @@
 3, wallows
 3, warranties
 3, wash
-3, wasn't
 3, wast
 3, waste
 3, week
@@ -3498,7 +3421,6 @@
 3, wisdom
 3, wisest
 3, wondering
-3, woodcutter's
 3, wool
 3, worked
 3, wounds
@@ -3509,13 +3431,11 @@
 4, advice
 4, age
 4, ape
-4, aren't
 4, arm
 4, arre
 4, aside
 4, australia
 4, backward
-4, baloo's
 4, bands
 4, bare
 4, bathroom
@@ -3537,7 +3457,6 @@
 4, catchers
 4, catching
 4, chains
-4, child's
 4, clam
 4, cloth
 4, club
@@ -3557,13 +3476,10 @@
 4, dancing
 4, dangerous
 4, dare
-4, dick's
-4, didn't
 4, dirty
 4, displaying
 4, distance
 4, distributed
-4, dog's
 4, donate
 4, donkey
 4, door
@@ -3578,7 +3494,6 @@
 4, eater
 4, eats
 4, editions
-4, elephant's
 4, ended
 4, ends
 4, enemy
@@ -3636,7 +3551,6 @@
 4, large
 4, laugh
 4, leadership
-4, let's
 4, level
 4, liked
 4, lion
@@ -3716,6 +3630,7 @@
 4, sport
 4, spun
 4, squadron
+4, st
 4, stables
 4, stars
 4, started
@@ -3746,8 +3661,6 @@
 4, thrust
 4, thumped
 4, thunder
-4, tiger's
-4, tikki's
 4, today
 4, tooth
 4, touched
@@ -3776,11 +3689,9 @@
 4, wing
 4, woke
 4, woman
-4, wouldn't
 4, wriggle
 4, written
 4, yearling
-4, you've
 4, youngster
 5, afterward
 5, alive
@@ -3811,7 +3722,6 @@
 5, count
 5, creature
 5, dared
-5, day's
 5, dew
 5, didst
 5, died
@@ -3840,10 +3750,8 @@
 5, horns
 5, ikki
 5, inland
-5, isn't
 5, jackal
 5, jar
-5, kotick's
 5, land
 5, leaped
 5, leaping
@@ -3926,6 +3834,7 @@
 5, tuft
 5, tumbled
 5, twigs
+5, un
 5, upper
 5, watching
 5, weave
@@ -3940,6 +3849,7 @@
 6, able
 6, accepted
 6, afternoon
+6, ah
 6, aloud
 6, already
 6, anxious
@@ -4001,7 +3911,6 @@
 6, hunted
 6, kicked
 6, kicking
-6, king's
 6, knees
 6, language
 6, late
@@ -4021,7 +3930,6 @@
 6, minutes
 6, mist
 6, month
-6, mother's
 6, muddy
 6, necks
 6, neither
@@ -4086,8 +3994,6 @@
 6, web
 6, weeks
 6, weight
-6, what's
-6, won't
 6, worm
 6, worse
 6, worst
@@ -4165,7 +4071,6 @@
 7, ropes
 7, runs
 7, rustle
-7, sahib's
 7, savage
 7, section
 7, seemed
@@ -4212,7 +4117,6 @@
 8, climbed
 8, cloud
 8, cry
-8, darzee's
 8, dick
 8, domain
 8, drink
@@ -4226,9 +4130,9 @@
 8, grow
 8, hai
 8, harm
-8, haven't
 8, heels
 8, hit
+8, ho
 8, hours
 8, http
 8, imagine
@@ -4273,7 +4177,6 @@
 8, swam
 8, swiftly
 8, teach
-8, there's
 8, thousand
 8, throat
 8, throw
@@ -4286,7 +4189,6 @@
 8, walrus
 8, whom
 8, wood
-8, you'll
 9, account
 9, agree
 9, around
@@ -4342,7 +4244,6 @@
 9, sitting
 9, sleepy
 9, slowly
-9, snake's
 9, sometimes
 9, sort
 9, spoken
@@ -4360,7 +4261,6 @@
 9, ways
 9, wind
 9, worth
-9, you're
 10, access
 10, asleep
 10, bath
@@ -4416,11 +4316,9 @@
 10, walked
 10, whole
 10, wilt
-10, wolf's
 11, answered
 11, appa
 11, baby
-11, bagheera's
 11, birds
 11, body
 11, both
@@ -4599,15 +4497,12 @@
 15, hast
 15, hind
 15, indeed
-15, khan's
 15, leave
 15, live
 15, lying
 15, matkah
 15, morning
-15, mowgli's
 15, mud
-15, nag's
 15, none
 15, nose
 15, ready
@@ -4621,7 +4516,6 @@
 16, below
 16, broken
 16, brown
-16, can't
 16, cannot
 16, care
 16, child
@@ -4662,7 +4556,6 @@
 17, shoulders
 17, sit
 17, sure
-17, that's
 17, twice
 18, agreement
 18, beast
@@ -4779,7 +4672,6 @@
 27, hundred
 27, speak
 27, take
-27, teddy's
 28, another
 28, buffaloes
 28, dance
@@ -4816,7 +4708,6 @@
 32, killed
 32, left
 32, log
-32, man's
 32, ran
 32, say
 32, tell
@@ -4839,6 +4730,7 @@
 34, tiger
 35, gray
 35, neck
+35, oh
 35, sat
 35, troop
 36, across
@@ -4870,7 +4762,6 @@
 41, let
 41, monkeys
 42, behind
-42, don't
 42, end
 42, ever
 42, fight
@@ -4900,11 +4791,13 @@
 51, looked
 53, seals
 53, white
+53, ye
 53, young
 54, day
 54, kill
 55, last
 55, some
+56, tm
 57, father
 57, kaa
 57, still
@@ -4930,6 +4823,7 @@
 64, under
 65, made
 65, may
+66, us
 67, great
 67, here
 67, himself
@@ -4946,6 +4840,8 @@
 72, till
 73, about
 73, kotick
+74, am
+76, an
 76, good
 76, long
 76, thee
@@ -4992,8 +4888,11 @@
 112, where
 116, never
 118, bagheera
+120, go
 123, back
 126, could
+130, do
+131, so
 134, into
 137, head
 139, very
@@ -5002,7 +4901,10 @@
 145, man
 146, what
 147, jungle
+148, if
 150, their
+153, no
+160, me
 162, would
 166, were
 168, from
@@ -5011,25 +4913,40 @@
 176, one
 181, will
 187, down
+187, we
+188, my
 188, there
 190, are
+192, by
+201, be
 205, mowgli
 207, out
 212, when
 231, little
 235, have
+246, or
+268, up
 284, had
 304, not
+307, at
 329, you
 337, but
 347, all
+361, on
 367, him
 376, they
+389, it
+421, as
 422, with
 430, said
+458, is
 465, for
 520, was
 648, his
 659, that
+735, in
+1060, he
+1261, to
+1318, of
 2317, and
 3637, the

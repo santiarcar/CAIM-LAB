@@ -14,9 +14,9 @@ cwd = os.getcwd()
 files_zipf = ['news', 'novels']
 
 
-def func_zipf(x, b, c):
+def func_zipf(x, a, b, c):
     try:
-        return c /((x + b)**2.345)
+        return c /((x + b)**a)
     except:
         return 0
 
@@ -43,13 +43,26 @@ def sq_root(x, a, b, c):
 
 def zipf_checker(files: list):
     for f in files:
+        nc = noise_cleaner(f)
+        nc.clean_noise()
+        del nc
+
         df = pd.read_csv('{0}_clean.txt'.format(f), names=['freq', 'word'])
         df.sort_values(by=['freq'], ascending=[False], inplace=True)
-        df['rank'] = df['freq'].rank(ascending=False, method='dense')
+
+        df = df[df.shape[0] // 20:].reset_index(drop=True)
+
+        # df['rank'] = df['freq'].rank(ascending=False, method='dense')
+        df.sort_values("freq", ascending=[False])
+        df.reset_index(drop=True, inplace=True)
+        df.reset_index(drop=False, inplace=True)
+        df.rename(columns={"index": "rank"}, inplace=True)
 
         df_fr = df[['freq', 'rank']].drop_duplicates().reset_index(drop=True)
+        df_fr.sort_values("rank", ascending=False, inplace=True)
+        df_fr.drop_duplicates(subset="freq", inplace=True)
 
-        df_fr_main = df_fr[df_fr.shape[0] // 10:].reset_index(drop=True)
+        df_fr_main = df_fr.copy()
 
         # f = df_fr_main['freq'].sum()
         # df_fr_main['freq'] = df_fr_main['freq'] / f
@@ -59,27 +72,27 @@ def zipf_checker(files: list):
 
         # DATA
 
-        plt.plot(xdata, ydata, 'b-', label='data')
+        plt.plot(xdata, ydata, 'bo-', label='data')
 
         # FIT ZIPFS
-        popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_zipf(xdata, *popt), 'g--',
-                 label='ZIPF\S FIT\nfit: a=2.3, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
+        popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=([0, 0, 100000], [3, 20000, np.inf]))
+        plt.plot(xdata, func_zipf(xdata, *popt), 'gx--',
+                 label='ZIPF\S FIT\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
 
         # FIT A/X
-        #popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        #plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
-        #         label='fit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
+        popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+        plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
+                label='fit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
 
         # FIT LN(X)
-        #popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
-        #plt.plot(xdata, func_ln(xdata, *popt), 'y--',
+        # popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
+        # plt.plot(xdata, func_ln(xdata, *popt), 'y--',
         #         label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf =-a * ln((x+b) * c)' % tuple(popt))
 
         # FIT inverse exponential
-        #popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
-        #plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
-        #         label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a * e^(c/(x+b))' % tuple(popt))
+        popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
+        plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
+                label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a * e^(c/(x+b))' % tuple(popt))
 
         # PLOT
 
@@ -161,9 +174,9 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.savefig("heaps_{0}{1}.png".format(file_basic, "_zoomed"*zoomed))
 
 
-a = zipf_checker(files=files_zipf)
-
-b = heaps_checker(file_basic='novels', num_of_files=32, zoomed=False)
+zipf_checker(files=files_zipf)
+heaps_checker(file_basic='novels', num_of_files=32, zoomed=False)
+heaps_checker(file_basic='novels', num_of_files=32, zoomed=True)
 
 
 

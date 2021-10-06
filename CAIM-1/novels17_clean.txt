@@ -1,54 +1,3 @@
-1, _address
-1, _agrarian
-1, _bona
-1, _chairman_
-1, _communist
-1, _conciliation
-1, _cooperation
-1, _coup
-1, _direct_
-1, _early
-1, _economic
-1, _economic_
-1, _employers
-1, _entente_
-1, _equal
-1, _federationist_
-1, _herald_
-1, _his
-1, _ibid
-1, _internationale's_
-1, _legislation
-1, _mechanic's
-1, _membership
-1, _modus
-1, _negative_
-1, _new
-1, _nil_
-1, _obliged_
-1, _open
-1, _opposite_
-1, _par
-1, _particular
-1, _per
-1, _political_
-1, _prima
-1, _quondam_
-1, _railway
-1, _raise_
-1, _rapprochement_
-1, _reduction_
-1, _self
-1, _separate_
-1, _sine
-1, _socialism
-1, _steel
-1, _trade
-1, _uplifting_
-1, _wage
-1, _war
-1, _what's
-1, _witness_
 1, abandoning
 1, abate
 1, abbott
@@ -86,7 +35,6 @@
 1, acquiesced
 1, acquiescence
 1, across
-1, action_
 1, actions
 1, actors
 1, acushnet
@@ -99,7 +47,6 @@
 1, adherents
 1, adjacent
 1, adjoining
-1, adjustment_
 1, administer
 1, administered
 1, administering
@@ -136,6 +83,7 @@
 1, agrees
 1, agriculture
 1, air
+1, ak
 1, alarmed
 1, albert
 1, alexander
@@ -310,7 +258,6 @@
 1, bankruptcy
 1, bar
 1, barges
-1, barnett's
 1, barred
 1, bartering
 1, bascom
@@ -332,7 +279,6 @@
 1, beleaguered
 1, belie
 1, belief
-1, bellum_
 1, belonging
 1, beneath
 1, beneficiary
@@ -367,19 +313,16 @@
 1, blundering
 1, boarding
 1, boat
-1, boatmen's
 1, boisã
 1, bold
 1, bolder
 1, bolsheviki
-1, bolshevism's
 1, bolstered
 1, bond
 1, bonded
 1, bondholder
 1, bonnett
 1, bonus
-1, book_
 1, boom
 1, boons
 1, boot
@@ -426,8 +369,6 @@
 1, brother
 1, brown
 1, browne
-1, bryan's
-1, buck's
 1, budish
 1, bulletin
 1, bureaucrats
@@ -473,7 +414,6 @@
 1, cessation
 1, chafe
 1, chains
-1, chairman_
 1, challenge
 1, championing
 1, chanced
@@ -493,8 +433,6 @@
 1, checkmate
 1, checkmated
 1, checks
-1, children's
-1, choice_
 1, choosing
 1, christened
 1, chronology
@@ -507,7 +445,6 @@
 1, circulating
 1, circumventing
 1, cited
-1, citizen's
 1, claiming
 1, clamor
 1, clarence
@@ -636,7 +573,6 @@
 1, constructive
 1, construed
 1, consultation
-1, consumer's
 1, consuming
 1, consumption
 1, contemporaneously
@@ -703,7 +639,6 @@
 1, creator
 1, creditors
 1, crest
-1, crispin_
 1, crispins
 1, critic
 1, crittenden
@@ -773,7 +708,6 @@
 1, delight
 1, delivery
 1, delizsch
-1, delizsch's
 1, demobilized
 1, democrat
 1, democratized
@@ -922,7 +856,6 @@
 1, downloading
 1, downward
 1, draft
-1, draftsmen's
 1, dreadfully
 1, dream
 1, dreams
@@ -991,7 +924,6 @@
 1, emphatic
 1, empire
 1, employee
-1, employment_
 1, employments
 1, enables
 1, encompass
@@ -1000,7 +932,6 @@
 1, encroaching
 1, encroachments
 1, encyclopedia
-1, encyclopedias_
 1, endangering
 1, ending
 1, endurance
@@ -1065,6 +996,7 @@
 1, evolutionism
 1, evolve
 1, evolved
+1, ex
 1, exacted
 1, exacting
 1, exaggerate
@@ -1075,7 +1007,6 @@
 1, exasperation
 1, exceedingly
 1, excel
-1, excellence_
 1, excellent
 1, exclude
 1, excludes
@@ -1123,7 +1054,6 @@
 1, extraordinary
 1, fabian
 1, facet
-1, facie_
 1, facilities
 1, facing
 1, factions
@@ -1146,7 +1076,6 @@
 1, favorite
 1, favors
 1, fearful
-1, federationist_
 1, feeble
 1, feebleness
 1, feebly
@@ -1160,7 +1089,6 @@
 1, fernie
 1, fervently
 1, fiasco
-1, fide_
 1, fidelity
 1, fights
 1, fill
@@ -1170,7 +1098,6 @@
 1, financiers
 1, findings
 1, finisher
-1, firemen's
 1, firmer
 1, firmest
 1, fiscal
@@ -1283,7 +1210,6 @@
 1, geographic
 1, geographical
 1, geography
-1, george's
 1, georgia
 1, germs
 1, gideon
@@ -1314,7 +1240,6 @@
 1, gravest
 1, gravitated
 1, greatness
-1, greeley's
 1, greenbacker
 1, greenbackers
 1, greenbottle
@@ -1488,7 +1413,6 @@
 1, indictments
 1, indifference
 1, indirection
-1, individual's
 1, individually
 1, indulged
 1, industrialist
@@ -1589,7 +1513,6 @@
 1, james
 1, jarrett
 1, jealousy
-1, jefferson's
 1, jenkins
 1, jewish
 1, jews
@@ -1618,14 +1541,10 @@
 1, knitted
 1, knitters
 1, knows
-1, labor_
 1, laborer
-1, laborer_
-1, labour_
 1, ladder
 1, lagged
 1, laidler
-1, lakes_
 1, landless
 1, landmark
 1, landowners
@@ -1664,7 +1583,6 @@
 1, lent
 1, lescohier
 1, lesser
-1, letter_
 1, letters
 1, levied
 1, liberalism
@@ -1721,7 +1639,6 @@
 1, manifestation
 1, manifestly
 1, manifesto
-1, manifesto_
 1, manipulations
 1, manly
 1, mantua
@@ -1734,23 +1651,18 @@
 1, marshalled
 1, martinsburg
 1, marvellous
-1, marx's
-1, master's
 1, materialize
 1, materials
 1, maturity
-1, maturity_
 1, mazzini
-1, mazzini's
 1, mccormick
 1, mcdermott
 1, mcgraith
 1, mckinley
-1, mckinley's
 1, mcnamaras
+1, me
 1, meager
 1, measuring
-1, mechanic's
 1, mechanical
 1, meddle
 1, meddling
@@ -1765,7 +1677,6 @@
 1, memberships
 1, memorials
 1, memory
-1, men_
 1, menacing
 1, mentors
 1, mercenary
@@ -1787,7 +1698,6 @@
 1, militarism
 1, milliners
 1, mined
-1, miners_
 1, minister
 1, ministers
 1, ministry
@@ -1797,7 +1707,6 @@
 1, mirroring
 1, miscalculated
 1, miscalculation
-1, mischief's
 1, misfortune
 1, misleads
 1, mismanaged
@@ -1823,9 +1732,7 @@
 1, mongolian
 1, monopolies
 1, monopolized
-1, monopoly_
 1, monster
-1, month's
 1, mood
 1, morals
 1, morning
@@ -1834,7 +1741,6 @@
 1, mottoes
 1, mountaineers
 1, mounting
-1, movement_
 1, mover
 1, moves
 1, mowed
@@ -1881,7 +1787,6 @@
 1, nominal
 1, nominating
 1, nominations
-1, non_
 1, nonproprietary
 1, normality
 1, normally
@@ -1925,7 +1830,6 @@
 1, oilers
 1, oldest
 1, omitted
-1, one's
 1, onslaught
 1, opportune
 1, oppose
@@ -1967,11 +1871,10 @@
 1, override
 1, overrun
 1, overstated
-1, owen's
 1, owenism
 1, owenite
-1, own_
 1, owning
+1, pa
 1, pacifism
 1, paine
 1, palace
@@ -2012,7 +1915,6 @@
 1, penn
 1, pent
 1, penury
-1, people's
 1, perchance
 1, perfected
 1, perfectly
@@ -2028,7 +1930,6 @@
 1, permitting
 1, perpetrated
 1, perpetual
-1, perpetuo_
 1, persecutions
 1, persisted
 1, personally
@@ -2065,9 +1966,7 @@
 1, policeman
 1, polish
 1, politic
-1, political_
 1, politically
-1, politics_
 1, poll
 1, pooling
 1, poorest
@@ -2084,7 +1983,7 @@
 1, poughkeepsie
 1, poured
 1, powder
-1, powderly's
+1, pr
 1, pragmatic
 1, pragmatism
 1, praise
@@ -2097,7 +1996,6 @@
 1, precede
 1, precision
 1, precluded
-1, predecessor's
 1, predecessors
 1, predominating
 1, preempted
@@ -2114,7 +2012,6 @@
 1, preserve
 1, preserves
 1, presided
-1, press_
 1, pressmen
 1, presumably
 1, pretext
@@ -2223,7 +2120,6 @@
 1, raze
 1, reaches
 1, reacted
-1, reaction_
 1, reactionary
 1, reader
 1, readjustment
@@ -2322,7 +2218,6 @@
 1, reporting
 1, representations
 1, reproduce
-1, republic_
 1, republics
 1, repudiated
 1, repudiation
@@ -2369,7 +2264,6 @@
 1, revenge
 1, revenue
 1, review
-1, revival_
 1, reviving
 1, revolts
 1, revolutionaries
@@ -2402,7 +2296,6 @@
 1, rosy
 1, round
 1, roundhouse
-1, rousseau's
 1, route
 1, rudimentary
 1, ruled
@@ -2412,7 +2305,6 @@
 1, rulings
 1, rung
 1, rupture
-1, rural_
 1, ruthless
 1, sabotage
 1, sacred
@@ -2426,7 +2318,6 @@
 1, satisfactorily
 1, satisfied
 1, saturday
-1, savage's
 1, saved
 1, saving
 1, savings
@@ -2438,12 +2329,10 @@
 1, scheming
 1, schenectady
 1, schlã
-1, schultze's
 1, screens
 1, scruple
 1, sea
 1, sealed
-1, seaman's
 1, seamen
 1, seceders
 1, secessionist
@@ -2527,14 +2416,12 @@
 1, slaves
 1, slower
 1, smallest
-1, smeltermen's
 1, smith
 1, smiths
 1, smuggle
 1, snapped
 1, soar
 1, soared
-1, society_
 1, soften
 1, solace
 1, soldiers
@@ -2596,7 +2483,6 @@
 1, starvation
 1, starving
 1, statesman
-1, statesman_
 1, statesmanly
 1, statesmanship
 1, staunchest
@@ -2620,7 +2506,6 @@
 1, straits
 1, strangest
 1, strata
-1, stratum_
 1, streams
 1, strengthening
 1, strenuous
@@ -2702,16 +2587,13 @@
 1, swept
 1, switching
 1, switchmen
-1, switchmen's
 1, sydenstricker
 1, symmetry
 1, sympathetically
 1, sympathized
 1, synchronous
-1, syndicalism_
 1, syndicalists
 1, tailboard
-1, tailor's
 1, taint
 1, takes
 1, tale
@@ -2790,7 +2672,6 @@
 1, towed
 1, traceable
 1, tracing
-1, trades_
 1, tradesmen
 1, tramp
 1, tramping
@@ -2885,7 +2766,6 @@
 1, uninterested
 1, unionization
 1, unionizing
-1, unions_
 1, uniqueness
 1, uniting
 1, universally
@@ -2935,6 +2815,7 @@
 1, urge
 1, usher
 1, usurpation
+1, ut
 1, utica
 1, utility
 1, utilize
@@ -2972,7 +2853,6 @@
 1, visible
 1, visited
 1, vistas
-1, vivendi_
 1, vocation
 1, void
 1, voluminous
@@ -3018,7 +2898,6 @@
 1, whereupon
 1, whichever
 1, whisperings
-1, white's
 1, whites
 1, wholesales
 1, widow
@@ -3033,22 +2912,14 @@
 1, withhold
 1, withholding
 1, witness
-1, witness_
 1, witte
 1, wives
-1, wolman's
-1, woman's
-1, women's
 1, wondered
 1, wonderful
 1, woodrow
 1, wording
 1, workable
 1, workday
-1, workingman's
-1, workman_
-1, workmen's
-1, world's
 1, worst
 1, wounding
 1, wrangling
@@ -3065,21 +2936,9 @@
 1, yearn
 1, yielded
 1, yielding
-1, york's
 1, younger
 1, yourselves
 1, zip
-2, _annals
-2, _bradstreet's_
-2, _collective
-2, _inaugural
-2, _los
-2, _morale_
-2, _national
-2, _quarterly
-2, _status
-2, _sun_
-2, _verbatim_
 2, abroad
 2, abrogated
 2, absorption
@@ -3098,11 +2957,9 @@
 2, acknowledged
 2, acquisition
 2, acting
-2, address_
 2, addresses
 2, adjudged
 2, adjudicate
-2, administration_
 2, admits
 2, admitted
 2, adopt
@@ -3170,7 +3027,6 @@
 2, attract
 2, attraction
 2, attributes
-2, author's
 2, automatic
 2, avail
 2, avoid
@@ -3312,7 +3168,6 @@
 2, cotton
 2, counsel
 2, counted
-2, court's
 2, courtiers
 2, craftsmen
 2, creation
@@ -3326,7 +3181,6 @@
 2, curious
 2, current
 2, customary
-2, czar's
 2, damaged
 2, danbury
 2, dangers
@@ -3397,8 +3251,6 @@
 2, duties
 2, eagerness
 2, earned
-2, earner's
-2, economics_
 2, edited
 2, educate
 2, edwards
@@ -3441,6 +3293,7 @@
 2, essentially
 2, estate
 2, estimate
+2, et
 2, eve
 2, evenly
 2, everyday
@@ -3489,6 +3342,7 @@
 2, feet
 2, ferdinand
 2, feverish
+2, ff
 2, files
 2, financed
 2, finding
@@ -3660,7 +3514,6 @@
 2, lakes
 2, landing
 2, landis
-2, lassalle's
 2, launching
 2, lawrence
 2, lawyers
@@ -3702,12 +3555,10 @@
 2, maguires
 2, maintaining
 2, malicious
-2, man's
 2, manager
 2, managerial
 2, mann
 2, manual
-2, manufacturer's
 2, marched
 2, marching
 2, matched
@@ -3813,7 +3664,6 @@
 2, paul
 2, peacefully
 2, peak
-2, peasant's
 2, peasants
 2, peculiar
 2, peculiarly
@@ -3848,6 +3698,7 @@
 2, post
 2, potential
 2, powerless
+2, pp
 2, practiced
 2, practices
 2, practising
@@ -3998,7 +3849,6 @@
 2, schism
 2, schultze
 2, science
-2, science_
 2, sciences
 2, scranton
 2, screened
@@ -4028,7 +3878,6 @@
 2, shipping
 2, ships
 2, shoemaking
-2, shopmen's
 2, shorn
 2, sided
 2, sidney
@@ -4040,14 +3889,12 @@
 2, simple
 2, sinister
 2, situations
-2, skidmore's
 2, skidmorian
 2, skillful
 2, slack
 2, slave
 2, slump
 2, smelters
-2, society's
 2, soft
 2, solving
 2, source
@@ -4071,7 +3918,6 @@
 2, standardized
 2, standstill
 2, starts
-2, state's
 2, statements
 2, station
 2, statutes
@@ -4080,14 +3926,12 @@
 2, staying
 2, steam
 2, stem
-2, steward's
 2, stimulus
 2, stipulation
 2, stoppages
 2, stopped
 2, storm
 2, stoves
-2, strasser's
 2, stratagem
 2, stratum
 2, streets
@@ -4124,7 +3968,6 @@
 2, tailor
 2, tailoresses
 2, task
-2, tat_
 2, teachers
 2, telegraph
 2, tell
@@ -4144,7 +3987,6 @@
 2, throw
 2, tied
 2, timber
-2, times_
 2, toilers
 2, toledo
 2, ton
@@ -4181,7 +4023,6 @@
 2, unified
 2, unintended
 2, uninterrupted
-2, union_
 2, unionized
 2, unique
 2, unite
@@ -4246,7 +4087,6 @@
 2, wonder
 2, worcester
 2, worded
-2, workers_
 2, workshop
 2, workshops
 2, worthless
@@ -4255,9 +4095,6 @@
 2, wrote
 2, yard
 2, yes
-3, _american
-3, _laissez
-3, _quid
 3, abandonment
 3, abolish
 3, absence
@@ -4286,6 +4123,7 @@
 3, agrarians
 3, agricultural
 3, aided
+3, al
 3, alive
 3, allow
 3, allows
@@ -4370,7 +4208,6 @@
 3, commune
 3, comparatively
 3, competing
-3, complainant's
 3, complicated
 3, complying
 3, concentrated
@@ -4419,7 +4256,6 @@
 3, defeats
 3, defect
 3, defective
-3, deleon's
 3, delivered
 3, denied
 3, depth
@@ -4479,7 +4315,6 @@
 3, extremely
 3, factors
 3, fail
-3, faire_
 3, fairly
 3, fatal
 3, father
@@ -4507,7 +4342,6 @@
 3, formally
 3, formidable
 3, forms
-3, foundation's
 3, founder
 3, frank
 3, french
@@ -4554,6 +4388,7 @@
 3, humanitarianism
 3, idaho
 3, ideals
+3, ii
 3, impartial
 3, impatient
 3, importation
@@ -4570,7 +4405,6 @@
 3, indictment
 3, indispensable
 3, industrialists
-3, industry_
 3, influential
 3, informal
 3, injurious
@@ -4636,6 +4470,7 @@
 3, motto
 3, mounters
 3, moved
+3, mr
 3, narrow
 3, nationally
 3, nearing
@@ -4681,6 +4516,7 @@
 3, percentage
 3, persuading
 3, peter
+3, pg
 3, picture
 3, pioneers
 3, pitted
@@ -4764,7 +4600,7 @@
 3, royalty
 3, rush
 3, russell
-3, russia's
+3, rã
 3, sage
 3, sailors
 3, salaried
@@ -4877,11 +4713,11 @@
 3, unfair
 3, unfortunate
 3, uniform
-3, unionism_
 3, universal
 3, unnecessary
 3, unqualified
 3, unusual
+3, us
 3, user
 3, vacation
 3, varied
@@ -4914,7 +4750,6 @@
 3, writing
 3, yards
 3, zenith
-4, _labor
 4, abandoned
 4, abide
 4, accorded
@@ -4999,14 +4834,12 @@
 4, copying
 4, costly
 4, counteract
-4, country's
 4, covered
 4, crispin
 4, culminated
 4, customers
 4, cutting
 4, dates
-4, day's
 4, death
 4, decidedly
 4, definite
@@ -5115,13 +4948,11 @@
 4, karl
 4, labour
 4, ladies
-4, latter's
 4, lawfully
 4, legitimate
 4, letter
 4, levels
 4, limit
-4, longshoremen's
 4, looked
 4, lowest
 4, lynn
@@ -5145,6 +4976,7 @@
 4, moving
 4, municipal
 4, nations
+4, ne
 4, nearer
 4, necessarily
 4, neutrality
@@ -5189,7 +5021,6 @@
 4, precipitated
 4, preparation
 4, preservation
-4, president's
 4, principal
 4, privileges
 4, proceedings
@@ -5205,7 +5036,6 @@
 4, purchases
 4, pursuit
 4, quincy
-4, quo_
 4, rank
 4, reach
 4, readiness
@@ -5253,7 +5083,6 @@
 4, speedy
 4, spokesman
 4, spontaneous
-4, states_
 4, statute
 4, steadily
 4, stephens
@@ -5322,7 +5151,6 @@
 5, aimed
 5, albany
 5, allies
-5, america_
 5, analysis
 5, appointment
 5, appropriation
@@ -5378,6 +5206,7 @@
 5, creating
 5, crisis
 5, critical
+5, ct
 5, cutters
 5, daily
 5, december
@@ -5394,6 +5223,7 @@
 5, discriminations
 5, dissatisfaction
 5, doing
+5, dr
 5, drift
 5, duration
 5, earle
@@ -5422,7 +5252,6 @@
 5, faced
 5, favored
 5, fed
-5, federation's
 5, fifty
 5, figured
 5, firm
@@ -5433,7 +5262,6 @@
 5, fundamental
 5, futile
 5, goes
-5, government's
 5, governmental
 5, granting
 5, handful
@@ -5458,7 +5286,6 @@
 5, insurance
 5, intense
 5, jay
-5, journeymen's
 5, jurisdictional
 5, justification
 5, killed
@@ -5520,6 +5347,7 @@
 5, protected
 5, psychological
 5, quickly
+5, re
 5, read
 5, reasonable
 5, recorded
@@ -5596,14 +5424,12 @@
 5, widespread
 5, wild
 5, written
-6, _history
 6, absolute
 6, accepting
 6, achieved
 6, advantages
 6, affairs
 6, aim
-6, america's
 6, announced
 6, anyone
 6, appears
@@ -5803,7 +5629,6 @@
 6, win
 6, wishes
 6, word
-6, worker's
 6, young
 7, acquired
 7, activities
@@ -5970,7 +5795,6 @@
 7, towns
 7, trial
 7, unable
-7, union's
 7, voluntary
 7, volunteers
 7, wabash
@@ -6267,7 +6091,6 @@
 10, efficiency
 10, emphasis
 10, employ
-10, employer's
 10, english
 10, enormous
 10, events
@@ -6279,6 +6102,7 @@
 10, foundry
 10, freight
 10, get
+10, go
 10, gould
 10, handlers
 10, hard
@@ -6384,7 +6208,6 @@
 11, length
 11, marked
 11, masses
-11, men's
 11, mind
 11, operated
 11, operation
@@ -6415,7 +6238,6 @@
 11, weakness
 11, week
 11, worker
-12, _internationale_
 12, alliance
 12, allowed
 12, attempts
@@ -6637,6 +6459,7 @@
 15, short
 15, speaking
 15, spread
+15, st
 15, step
 15, strongest
 15, struck
@@ -6647,6 +6470,7 @@
 16, addition
 16, carried
 16, children
+16, co
 16, combined
 16, coming
 16, conflict
@@ -6696,7 +6520,6 @@
 17, firemen
 17, front
 17, indeed
-17, labor's
 17, laborers
 17, leadership
 17, main
@@ -6782,8 +6605,6 @@
 19, throughout
 19, turn
 19, whom
-19, workingmen's
-20, _the
 20, advantage
 20, change
 20, employed
@@ -7158,6 +6979,7 @@
 51, means
 51, ten
 51, those
+52, do
 52, see
 52, took
 54, period
@@ -7172,6 +6994,7 @@
 56, less
 56, shop
 56, situation
+56, tm
 57, america
 57, company
 57, right
@@ -7215,6 +7038,7 @@
 78, same
 79, state
 80, could
+80, if
 80, members
 81, organizations
 81, you
@@ -7247,6 +7071,7 @@
 104, strikes
 104, united
 106, made
+106, we
 107, system
 108, after
 112, general
@@ -7255,8 +7080,10 @@
 112, years
 113, such
 114, has
+115, up
 118, eight
 118, industry
+119, so
 120, york
 121, industrial
 124, unionism
@@ -7268,6 +7095,7 @@
 132, these
 134, are
 135, who
+136, he
 136, work
 138, during
 139, trades
@@ -7280,6 +7108,7 @@
 146, order
 147, out
 148, against
+148, no
 149, into
 149, than
 149, upon
@@ -7306,20 +7135,32 @@
 266, new
 280, strike
 316, its
+325, is
+333, be
 338, their
 342, not
+358, at
 364, from
 370, but
+375, or
 393, had
 398, this
 405, trade
 410, union
+418, an
 470, were
 512, which
+571, on
+591, it
 611, with
+624, as
 686, that
 788, for
 801, labor
+871, by
 1099, was
+2221, to
 2249, and
+2688, in
+4525, of
 8802, the

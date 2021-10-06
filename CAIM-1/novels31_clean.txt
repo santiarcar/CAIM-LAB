@@ -1,20 +1,3 @@
-1, _can_
-1, _cancan_
-1, _down_
-1, _four_
-1, _him_
-1, _how_
-1, _instantaneous_
-1, _minus_
-1, _nil_
-1, _now_
-1, _pall
-1, _philosophical
-1, _that_
-1, _the
-1, _there
-1, _this_
-1, _three_
 1, abandon
 1, abandoned
 1, abide
@@ -70,13 +53,13 @@
 1, aghast
 1, agonized
 1, aimlessly
+1, ak
 1, alarmed
 1, alarming
 1, alert
 1, algal
 1, alike
 1, alive
-1, allen's
 1, alliance
 1, allow
 1, aloft
@@ -361,10 +344,8 @@
 1, chemistry
 1, chequered
 1, chief
-1, child's
 1, childbearing
 1, childlike
-1, children's
 1, chilled
 1, chinese
 1, chinless
@@ -483,7 +464,6 @@
 1, corrugated
 1, corrupt
 1, cottage
-1, couldn't
 1, counsel
 1, countries
 1, courses
@@ -498,7 +478,6 @@
 1, creates
 1, creation
 1, creative
-1, creature's
 1, credible
 1, credit
 1, creek
@@ -607,7 +586,6 @@
 1, dewdrops
 1, dexterous
 1, diagram
-1, didn't
 1, diet
 1, differences
 1, differentiated
@@ -708,6 +686,7 @@
 1, echoed
 1, economic
 1, economical
+1, ed
 1, eddies
 1, eddy
 1, edifice
@@ -949,7 +928,6 @@
 1, gaudy
 1, gaunt
 1, gay
-1, gazette_
 1, gbnewby
 1, gentle
 1, gentleness
@@ -1015,11 +993,9 @@
 1, guns
 1, gusts
 1, gutters
-1, gynaeceum's
 1, habitat
 1, habits
 1, habitual
-1, hadn't
 1, hailstones
 1, haired
 1, hairless
@@ -1116,6 +1092,7 @@
 1, identification
 1, identify
 1, idols
+1, ii
 1, iii
 1, imagined
 1, imagining
@@ -1168,7 +1145,6 @@
 1, indirect
 1, indirectly
 1, indistinctly
-1, individual's
 1, indoors
 1, industrial
 1, inequalities
@@ -1198,7 +1174,6 @@
 1, instability
 1, instances
 1, instant
-1, instant's
 1, instinctive
 1, insult
 1, intend
@@ -1244,6 +1219,8 @@
 1, irritable
 1, irs
 1, island
+1, iv
+1, ix
 1, jamming
 1, jarring
 1, jars
@@ -1295,7 +1272,6 @@
 1, laying
 1, lazily
 1, leaked
-1, leal_
 1, leaning
 1, leant
 1, leaped
@@ -1307,7 +1283,6 @@
 1, lend
 1, lessening
 1, lessons
-1, let's
 1, letter
 1, letters
 1, level
@@ -1373,7 +1348,6 @@
 1, malign
 1, mall
 1, mallows
-1, man's
 1, manhood
 1, manifestly
 1, manliness
@@ -1441,12 +1415,12 @@
 1, moral
 1, moralized
 1, moreover
-1, morlock's
 1, mortal
 1, mother
 1, motives
 1, mountaineering
 1, mouths
+1, mr
 1, multiply
 1, multitude
 1, multitudes
@@ -1481,7 +1455,6 @@
 1, newcomb
 1, newsletter
 1, nigh
-1, night's
 1, ninety
 1, nipping
 1, nitrates
@@ -1523,6 +1496,7 @@
 1, oddness
 1, offers
 1, offspring
+1, oh
 1, oil
 1, oiled
 1, oily
@@ -1627,6 +1601,7 @@
 1, persuading
 1, petals
 1, petulance
+1, pg
 1, pglaf
 1, phantasm
 1, phases
@@ -1966,7 +1941,6 @@
 1, shake
 1, shaken
 1, shakily
-1, shan't
 1, share
 1, sharer
 1, sharing
@@ -2090,7 +2064,6 @@
 1, southward
 1, spark
 1, sparrows
-1, speaker's
 1, speaking
 1, specialist
 1, specialization
@@ -2101,7 +2074,6 @@
 1, spellbound
 1, spending
 1, spider
-1, spider's
 1, spikes
 1, spill
 1, splendour
@@ -2124,7 +2096,6 @@
 1, starlike
 1, startling
 1, starve
-1, state's
 1, statements
 1, station
 1, stationary
@@ -2252,12 +2223,10 @@
 1, thanks
 1, theirs
 1, theorizing
-1, there's
 1, thereby
 1, thereupon
 1, thickened
 1, thickets
-1, thing's
 1, thirst
 1, thirsty
 1, thoughts
@@ -2305,7 +2274,6 @@
 1, tramp
 1, tramps
 1, tranquil
-1, transactions_
 1, transcribe
 1, transcription
 1, transit
@@ -2392,6 +2360,7 @@
 1, urchin
 1, useful
 1, useless
+1, ut
 1, utilize
 1, utilized
 1, utopian
@@ -2414,6 +2383,7 @@
 1, version
 1, vertically
 1, vessels
+1, vi
 1, vibrated
 1, viewing
 1, vigour
@@ -2517,21 +2487,19 @@
 1, writhing
 1, wrote
 1, wrought
+1, xi
 1, xii
 1, yawned
 1, yielding
 1, yonder
 1, yore
 1, york
-1, you're
-1, you've
 1, younger
 1, yourselves
 1, zenith
 1, zero
 1, zip
 1, zoological
-2, _was_
 2, abominable
 2, accept
 2, accordance
@@ -2652,6 +2620,7 @@
 2, clothed
 2, clutched
 2, clutching
+2, co
 2, collapsed
 2, columns
 2, comfortable
@@ -2748,6 +2717,7 @@
 2, dome
 2, doses
 2, downpour
+2, dr
 2, dragging
 2, drawings
 2, dreamed
@@ -2759,7 +2729,6 @@
 2, dying
 2, eager
 2, eagerly
-2, earth's
 2, easier
 2, eating
 2, eclipse
@@ -2811,7 +2780,6 @@
 2, fierce
 2, fifteen
 2, fifty
-2, filby's
 2, file
 2, filed
 2, files
@@ -2883,7 +2851,6 @@
 2, gulf
 2, gust
 2, gusty
-2, gutenberg's
 2, haggard
 2, hammering
 2, harmony
@@ -2942,7 +2909,6 @@
 2, interruptions
 2, intimate
 2, irresistible
-2, isn't
 2, jacket
 2, jar
 2, jealousy
@@ -2994,7 +2960,6 @@
 2, michael
 2, middle
 2, million
-2, minute's
 2, misery
 2, mist
 2, mistake
@@ -3111,7 +3076,6 @@
 2, protected
 2, protection
 2, proved
-2, psychologist's
 2, pursued
 2, puzzles
 2, quality
@@ -3123,6 +3087,7 @@
 2, range
 2, rats
 2, rayless
+2, re
 2, reaction
 2, readable
 2, readjust
@@ -3271,7 +3236,6 @@
 2, suicide
 2, suit
 2, sulphur
-2, sun's
 2, sunlit
 2, sunshine
 2, supposed
@@ -3363,10 +3327,8 @@
 2, weakness
 2, weed
 2, weight
-2, what's
 2, whatever
 2, whatsoever
-2, where's
 2, whether
 2, whirled
 2, wholesome
@@ -3378,7 +3340,6 @@
 2, withered
 2, witness
 2, woke
-2, won't
 2, wondered
 2, woods
 2, working
@@ -3387,7 +3348,6 @@
 2, wriggling
 2, yards
 2, yesterday
-2, you'll
 3, able
 3, active
 3, adapted
@@ -3431,7 +3391,6 @@
 3, brutes
 3, burst
 3, called
-3, can't
 3, candles
 3, careful
 3, cases
@@ -3548,7 +3507,6 @@
 3, flaring
 3, flesh
 3, flickered
-3, foundation's
 3, fresh
 3, freshness
 3, friday
@@ -3748,7 +3706,6 @@
 3, tale
 3, tangle
 3, tattered
-3, that's
 3, theories
 3, therewith
 3, thin
@@ -4122,7 +4079,6 @@
 5, notice
 5, object
 5, occurred
-5, one's
 5, owner
 5, pain
 5, paradox
@@ -4286,7 +4242,6 @@
 6, tax
 6, theory
 6, thud
-6, traveller's
 6, trick
 6, truth
 6, turf
@@ -4464,7 +4419,6 @@
 8, unknown
 8, view
 8, wanted
-8, weena's
 8, young
 9, ago
 9, agree
@@ -4593,6 +4547,7 @@
 11, trademark
 11, united
 11, upper
+12, am
 12, beautiful
 12, because
 12, below
@@ -4670,7 +4625,6 @@
 15, wood
 16, behind
 16, between
-16, don't
 16, each
 16, fell
 16, followed
@@ -4706,6 +4660,7 @@
 19, earth
 19, flowers
 19, gallery
+19, go
 19, laboratory
 19, match
 19, matches
@@ -4815,6 +4770,7 @@
 36, than
 36, things
 36, think
+36, us
 37, after
 37, another
 37, well
@@ -4823,6 +4779,7 @@
 38, same
 38, such
 39, away
+39, do
 39, him
 40, back
 40, began
@@ -4858,6 +4815,7 @@
 54, over
 55, traveller
 55, work
+56, tm
 56, when
 57, felt
 57, thought
@@ -4869,11 +4827,13 @@
 62, again
 65, thing
 67, are
+69, if
 69, man
 72, seemed
 74, her
 74, like
 74, out
+74, up
 75, been
 75, its
 76, what
@@ -4886,35 +4846,53 @@
 86, them
 86, very
 87, project
+88, an
 88, saw
 89, said
+90, we
 91, machine
 91, their
 92, which
 93, could
 95, some
+102, no
 105, came
+112, be
 113, little
+113, so
 114, into
 115, upon
 117, one
+122, he
+123, by
 125, they
 127, have
 127, there
 129, his
+133, is
 134, then
 135, not
 136, all
 137, from
+148, on
 158, were
+162, or
 198, this
 203, you
 205, time
 209, but
 247, for
+258, at
 263, with
+281, as
+281, me
 354, had
+435, it
+440, my
 454, that
 551, was
+598, in
+775, to
+1272, of
 1313, and
 2439, the

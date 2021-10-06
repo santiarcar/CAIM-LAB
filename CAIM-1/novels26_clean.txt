@@ -1,20 +1,3 @@
-1, _autumn
-1, _childless_
-1, _deceiving
-1, _hong
-1, _huen_
-1, _kiu
-1, _leao
-1, _love
-1, _love's
-1, _peaceful
-1, _printed
-1, _strange
-1, _tao_
-1, _through
-1, _tradutore
-1, _unknown
-1, _yecha_
 1, abandoned
 1, abide
 1, abnormally
@@ -42,7 +25,6 @@
 1, addresses
 1, admirable
 1, admiring
-1, adolescent's
 1, adventures
 1, advice
 1, advised
@@ -54,6 +36,7 @@
 1, agent
 1, agreeable
 1, ajar
+1, ak
 1, alarmed
 1, alas
 1, alight
@@ -83,7 +66,6 @@
 1, appears
 1, appreciating
 1, approach
-1, arch_
 1, archer
 1, archipelago
 1, arguing
@@ -119,7 +101,6 @@
 1, aunt
 1, authorisation
 1, authorise
-1, autumn's
 1, avenge
 1, averting
 1, awaits
@@ -183,7 +164,6 @@
 1, blunt
 1, board
 1, boast
-1, boat's
 1, boding
 1, boiling
 1, bold
@@ -191,7 +171,6 @@
 1, boston
 1, bows
 1, box
-1, boy's
 1, branches
 1, braving
 1, breakfast
@@ -207,8 +186,6 @@
 1, brisk
 1, broader
 1, broom
-1, brother's
-1, brothers_
 1, brush
 1, brutality
 1, buddhist
@@ -242,7 +219,6 @@
 1, cask
 1, cast
 1, cat
-1, cat's
 1, caution
 1, ceasing
 1, ceiling
@@ -268,7 +244,6 @@
 1, cheeks
 1, cheerfully
 1, cheou
-1, cheou's
 1, cherry
 1, chestnut
 1, chi
@@ -304,7 +279,6 @@
 1, cockroach
 1, cockroaches
 1, codes
-1, coffin's
 1, coincidence
 1, collected
 1, coloured
@@ -331,7 +305,6 @@
 1, conquered
 1, consents
 1, consequences
-1, consequences_
 1, consequential
 1, consider
 1, considered
@@ -399,7 +372,6 @@
 1, cured
 1, curiosity
 1, curious
-1, currier_
 1, curtains
 1, curving
 1, cushions
@@ -410,16 +382,14 @@
 1, darkening
 1, darted
 1, data
-1, daughter's
-1, dawn's
 1, daybreak
 1, dazed
+1, de
 1, deal
 1, dealers
 1, deals
 1, debtor
 1, decayed
-1, deceased's
 1, deceitful
 1, deceiving
 1, deck
@@ -466,7 +436,6 @@
 1, determine
 1, development
 1, devilish
-1, devils_
 1, devoured
 1, dexterity
 1, differences
@@ -510,7 +479,6 @@
 1, doctrine
 1, document
 1, dog
-1, dog's
 1, doing
 1, dolefully
 1, dome
@@ -531,7 +499,6 @@
 1, dreams
 1, dreamy
 1, drinker
-1, drinker_
 1, drive
 1, driven
 1, drown
@@ -568,7 +535,6 @@
 1, eluded
 1, embarked
 1, emerged
-1, emperor's
 1, employ
 1, employee
 1, encamped
@@ -636,12 +602,10 @@
 1, facility
 1, fairbanks
 1, fallow
-1, family's
 1, fan
 1, fancy
 1, fanned
 1, fatal
-1, father's
 1, fatigue
 1, favourite
 1, fawn
@@ -684,6 +648,7 @@
 1, flourished
 1, fluffy
 1, fluttered
+1, fo
 1, folds
 1, foliage
 1, folklore
@@ -709,10 +674,8 @@
 1, foxes
 1, fragrant
 1, frames
-1, fresco_
 1, frescoes
 1, fresh
-1, friend's
 1, friendly
 1, frightening
 1, frightful
@@ -738,11 +701,9 @@
 1, gentle
 1, gently
 1, gesture
-1, ghost_
 1, ghosts
 1, gifts
 1, gigantic
-1, girl's
 1, glad
 1, glanced
 1, glances
@@ -766,7 +727,6 @@
 1, gratefully
 1, gratitude
 1, grave
-1, green_
 1, greenish
 1, greetings
 1, gregory
@@ -788,7 +748,6 @@
 1, guest
 1, guide
 1, gurgle
-1, gutenberg's
 1, habitation
 1, hailed
 1, handsome
@@ -846,9 +805,7 @@
 1, hungry
 1, hunt
 1, hunted
-1, hunters_
 1, huntsman
-1, husband's
 1, hypertext
 1, icy
 1, ideal
@@ -938,7 +895,6 @@
 1, invitation
 1, irresistible
 1, irs
-1, island_
 1, islands
 1, issued
 1, italians
@@ -949,7 +905,6 @@
 1, jar
 1, jaw
 1, jealousy
-1, jen_
 1, jesting
 1, jostling
 1, joyously
@@ -972,13 +927,13 @@
 1, knowledge
 1, knows
 1, kong
+1, la
 1, labyrinth
 1, lacquer
 1, lad
 1, lamb
 1, lambs
 1, lamentations
-1, lan's
 1, lands
 1, lane
 1, lanes
@@ -998,7 +953,6 @@
 1, legacy
 1, legally
 1, legends
-1, leisures_
 1, lengthen
 1, lengthy
 1, less
@@ -1011,10 +965,8 @@
 1, lids
 1, lieou
 1, lies
-1, life's
 1, lifted
 1, lifting
-1, light_
 1, lightens
 1, lighting
 1, likely
@@ -1033,7 +985,6 @@
 1, literally
 1, literati
 1, liver
-1, lives_
 1, loaded
 1, loads
 1, local
@@ -1048,8 +999,6 @@
 1, lose
 1, lot
 1, loud
-1, love_
-1, lover's
 1, lovingly
 1, lowered
 1, lowering
@@ -1089,7 +1038,6 @@
 1, melan
 1, melon
 1, members
-1, men's
 1, mengtsz
 1, mental
 1, mentality
@@ -1116,12 +1064,10 @@
 1, modification
 1, modified
 1, moments
-1, moon_
 1, moral
 1, moreover
 1, moribund
 1, morn
-1, mother's
 1, mournful
 1, muffled
 1, muleteers
@@ -1138,10 +1084,8 @@
 1, needs
 1, neglect
 1, negligence
-1, neighbour's
 1, neighbourhoods
 1, neither
-1, nelumbo_
 1, nervousness
 1, net
 1, nets
@@ -1175,7 +1119,6 @@
 1, occupant
 1, occur
 1, occurred
-1, ocean_
 1, october
 1, oddly
 1, odour
@@ -1184,6 +1127,7 @@
 1, officers
 1, officiating
 1, ogival
+1, oh
 1, ones
 1, oppose
 1, oppressed
@@ -1195,7 +1139,6 @@
 1, originally
 1, originator
 1, ornamented
-1, other's
 1, otherwise
 1, ought
 1, ourselves
@@ -1235,7 +1178,6 @@
 1, pastry
 1, paternal
 1, patrimony
-1, paul's
 1, pavilions
 1, peace
 1, peacefully
@@ -1263,6 +1205,7 @@
 1, perspiration
 1, persuaded
 1, perused
+1, pg
 1, pglaf
 1, phantoms
 1, pigs
@@ -1276,7 +1219,6 @@
 1, plans
 1, play
 1, pleased
-1, pleasure's
 1, plenty
 1, plough
 1, plunder
@@ -1323,7 +1265,6 @@
 1, principal
 1, principles
 1, prison
-1, prisoner's
 1, private
 1, privileged
 1, probably
@@ -1471,7 +1412,6 @@
 1, revived
 1, revolutionists
 1, reward
-1, rewarded_
 1, richer
 1, rifled
 1, rightly
@@ -1480,8 +1420,6 @@
 1, rise
 1, risk
 1, rite
-1, river's
-1, river_
 1, roads
 1, robust
 1, rocked
@@ -1507,7 +1445,6 @@
 1, sauntering
 1, scar
 1, scheme
-1, scholar's
 1, scholars
 1, science
 1, scraped
@@ -1535,7 +1472,6 @@
 1, seventieth
 1, severely
 1, shadowed
-1, shadows_
 1, shadowy
 1, shake
 1, shanghai
@@ -1546,7 +1482,6 @@
 1, shi
 1, shine
 1, shines
-1, ship's
 1, ships
 1, shirt
 1, shoes
@@ -1563,11 +1498,8 @@
 1, sinologists
 1, situations
 1, sixteen
-1, skin_
 1, skirt
 1, slackened
-1, slave's
-1, slave_
 1, sleepers
 1, sleepy
 1, sleeve
@@ -1594,14 +1526,12 @@
 1, solicitation
 1, solitary
 1, somehow
-1, son_
 1, song
 1, sonorous
 1, sooner
 1, soot
 1, sore
 1, sorrow
-1, sorrows_
 1, sought
 1, souls
 1, sounded
@@ -1620,6 +1550,7 @@
 1, splendour
 1, springs
 1, square
+1, st
 1, stack
 1, staff
 1, stained
@@ -1630,7 +1561,6 @@
 1, stars
 1, starting
 1, starve
-1, state's
 1, statements
 1, stationed
 1, statue
@@ -1740,7 +1670,6 @@
 1, tower
 1, towns
 1, traditions
-1, traditore_
 1, tragic
 1, traitor
 1, tranquil
@@ -1777,7 +1706,6 @@
 1, types
 1, ugly
 1, unable
-1, uncle's
 1, uncovered
 1, undecided
 1, undertaken
@@ -1813,6 +1741,7 @@
 1, ushered
 1, usually
 1, usurper
+1, ut
 1, utensils
 1, utter
 1, uttered
@@ -1909,7 +1838,6 @@
 1, wrinkles
 1, wrist
 1, writer
-1, year's
 1, yearly
 1, yell
 1, yelled
@@ -2016,7 +1944,6 @@
 2, climb
 2, clothes
 2, cock
-2, colour's
 2, colours
 2, commemorate
 2, common
@@ -2039,7 +1966,6 @@
 2, copied
 2, corn
 2, costs
-2, country's
 2, court
 2, created
 2, cross
@@ -2067,7 +1993,6 @@
 2, derive
 2, despair
 2, desperately
-2, devil's
 2, difficult
 2, dispersed
 2, dissolved
@@ -2077,6 +2002,7 @@
 2, divided
 2, doctor
 2, double
+2, dr
 2, dragging
 2, drank
 2, dreadful
@@ -2165,6 +2091,7 @@
 2, greeting
 2, grinding
 2, grumbled
+2, ha
 2, handed
 2, hankow
 2, happening
@@ -2179,7 +2106,6 @@
 2, hollow
 2, hoping
 2, horror
-2, horse's
 2, hot
 2, howling
 2, hunger
@@ -2225,10 +2151,12 @@
 2, landed
 2, later
 2, laughed
+2, ld
 2, least
 2, leg
 2, lessons
 2, letters
+2, li
 2, library
 2, lie
 2, lieu
@@ -2253,11 +2181,9 @@
 2, makes
 2, marked
 2, market
-2, master's
 2, matthew
 2, meal
 2, mechanically
-2, merchant's
 2, merchants
 2, method
 2, michael
@@ -2324,7 +2250,6 @@
 2, potion
 2, pour
 2, power
-2, prefect's
 2, prepare
 2, presence
 2, prevail
@@ -2342,7 +2267,6 @@
 2, protect
 2, prudent
 2, punish
-2, pupil's
 2, purple
 2, purpose
 2, pursue
@@ -2483,7 +2407,6 @@
 2, successfully
 2, successively
 2, summer
-2, summer's
 2, superstitions
 2, suppose
 2, sure
@@ -2518,7 +2441,6 @@
 2, trellised
 2, trembling
 2, trestles
-2, tsz_
 2, tumultuous
 2, twilight
 2, unconscious
@@ -2684,7 +2606,6 @@
 3, forest
 3, forgotten
 3, formed
-3, foundation's
 3, freezing
 3, fresco
 3, frightened
@@ -2733,7 +2654,6 @@
 3, joke
 3, kind
 3, kingdom
-3, kiun's
 3, kneeling
 3, knocked
 3, knocking
@@ -2815,6 +2735,7 @@
 3, quiet
 3, quietly
 3, rapid
+3, re
 3, reader
 3, reason
 3, references
@@ -2844,7 +2765,6 @@
 3, sight
 3, silhouette
 3, sit
-3, siu's
 3, sixty
 3, slept
 3, slight
@@ -2863,7 +2783,6 @@
 3, striking
 3, strings
 3, strokes
-3, student's
 3, stuff
 3, stupor
 3, sudden
@@ -2935,7 +2854,6 @@
 4, breath
 4, broke
 4, buried
-4, can't
 4, capital
 4, care
 4, carried
@@ -3007,7 +2925,6 @@
 4, knelt
 4, known
 4, laid
-4, lamb's
 4, lamps
 4, lanterns
 4, lighted
@@ -3015,7 +2932,6 @@
 4, located
 4, lover
 4, magistrate
-4, man's
 4, marry
 4, mass
 4, master
@@ -3060,7 +2976,6 @@
 4, rising
 4, rites
 4, rooms
-4, seaweed's
 4, separated
 4, serious
 4, servants
@@ -3103,7 +3018,6 @@
 4, using
 4, weapon
 4, windows
-4, won't
 4, wore
 4, worked
 4, working
@@ -3224,7 +3138,6 @@
 5, truth
 5, uncle
 5, walked
-5, wang's
 5, wanted
 5, western
 5, wind
@@ -3364,7 +3277,6 @@
 7, learned
 7, lit
 7, lodge
-7, love's
 7, mind
 7, moment
 7, officer
@@ -3517,7 +3429,6 @@
 10, among
 10, different
 10, domain
-10, don't
 10, done
 10, dream
 10, ebook
@@ -3663,7 +3574,6 @@
 15, sleep
 15, sun
 15, united
-16, _the
 16, blood
 16, city
 16, felt
@@ -3761,6 +3671,7 @@
 23, here
 23, how
 23, town
+23, us
 24, brought
 24, full
 24, heard
@@ -3796,6 +3707,7 @@
 29, some
 29, took
 30, big
+30, go
 30, now
 30, our
 30, river
@@ -3825,17 +3737,22 @@
 37, being
 37, night
 38, very
+41, am
 41, other
+41, up
 42, again
 42, away
 42, old
 42, room
 44, little
 45, come
+45, so
 46, did
 48, door
 48, would
 49, himself
+49, me
+49, no
 50, back
 50, been
 50, has
@@ -3850,6 +3767,8 @@
 54, work
 55, only
 56, day
+56, tm
+57, an
 57, any
 58, long
 60, said
@@ -3857,6 +3776,8 @@
 61, young
 63, out
 64, them
+66, do
+66, if
 68, then
 68, your
 72, their
@@ -3870,24 +3791,38 @@
 86, gutenberg
 89, have
 89, project
+90, we
 92, one
 99, all
+101, my
+114, be
+118, or
 119, but
 119, from
 120, for
 128, this
 129, were
 138, when
+142, is
 155, him
+157, at
+158, by
+161, it
 163, she
 167, they
+169, as
 170, that
 176, had
 189, not
+201, on
 206, her
 242, you
 245, with
 395, his
 399, was
+514, in
+515, he
+768, to
 803, and
+866, of
 2242, the

@@ -30,7 +30,6 @@
 1, adoption
 1, adventitious
 1, advisor
-1, aesop's
 1, affect
 1, affirming
 1, aforesaid
@@ -141,6 +140,7 @@
 1, battle
 1, bay
 1, bays
+1, bc
 1, beard
 1, becomes
 1, becoming
@@ -198,7 +198,6 @@
 1, calamity
 1, calculate
 1, calculated
-1, calhoun's
 1, cambridge
 1, caprice
 1, cargo
@@ -237,6 +236,7 @@
 1, clears
 1, click
 1, clings
+1, co
 1, coast
 1, coastwise
 1, code
@@ -699,7 +699,6 @@
 1, happy
 1, hardly
 1, harmless
-1, hart's
 1, hasten
 1, hasty
 1, having
@@ -731,6 +730,7 @@
 1, identify
 1, identifying
 1, iii
+1, il
 1, illness
 1, imagined
 1, immaterial
@@ -819,6 +819,7 @@
 1, jealousy
 1, joined
 1, journal
+1, jr
 1, judgment
 1, july
 1, jurisdiction
@@ -890,7 +891,6 @@
 1, major
 1, makes
 1, malign
-1, man's
 1, managed
 1, manchester
 1, mandates
@@ -905,6 +905,7 @@
 1, massachusetts
 1, master
 1, maturity
+1, me
 1, meddle
 1, meddling
 1, meet
@@ -943,6 +944,8 @@
 1, mortgage
 1, mostly
 1, movable
+1, mr
+1, ms
 1, multiple
 1, municipal
 1, mutilate
@@ -1000,7 +1003,6 @@
 1, opportunity
 1, opposing
 1, ornaments
-1, other's
 1, ough
 1, outlet
 1, outlets
@@ -1016,6 +1018,7 @@
 1, owing
 1, owner
 1, owners
+1, pa
 1, page
 1, paper
 1, par
@@ -1168,6 +1171,7 @@
 1, rates
 1, ratio
 1, ravings
+1, re
 1, reached
 1, reader
 1, readily
@@ -1364,6 +1368,7 @@
 1, sporadic
 1, sport
 1, spreading
+1, st
 1, stage
 1, stake
 1, standard
@@ -1544,7 +1549,6 @@
 1, weight
 1, welcome
 1, west
-1, what's
 1, whenever
 1, whereas
 1, wherever
@@ -1570,7 +1574,6 @@
 1, woe
 1, wonder
 1, xxxvii
-1, year's
 1, yield
 2, above
 2, absolutely
@@ -1647,6 +1650,7 @@
 2, carried
 2, carrying
 2, case
+2, cd
 2, cease
 2, cecilia
 2, census
@@ -1928,16 +1932,19 @@
 2, origin
 2, orleans
 2, otherwise
+2, ou
 2, owes
 2, owns
 2, pages
 2, partnership
 2, pay
 2, persuaded
+2, pg
 2, philadelphia
 2, philosophical
 2, physical
 2, powerful
+2, pp
 2, practical
 2, premises
 2, prepare
@@ -1950,7 +1957,6 @@
 2, produced
 2, profits
 2, program
-2, project's
 2, projects
 2, promulgated
 2, proofread
@@ -2151,7 +2157,6 @@
 3, dollar
 3, dollars
 3, domestic
-3, don't
 3, during
 3, dwelling
 3, easy
@@ -2185,6 +2190,7 @@
 3, fortunes
 3, france
 3, french
+3, go
 3, habit
 3, hence
 3, historical
@@ -2322,7 +2328,6 @@
 4, continued
 4, contributes
 4, convenience
-4, cooper's
 4, date
 4, days
 4, deny
@@ -2537,6 +2542,7 @@
 6, tendency
 6, term
 6, thousand
+6, tm
 6, too
 6, town
 6, vast
@@ -2637,6 +2643,7 @@
 9, she
 9, though
 9, two
+9, up
 9, view
 9, war
 10, clause
@@ -2743,6 +2750,7 @@
 19, now
 19, under
 20, form
+20, he
 21, present
 21, some
 21, them
@@ -2755,12 +2763,15 @@
 24, who
 25, among
 25, much
+25, us
 26, only
 26, when
 27, even
 28, gutenberg
 28, people
+29, an
 29, can
+29, do
 30, most
 30, power
 31, etext
@@ -2776,14 +2787,18 @@
 37, government
 37, great
 39, our
+40, so
+42, if
 42, states
 42, york
 44, been
 44, other
 44, than
 45, one
+47, no
 48, may
 48, they
+49, at
 50, country
 50, more
 55, new
@@ -2791,6 +2806,7 @@
 56, all
 56, from
 56, you
+59, on
 61, their
 62, would
 64, but
@@ -2802,8 +2818,18 @@
 81, not
 81, which
 93, are
+101, we
+102, or
+107, by
 110, for
+118, as
 142, this
+155, be
+157, it
+205, is
 248, that
+304, in
 385, and
+480, to
+847, of
 1210, the
