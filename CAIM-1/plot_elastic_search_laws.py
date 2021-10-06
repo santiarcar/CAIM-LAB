@@ -63,22 +63,22 @@ def zipf_checker(files: list):
         # FIT ZIPFS
         popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
         plt.plot(xdata, func_zipf(xdata, *popt), 'g--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c/(x+b)^a' % tuple(popt))
+                 label='ZIPF\S FIT\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
 
         # FIT A/X
         popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
         plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
+                 label='fit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
 
         # FIT LN(X)
         popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
         plt.plot(xdata, func_ln(xdata, *popt), 'y--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf =-a * np.log((x+b) * c)' % tuple(popt))
+                 label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf =-a * ln((x+b) * c)' % tuple(popt))
 
         # FIT inverse exponential
         popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
         plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a * e^(c/(x+b))' % tuple(popt))
+                 label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a * e^(c/(x+b))' % tuple(popt))
 
         # PLOT
 
@@ -149,11 +149,11 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
 
     # FIT HEAPS
     popt, pcov = curve_fit(func_heap, xdata, ydata)
-    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='fit-with-bounds\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
+    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='HEAP\'S FIT\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
 
     # FIT SQRT
     popt, pcov = curve_fit(sq_root, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
-    plt.plot(xdata, sq_root(xdata, *popt), 'r--', label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a+sqrt(c*(x+b))' % tuple(popt))
+    plt.plot(xdata, sq_root(xdata, *popt), 'r--', label='fit: a=%5.3f, b=%5.3f, c=%5.3f\nf = a + sqrt(c * (x+b))' % tuple(popt))
 
 
     # PLOT
@@ -166,7 +166,7 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.savefig("heaps_{0}{1}.png".format(file_basic, "_zoomed"*zoomed))
 
 
-# a = zipf_checker(files=files_zipf)
+a = zipf_checker(files=files_zipf)
 
 b = heaps_checker(file_basic='novels', num_of_files=32, zoomed=False)
 
