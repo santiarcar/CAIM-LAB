@@ -7,7 +7,7 @@ search_on = 'news'
 
 
 def has_number(word):
-    for i in range(10):
+    for i in range(2,10):
         if str(i) in word:
             return True
     return False
