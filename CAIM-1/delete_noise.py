@@ -37,13 +37,13 @@ class noise_cleaner:
                 count = linea.split(sep=', ')[0]
                 word = linea.split(sep=', ')[1].strip()
                 if not ((word.isdigit()) or (self.has_number(word)) or (self.has_punctuation(word))
-                        or self.not_alnum(word) or ('ª' in word) or ('º' in word)):
+                        or self.not_alnum(word) or ('ª' in word) or ('º' in word) or len(word) < 3):
                     newOutput.write(linea)
                 else:
                     word = word.replace("_", "")
                     word = word.split("'", 1)[0]
                     if not ((word.isdigit()) or (self.has_number(word)) or (self.has_punctuation(word))
-                            or self.not_alnum(word) or ('ª' in word) or ('º' in word)):
+                            or self.not_alnum(word) or ('ª' in word) or ('º' in word) or len(word) < 3):
                         newOutput.write(linea)
                     else:
                         deprecatedOutput.write(linea)

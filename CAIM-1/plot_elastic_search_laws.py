@@ -143,8 +143,7 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
 
     # FIT HEAPS
     popt, pcov = curve_fit(func_heap, xdata, ydata)
-    plt.plot(xdata, func_heap(xdata, *popt), 'go--',
-             label='fit-with-bounds\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
+    plt.plot(xdata, func_heap(xdata, *popt), 'go--', label='fit-with-bounds\nfit: k=%5.3f, b=%5.3f\nf = k * x^b' % tuple(popt))
 
     # # FIT A/X
     # popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
@@ -166,10 +165,13 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.ylabel('y')
     # plt.yscale('log')
     plt.legend()
-    plt.title("HEAP'S: {0}".format(file_basic))
-    plt.savefig("heaps_{0}2.png".format(file_basic))
+    plt.title("HEAP'S: {0}".format(f))
+    plt.show()
 
 
 # a = zipf_checker(files=files_zipf)
 
-b = heaps_checker(file_basic='novels', num_of_files=32)
+b = heaps_checker(files=files_heap)
+
+
+
