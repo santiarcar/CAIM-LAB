@@ -6,7 +6,6 @@
 1, _assume
 1, _atoacan_
 1, _aurora
-1, _ay_
 1, _biscatonges_
 1, _bisons_
 1, _brave_
@@ -27,7 +26,6 @@
 1, _disarming
 1, _discovery
 1, _eat
-1, _ed
 1, _extinct_
 1, _feast
 1, _feu
@@ -38,7 +36,6 @@
 1, _glittering
 1, _god
 1, _guardian
-1, _he_
 1, _hearne
 1, _hearne's
 1, _heckew_
@@ -50,7 +47,6 @@
 1, _house
 1, _how
 1, _hunting
-1, _if_
 1, _imaginative_
 1, _indian
 1, _infra_
@@ -74,7 +70,6 @@
 1, _naemes_
 1, _naked
 1, _never
-1, _no_
 1, _nocturnal
 1, _not_
 1, _now_
@@ -121,7 +116,6 @@
 1, _supra_
 1, _take
 1, _that
-1, _to
 1, _travelling
 1, _travels_
 1, _tumuli_
@@ -235,7 +229,6 @@
 1, aided
 1, ail
 1, aimed
-1, ak
 1, alabama
 1, alacrity
 1, alarmed
@@ -381,7 +374,6 @@
 1, awausees
 1, axes
 1, aztecas
-1, aã
 1, babe
 1, bacca
 1, bacco
@@ -1132,7 +1124,6 @@
 1, drowsy
 1, drum
 1, drying
-1, du
 1, duke
 1, dull
 1, duped
@@ -1160,7 +1151,6 @@
 1, effeminacy
 1, effusion
 1, eggs
-1, eh
 1, eighteenth
 1, ein
 1, elaborated
@@ -1655,7 +1645,6 @@
 1, heroic
 1, herring
 1, hers
-1, hi
 1, hiccuping
 1, hickory
 1, hides
@@ -1961,7 +1950,6 @@
 1, knock
 1, knowingly
 1, kund
-1, l
 1, laboured
 1, labourers
 1, labouring
@@ -1989,7 +1977,6 @@
 1, laying
 1, lays
 1, lazenby
-1, le
 1, lea
 1, leaders
 1, leads
@@ -2336,9 +2323,6 @@
 1, nutall
 1, nutriment
 1, nuts
-1, o'er
-1, o'ertake
-1, o'erwhelm'd
 1, obedience
 1, obeisance
 1, obey
@@ -2521,7 +2505,6 @@
 1, petre's
 1, petri
 1, petticoat
-1, pg
 1, pglaf
 1, phenomenon
 1, phila
@@ -3402,7 +3385,6 @@
 1, tip
 1, tipped
 1, tittymeg
-1, tm's
 1, toad
 1, tobolsk
 1, toil
@@ -3560,7 +3542,6 @@
 1, ursuline
 1, useful
 1, uselessness
-1, ut
 1, utter'd
 1, utterance
 1, uttering
@@ -3768,13 +3749,11 @@
 1, york
 1, zeal
 1, zip
-2, _a
 2, _beaver
 2, _carver_
 2, _charlevoix_
 2, _designed
 2, _great
-2, _he
 2, _heck
 2, _him_
 2, _hist
@@ -3876,7 +3855,6 @@
 2, avenge
 2, awake
 2, awfully
-2, ay
 2, backs
 2, baked
 2, bald
@@ -4110,7 +4088,6 @@
 2, electronically
 2, element
 2, eleventh
-2, em
 2, embalming
 2, embers
 2, emblems
@@ -4241,7 +4218,6 @@
 2, furnished
 2, furnishes
 2, futurity
-2, g
 2, gallant
 2, gambols
 2, garments
@@ -4369,7 +4345,6 @@
 2, interspersed
 2, interview
 2, intimate
-2, iv
 2, jealousy
 2, john
 2, johnstone
@@ -4415,7 +4390,6 @@
 2, lingers
 2, lion
 2, lit
-2, lo
 2, loaded
 2, locations
 2, locked
@@ -4651,7 +4625,6 @@
 2, quickly
 2, quitted
 2, quote
-2, r
 2, raged
 2, raked
 2, rank
@@ -4891,7 +4864,6 @@
 2, swiftly
 2, swum
 2, sympathy
-2, t
 2, tame
 2, tasks
 2, tasteless
@@ -4978,10 +4950,8 @@
 2, vengeance
 2, verse
 2, vex
-2, vi
 2, victim
 2, vocal
-2, w
 2, waft
 2, waged
 2, waited
@@ -5059,7 +5029,6 @@
 3, addition
 3, admiring
 3, adorned
-3, ah
 3, alleghany
 3, allies
 3, allowed
@@ -5224,7 +5193,6 @@
 3, distinct
 3, divided
 3, dove's
-3, dr
 3, dreaming
 3, drunk
 3, duck
@@ -5310,7 +5278,6 @@
 3, guests
 3, guidance
 3, guide
-3, h
 3, habitation
 3, happen
 3, happier
@@ -5321,7 +5288,6 @@
 3, herds
 3, heron
 3, hideous
-3, ho
 3, hoarse
 3, hole
 3, honoured
@@ -5440,7 +5406,6 @@
 3, opportunity
 3, opposed
 3, owns
-3, ox
 3, paddle
 3, paddles
 3, paddling
@@ -5666,7 +5631,6 @@
 3, utensils
 3, utmost
 3, uttered
-3, v
 3, valuable
 3, value
 3, variety
@@ -5894,7 +5858,6 @@
 4, grove
 4, growl
 4, guardian
-4, ha
 4, habits
 4, hail
 4, hang
@@ -5924,7 +5887,6 @@
 4, kindly
 4, kindred
 4, knee
-4, la
 4, languages
 4, lark's
 4, laughter
@@ -6295,7 +6257,6 @@
 5, natural
 5, nearer
 5, need
-5, o'erlooks
 5, objects
 5, obliged
 5, obtain
@@ -6353,7 +6314,6 @@
 5, rolled
 5, rough
 5, rushed
-5, s
 5, safely
 5, sagacity
 5, saying
@@ -6421,7 +6381,6 @@
 5, woman_
 5, worth
 5, wouldst
-5, ye
 5, yours
 6, accompanied
 6, afforded
@@ -6593,7 +6552,6 @@
 6, sparrow
 6, species
 6, spoken
-6, st
 6, startled
 6, stolen
 6, stout
@@ -6668,7 +6626,6 @@
 7, created
 7, crossed
 7, current
-7, d
 7, dangers
 7, deemed
 7, demanded
@@ -6883,7 +6840,6 @@
 8, prove
 8, published
 8, quiet
-8, re
 8, relation
 8, required
 8, savage
@@ -6959,7 +6915,6 @@
 9, hostile
 9, hunters
 9, ideas
-9, ii
 9, immediately
 9, including
 9, indeed
@@ -7017,7 +6972,6 @@
 10, broken
 10, change
 10, considered
-10, de
 10, described
 10, destroy
 10, distance
@@ -7383,7 +7337,6 @@
 16, ceremony
 16, deceased
 16, ear
-16, f
 16, future
 16, grow
 16, half
@@ -7395,7 +7348,6 @@
 16, lover
 16, mine
 16, neck
-16, oh
 16, osage
 16, purpose
 16, region
@@ -7425,7 +7377,6 @@
 17, hills
 17, iroquois
 17, moment
-17, mr
 17, oak
 17, object
 17, pipe
@@ -7599,7 +7550,6 @@
 25, put
 25, season
 25, state
-26, b
 26, began
 26, better
 26, between
@@ -7627,7 +7577,6 @@
 27, electronic
 27, enemies
 27, flowers
-27, m
 27, neither
 27, step
 27, village
@@ -7690,7 +7639,6 @@
 32, beaver
 32, because
 32, does
-32, e
 32, foot
 32, god
 32, narragansetts
@@ -7734,7 +7682,6 @@
 37, left
 37, length
 37, sons
-38, am
 38, arrows
 38, brought
 38, eye
@@ -7755,7 +7702,6 @@
 40, together
 41, bear
 41, brothers
-41, c
 41, give
 41, priest
 41, still
@@ -7825,7 +7771,6 @@
 56, red
 56, such
 56, tell
-56, tm
 57, footnote
 57, mother
 57, tribes
@@ -7876,7 +7821,6 @@
 76, master
 76, while
 80, well
-81, go
 81, told
 83, being
 83, chief
@@ -7884,7 +7828,6 @@
 83, must
 83, thou
 85, should
-86, me
 87, among
 87, gutenberg
 87, project
@@ -7899,13 +7842,11 @@
 93, first
 94, men
 95, see
-95, us
 96, out
 96, whose
 97, nor
 97, warrior
 99, could
-99, do
 100, may
 101, nation
 101, those
@@ -7922,7 +7863,6 @@
 112, these
 113, came
 114, what
-116, p
 118, never
 119, little
 120, good
@@ -7930,33 +7870,26 @@
 128, many
 128, more
 130, other
-130, up
 132, into
 133, its
 134, like
 143, than
-144, we
 146, indian
 147, would
 148, been
 148, indians
 148, said
 148, very
-151, if
 154, has
 155, then
 158, there
-172, so
 183, man
 187, one
-201, an
 205, will
 206, our
-213, no
 227, she
 234, spirit
 240, you
-263, my
 274, all
 282, this
 284, upon
@@ -7964,36 +7897,22 @@
 295, him
 311, great
 312, when
-318, at
 320, have
 334, who
-336, on
 375, but
 381, not
-388, be
 421, them
-428, or
-439, i
 447, from
-469, by
 469, her
 486, for
 486, had
 488, were
-557, as
 596, which
-618, is
 637, was
-638, it
 697, their
 739, with
 759, that
 917, they
 954, his
-979, he
-1281, in
-1733, a
-2143, to
 3180, and
-3770, of
 7652, the

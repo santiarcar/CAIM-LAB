@@ -4,7 +4,6 @@
 1, _disunited_
 1, _divided_
 1, _his_
-1, _in
 1, _know_
 1, _marie
 1, _that
@@ -12,8 +11,6 @@
 1, _thee_
 1, _they_
 1, _thought_
-1, _to
-1, _w
 1, _were_
 1, _would_
 1, abated
@@ -76,7 +73,6 @@
 1, agreed
 1, agriculture
 1, aide
-1, ak
 1, alienate
 1, allotted
 1, allowed
@@ -451,7 +447,6 @@
 1, data
 1, daughter's
 1, daunted
-1, de
 1, deadliest
 1, deadly
 1, dearer
@@ -569,8 +564,6 @@
 1, dust
 1, dwelling
 1, dwelt
-1, dã
-1, e'en
 1, eagle's
 1, earliest
 1, earth's
@@ -940,7 +933,6 @@
 1, hurriedly
 1, husband
 1, hypertext
-1, i'd
 1, identification
 1, identify
 1, idolatry
@@ -1224,7 +1216,6 @@
 1, myth
 1, national
 1, nationality
-1, ne'er
 1, nearer
 1, necessarily
 1, necessity
@@ -1252,9 +1243,6 @@
 1, nudity
 1, numbered
 1, numerous
-1, o'erladen
-1, o'ershadowed
-1, o'erwhelmed
 1, oath
 1, obedience
 1, obeyed
@@ -1343,7 +1331,6 @@
 1, perplexed
 1, persuade
 1, peruvian
-1, pg
 1, pglaf
 1, philosophers
 1, philosophic
@@ -1885,7 +1872,6 @@
 1, tender
 1, tenderest
 1, tents
-1, th
 1, thankful
 1, thanks
 1, that's
@@ -1918,7 +1904,6 @@
 1, tinted
 1, tiny
 1, titled
-1, tm's
 1, tmay
 1, tobacco
 1, token
@@ -1979,8 +1964,6 @@
 1, twining
 1, txt
 1, types
-1, u
-1, un
 1, unalloyed
 1, unanimous
 1, unattacked
@@ -2055,7 +2038,6 @@
 1, urging
 1, useful
 1, useless
-1, ut
 1, utopia's
 1, utterance
 1, vaguely
@@ -2123,8 +2105,6 @@
 1, waved
 1, wavelets
 1, waving
-1, we'd
-1, we'll
 1, weakness
 1, weaknesses
 1, weal
@@ -2192,7 +2172,6 @@
 1, zeal
 1, zephyrs
 1, zip
-2, _a
 2, _ibid_
 2, _withrow's
 2, absence
@@ -2361,7 +2340,6 @@
 2, dower
 2, dreams
 2, drive
-2, e'er
 2, eagles
 2, early
 2, earned
@@ -2384,7 +2362,6 @@
 2, especially
 2, essay
 2, essays
-2, et
 2, eternally
 2, eternity
 2, europe's
@@ -2435,7 +2412,6 @@
 2, friendship
 2, fruits
 2, fulfilling
-2, g
 2, gainsay
 2, gale
 2, generations
@@ -2459,7 +2435,6 @@
 2, growing
 2, guests
 2, guide
-2, h
 2, happiest
 2, harbour
 2, hardship
@@ -2484,7 +2459,6 @@
 2, hours
 2, house
 2, humble
-2, i'll
 2, illness
 2, illumed
 2, illumes
@@ -2547,7 +2521,6 @@
 2, love's
 2, lovers
 2, luxury
-2, lx
 2, madly
 2, magnificent
 2, maiden
@@ -2651,7 +2624,6 @@
 2, proven
 2, purposes
 2, queenston
-2, r
 2, radiance
 2, raged
 2, raised
@@ -2835,7 +2807,6 @@
 2, victim
 2, viewed
 2, vow
-2, w
 2, wait
 2, wake
 2, walls
@@ -2934,7 +2905,6 @@
 3, die
 3, disclaimer
 3, distance
-3, dr
 3, dread
 3, dwells
 3, echoed
@@ -2985,7 +2955,6 @@
 3, inherit
 3, innocent
 3, intent
-3, it's
 3, just
 3, kept
 3, kind
@@ -3007,7 +2976,6 @@
 3, longer
 3, loudly
 3, loyalty
-3, lv
 3, lvi
 3, lvii
 3, lviii
@@ -3193,7 +3161,6 @@
 4, creed
 4, cross
 4, cruel
-4, cã
 4, damages
 4, darkened
 4, date
@@ -3356,7 +3323,6 @@
 5, arbiter
 5, ask
 5, awe
-5, b
 5, band
 5, bless
 5, bloody
@@ -3404,13 +3370,9 @@
 5, grow
 5, half
 5, hill
-5, i'm
-5, iv
-5, ix
 5, lake
 5, law
 5, lawrence
-5, li
 5, lii
 5, limited
 5, lofty
@@ -3461,20 +3423,15 @@
 5, trial
 5, trust
 5, until
-5, v
-5, vi
 5, victory
 5, vii
 5, warfare
 5, wolfe
 5, wonder
-5, x
-5, xi
 5, xii
 5, xiii
 5, xiv
 5, xix
-5, xl
 5, xli
 5, xlii
 5, xliii
@@ -3484,11 +3441,9 @@
 5, xlvi
 5, xlvii
 5, xlviii
-5, xv
 5, xvi
 5, xvii
 5, xviii
-5, xx
 5, xxi
 5, xxii
 5, xxiii
@@ -3527,7 +3482,6 @@
 6, christianity
 6, comply
 6, cry
-6, d
 6, death
 6, defeat
 6, distribute
@@ -3550,7 +3504,6 @@
 6, heights
 6, hopes
 6, hundred
-6, ii
 6, iii
 6, indians
 6, king
@@ -3570,11 +3523,9 @@
 6, need
 6, online
 6, orders
-6, p
 6, pass
 6, possessed
 6, presence
-6, re
 6, received
 6, relief
 6, remain
@@ -3587,7 +3538,6 @@
 6, sin
 6, sound
 6, spoke
-6, st
 6, stay
 6, support
 6, sure
@@ -3615,7 +3565,6 @@
 7, bid
 7, bring
 7, british
-7, c
 7, canadian
 7, child
 7, choose
@@ -3639,15 +3588,12 @@
 7, followed
 7, further
 7, gave
-7, go
 7, gratitude
 7, hard
 7, hast
 7, heaven
 7, hidden
 7, hold
-7, i've
-7, l
 7, lands
 7, lonely
 7, low
@@ -3732,7 +3678,6 @@
 8, world
 9, act
 9, agree
-9, ah
 9, almost
 9, angel
 9, around
@@ -3789,7 +3734,6 @@
 10, refund
 10, river
 10, roar
-10, s
 10, side
 10, solitude
 10, stands
@@ -3800,7 +3744,6 @@
 10, whom
 10, wrong
 10, years
-11, am
 11, bow
 11, calm
 11, deep
@@ -3829,7 +3772,6 @@
 12, copy
 12, except
 12, eye
-12, f
 12, gain
 12, given
 12, heard
@@ -3865,7 +3807,6 @@
 14, since
 14, speak
 14, united
-14, up
 14, use
 14, word
 15, best
@@ -3906,7 +3847,6 @@
 17, less
 17, like
 17, long
-17, o'er
 17, time
 18, agreement
 18, dear
@@ -3943,7 +3883,6 @@
 24, war
 24, where
 25, again
-25, e
 25, mine
 25, only
 25, such
@@ -3955,7 +3894,6 @@
 27, faith
 27, light
 27, name
-27, oh
 28, hand
 28, men
 28, might
@@ -3963,7 +3901,6 @@
 28, see
 29, forth
 29, know
-29, us
 30, could
 30, great
 30, thought
@@ -3975,7 +3912,6 @@
 33, shall
 34, were
 35, before
-36, an
 36, away
 37, alone
 37, nor
@@ -3989,7 +3925,6 @@
 40, there
 40, whose
 40, works
-41, do
 42, land
 43, any
 43, life
@@ -3999,26 +3934,20 @@
 46, been
 46, our
 47, when
-48, at
 48, one
 48, these
 48, upon
-48, ye
 49, what
 50, work
 51, may
-51, no
 52, still
 53, day
 53, each
 55, thus
 56, him
 56, must
-56, tm
 56, yet
 57, god
-57, we
-58, if
 58, who
 60, now
 61, can
@@ -4032,7 +3961,6 @@
 72, thy
 77, thee
 78, would
-80, so
 83, was
 85, will
 86, have
@@ -4045,29 +3973,14 @@
 109, they
 110, from
 111, you
-119, it
-120, on
 124, their
 124, this
 129, all
-129, me
-135, as
-137, by
-140, he
-142, or
-145, be
 154, with
-174, is
 178, his
 181, but
 188, for
 203, not
-249, my
 262, that
-340, i
-373, in
-376, a
-534, of
-544, to
 876, and
 1088, the

@@ -29,7 +29,6 @@
 1, agitation
 1, agreed
 1, aim
-1, ak
 1, akin
 1, alarum
 1, alerter
@@ -93,7 +92,6 @@
 1, ausgewachsen
 1, average
 1, awoke
-1, ay
 1, background
 1, bad
 1, bankrupts
@@ -268,8 +266,6 @@
 1, curiosity
 1, currency
 1, current
-1, d
-1, da
 1, damaged
 1, dangerous
 1, dante's
@@ -324,7 +320,6 @@
 1, detain
 1, developes
 1, developing
-1, di
 1, dialogue
 1, dicit
 1, difficult
@@ -681,9 +676,6 @@
 1, knight
 1, known
 1, knows
-1, l'anima
-1, l'antica
-1, l'intelletto
 1, lack
 1, lacking
 1, ladder
@@ -908,7 +900,6 @@
 1, personality
 1, perspective
 1, petty
-1, pg
 1, pglaf
 1, phenomena
 1, philip
@@ -1081,7 +1072,6 @@
 1, room
 1, rumoured
 1, runaway
-1, s'aggrandisce
 1, sad
 1, salt
 1, sanctified
@@ -1101,7 +1091,6 @@
 1, scott
 1, scripture
 1, scruples
-1, se
 1, search
 1, season
 1, secondary
@@ -1284,7 +1273,6 @@
 1, thus
 1, thyself
 1, till
-1, tm's
 1, together
 1, tongues
 1, took
@@ -1301,7 +1289,6 @@
 1, triumphant
 1, truer
 1, try
-1, tu
 1, tuorum
 1, turned
 1, turning
@@ -1327,7 +1314,6 @@
 1, unsolicited
 1, unusual
 1, updated
-1, ut
 1, vague
 1, valois
 1, value
@@ -1392,7 +1378,6 @@
 2, active
 2, afternoon
 2, against
-2, al
 2, alfred
 2, alike
 2, altogether
@@ -1461,7 +1446,6 @@
 2, discourse
 2, displayed
 2, distinctions
-2, dr
 2, drake
 2, due
 2, eager
@@ -1525,7 +1509,6 @@
 2, hurt
 2, hybris
 2, hymns
-2, i
 2, ich
 2, image
 2, implied
@@ -1537,7 +1520,6 @@
 2, intellect
 2, interpreting
 2, italians
-2, j
 2, journeys
 2, july
 2, keep
@@ -1565,7 +1547,6 @@
 2, marked
 2, mass
 2, merely
-2, mi
 2, michael
 2, minerva
 2, mobile
@@ -1668,7 +1649,6 @@
 2, specified
 2, spectacle
 2, sphere
-2, st
 2, starry
 2, stars
 2, strike
@@ -1731,7 +1711,6 @@
 3, art
 3, audience
 3, author
-3, b
 3, became
 3, because
 3, becomes
@@ -1752,7 +1731,6 @@
 3, creator
 3, creature
 3, curious
-3, de
 3, defect
 3, defective
 3, derivative
@@ -1837,14 +1815,12 @@
 3, production
 3, pythagoras
 3, qualities
-3, re
 3, ready
 3, reason
 3, receive
 3, renaissance
 3, restrictions
 3, royalty
-3, s
 3, sacred
 3, sacrifice
 3, shall
@@ -1959,7 +1935,6 @@
 4, union
 4, unity
 4, unless
-4, us
 4, using
 4, version
 4, visible
@@ -1971,7 +1946,6 @@
 5, already
 5, anyone
 5, before
-5, c
 5, compliance
 5, contact
 5, doctrine
@@ -2003,7 +1977,6 @@
 5, state
 5, too
 5, universe
-5, up
 5, various
 5, words
 6, above
@@ -2104,7 +2077,6 @@
 10, access
 10, between
 10, even
-10, f
 10, forth
 10, infinite
 10, italian
@@ -2115,7 +2087,6 @@
 10, set
 10, under
 10, united
-10, we
 10, without
 11, also
 11, can
@@ -2159,7 +2130,6 @@
 17, what
 18, agreement
 18, must
-19, do
 19, god
 19, have
 19, him
@@ -2167,52 +2137,33 @@
 19, one
 19, such
 21, but
-21, so
 21, there
 22, foundation
 22, other
 22, terms
-25, e
 25, its
-25, no
-26, an
 26, spirit
 27, are
 27, electronic
 28, things
 28, would
-29, on
 30, bruno
 33, works
 34, had
-34, if
-38, at
 38, not
-42, be
-42, he
 46, any
 48, from
 49, work
 51, his
 53, which
-55, is
-56, by
-56, tm
 63, this
 66, was
-67, it
 68, for
-70, as
 73, all
 75, you
 87, gutenberg
 87, project
 95, with
 96, that
-112, or
-164, a
 181, and
-197, in
-218, to
-460, of
 629, the

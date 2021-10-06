@@ -18,7 +18,6 @@
 1, actively
 1, acuminata
 1, acutest
-1, ad
 1, adder
 1, additions
 1, address
@@ -45,7 +44,6 @@
 1, agreed
 1, agrees
 1, agriculturalists
-1, ak
 1, akber
 1, alarmed
 1, albemarle
@@ -477,8 +475,6 @@
 1, cycling
 1, cygnoides
 1, cylinder
-1, d'archiac
-1, d'orbigny
 1, daisy
 1, damaged
 1, damper
@@ -897,7 +893,6 @@
 1, furious
 1, furriers
 1, futile
-1, g
 1, gait
 1, gall
 1, gallinaceae
@@ -1217,7 +1212,6 @@
 1, juan
 1, justifiable
 1, justify
-1, k
 1, keenly
 1, keeps
 1, kent
@@ -1245,7 +1239,6 @@
 1, laugher
 1, laughter
 1, lava
-1, le
 1, leagues
 1, learning
 1, legally
@@ -1441,7 +1434,6 @@
 1, nuisance
 1, nuptial
 1, nuthatch
-1, o
 1, oaks
 1, oat
 1, obey
@@ -1571,7 +1563,6 @@
 1, pertinacious
 1, pestilence
 1, petunia
-1, pg
 1, pglaf
 1, pheasant
 1, pheasants
@@ -2146,7 +2137,6 @@
 1, tired
 1, tissues
 1, title
-1, tm's
 1, toed
 1, tone
 1, tones
@@ -2246,7 +2236,6 @@
 1, usefulness
 1, uselessness
 1, uses
-1, ut
 1, utilitarian
 1, vaginalis
 1, vaguely
@@ -2354,7 +2343,6 @@
 1, zip
 1, zoologist
 1, zoologists
-1, ï
 2, absorbed
 2, absurd
 2, abundance
@@ -2629,7 +2617,6 @@
 2, cuttle
 2, cycles
 2, cylinders
-2, d
 2, dam
 2, damage
 2, dare
@@ -3040,7 +3027,6 @@
 2, mistake
 2, mistaken
 2, mistakes
-2, mm
 2, moderate
 2, mole
 2, mollusca
@@ -3064,7 +3050,6 @@
 2, myanthus
 2, myrmecocystus
 2, mystery
-2, n
 2, nature's
 2, nautilus
 2, nectaries
@@ -3110,7 +3095,6 @@
 2, overtop
 2, owen's
 2, owns
-2, ox
 2, pad
 2, pain
 2, paley
@@ -3440,7 +3424,6 @@
 2, unsupported
 2, untouched
 2, urge
-2, v
 2, vainly
 2, valenciennes
 2, van
@@ -3448,7 +3431,6 @@
 2, vermiform
 2, verneuil
 2, vestiges
-2, vi
 2, vincent
 2, viola
 2, viscera
@@ -3477,7 +3459,6 @@
 2, wreck
 2, wrecks
 2, wrote
-2, x
 2, yorkshire
 2, zoological
 3, abdomen
@@ -3969,14 +3950,12 @@
 3, rounded
 3, royalty
 3, rump
-3, s
 3, santo
 3, satisfied
 3, save
 3, schiodte
 3, scotland
 3, sculpture
-3, se
 3, sebright
 3, security
 3, sedgwick
@@ -4290,7 +4269,6 @@
 4, john
 4, kattywar
 4, kidney
-4, l
 4, largest
 4, lat
 4, learn
@@ -4714,7 +4692,6 @@
 5, pyramidal
 5, quagga
 5, quicker
-5, r
 5, reached
 5, reappearance
 5, reared
@@ -4842,7 +4819,6 @@
 6, civilised
 6, classificatory
 6, cliff
-6, co
 6, cock
 6, communicated
 6, comparatively
@@ -4953,7 +4929,6 @@
 6, ovigerous
 6, ovules
 6, owe
-6, p
 6, partially
 6, peculiarity
 6, pelvis
@@ -5046,7 +5021,6 @@
 7, atlantic
 7, attacks
 7, authorities
-7, b
 7, beasts
 7, beauty
 7, bermuda
@@ -5441,7 +5415,6 @@
 9, inherit
 9, insuperable
 9, internal
-9, j
 9, labour
 9, language
 9, languages
@@ -5479,7 +5452,6 @@
 9, prove
 9, public
 9, quadrupeds
-9, re
 9, reader
 9, recapitulation
 9, received
@@ -5577,7 +5549,6 @@
 10, gradation
 10, grafting
 10, gray
-10, h
 10, honey
 10, horizontal
 10, identically
@@ -5632,7 +5603,6 @@
 10, treatises
 10, twelve
 10, union
-10, w
 10, whence
 10, wollaston
 10, worked
@@ -5867,7 +5837,6 @@
 13, indian
 13, judge
 13, killed
-13, la
 13, leads
 13, literary
 13, lowlands
@@ -6091,7 +6060,6 @@
 16, results
 16, self
 16, source
-16, st
 16, study
 16, succeeding
 16, supplant
@@ -6311,7 +6279,6 @@
 22, hope
 22, increasing
 22, lyell
-22, m
 22, merely
 22, nests
 22, raised
@@ -6468,7 +6435,6 @@
 27, wonderful
 27, workers
 28, cell
-28, de
 28, degrees
 28, divergence
 28, down
@@ -6492,7 +6458,6 @@
 29, discovered
 29, earlier
 29, follow
-29, go
 29, including
 29, independent
 29, inhabited
@@ -6553,7 +6518,6 @@
 32, until
 32, whereas
 33, amongst
-33, e
 33, easily
 33, enabled
 33, equal
@@ -6662,7 +6626,6 @@
 41, used
 42, acquired
 42, archipelago
-42, c
 42, day
 42, difficulties
 42, embryo
@@ -6701,7 +6664,6 @@
 45, causes
 45, competition
 45, extent
-45, f
 45, kinds
 45, making
 45, southern
@@ -6725,7 +6687,6 @@
 47, analogous
 47, colour
 47, creation
-47, dr
 47, family
 47, geographical
 47, law
@@ -6795,7 +6756,6 @@
 56, progenitor
 56, seed
 56, short
-56, tm
 56, unknown
 57, alone
 57, due
@@ -6865,7 +6825,6 @@
 67, hardly
 67, make
 68, again
-68, am
 68, favourable
 69, best
 69, instinct
@@ -6959,7 +6918,6 @@
 94, fertility
 94, shall
 94, think
-95, up
 96, differ
 96, difference
 96, individual
@@ -6988,7 +6946,6 @@
 104, importance
 104, insects
 105, single
-105, us
 107, sea
 108, country
 108, doubt
@@ -7008,7 +6965,6 @@
 114, productions
 115, water
 116, land
-116, mr
 116, probably
 116, sometimes
 117, quite
@@ -7048,8 +7004,6 @@
 147, present
 149, genus
 149, what
-150, my
-153, me
 153, well
 154, modified
 157, facts
@@ -7061,7 +7015,6 @@
 162, was
 165, instance
 166, few
-166, he
 166, modification
 167, birds
 168, view
@@ -7107,7 +7060,6 @@
 253, having
 256, new
 257, distinct
-257, do
 260, nature
 262, great
 264, those
@@ -7122,7 +7074,6 @@
 299, there
 307, life
 307, several
-333, no
 335, plants
 339, between
 346, two
@@ -7135,14 +7086,11 @@
 416, its
 420, when
 434, varieties
-435, if
 453, many
 489, would
 499, these
-510, an
 524, may
 527, can
-532, so
 544, they
 550, each
 551, any
@@ -7151,7 +7099,6 @@
 613, has
 645, one
 659, some
-704, at
 713, their
 743, will
 765, other
@@ -7159,27 +7106,14 @@
 867, but
 891, not
 931, been
-994, i
 1008, this
 1046, with
-1069, it
 1147, from
 1149, for
 1155, are
-1166, we
 1236, which
-1268, or
-1377, by
-1444, is
 1546, species
-1568, on
-1602, as
-1675, be
 1767, have
 2098, that
-2528, a
-3685, to
-4073, in
 4507, and
-7972, of
 10467, the

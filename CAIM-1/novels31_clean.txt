@@ -4,7 +4,6 @@
 1, _four_
 1, _him_
 1, _how_
-1, _i_
 1, _instantaneous_
 1, _minus_
 1, _nil_
@@ -71,7 +70,6 @@
 1, aghast
 1, agonized
 1, aimlessly
-1, ak
 1, alarmed
 1, alarming
 1, alert
@@ -525,7 +523,6 @@
 1, curve
 1, customary
 1, cycle
-1, d
 1, dainty
 1, damp
 1, danced
@@ -711,7 +708,6 @@
 1, echoed
 1, economic
 1, economical
-1, ed
 1, eddies
 1, eddy
 1, edifice
@@ -1055,7 +1051,6 @@
 1, haves
 1, hawk
 1, haze
-1, he'll
 1, headlines
 1, health
 1, heaped
@@ -1114,7 +1109,6 @@
 1, hypertext
 1, hypertrophied
 1, hysterical
-1, i'd
 1, ice
 1, ichthyosaurus
 1, ideal
@@ -1122,7 +1116,6 @@
 1, identification
 1, identify
 1, idols
-1, ii
 1, iii
 1, imagined
 1, imagining
@@ -1251,9 +1244,6 @@
 1, irritable
 1, irs
 1, island
-1, it_
-1, iv
-1, ix
 1, jamming
 1, jarring
 1, jars
@@ -1457,7 +1447,6 @@
 1, motives
 1, mountaineering
 1, mouths
-1, mr
 1, multiply
 1, multitude
 1, multitudes
@@ -1534,7 +1523,6 @@
 1, oddness
 1, offers
 1, offspring
-1, oh
 1, oil
 1, oiled
 1, oily
@@ -1639,7 +1627,6 @@
 1, persuading
 1, petals
 1, petulance
-1, pg
 1, pglaf
 1, phantasm
 1, phases
@@ -2298,7 +2285,6 @@
 1, tire
 1, tiring
 1, title
-1, tm's
 1, toiler
 1, tolerably
 1, tolerance
@@ -2406,12 +2392,10 @@
 1, urchin
 1, useful
 1, useless
-1, ut
 1, utilize
 1, utilized
 1, utopian
 1, utopias
-1, v
 1, vacant
 1, vaguest
 1, vain
@@ -2430,7 +2414,6 @@
 1, version
 1, vertically
 1, vessels
-1, vi
 1, vibrated
 1, viewing
 1, vigour
@@ -2469,7 +2452,6 @@
 1, waving
 1, wax
 1, waxen
-1, we'd
 1, weaker
 1, weakly
 1, wealth
@@ -2535,8 +2517,6 @@
 1, writhing
 1, wrote
 1, wrought
-1, x
-1, xi
 1, xii
 1, yawned
 1, yielding
@@ -2551,7 +2531,6 @@
 1, zero
 1, zip
 1, zoological
-1, ï
 2, _was_
 2, abominable
 2, accept
@@ -2673,7 +2652,6 @@
 2, clothed
 2, clutched
 2, clutching
-2, co
 2, collapsed
 2, columns
 2, comfortable
@@ -2770,7 +2748,6 @@
 2, dome
 2, doses
 2, downpour
-2, dr
 2, dragging
 2, drawings
 2, dreamed
@@ -2932,7 +2909,6 @@
 2, hugely
 2, hum
 2, hypothesis
-2, i'll
 2, ignorance
 2, immediately
 2, implied
@@ -3147,7 +3123,6 @@
 2, range
 2, rats
 2, rayless
-2, re
 2, reaction
 2, readable
 2, readjust
@@ -3435,7 +3410,6 @@
 3, aristocracy
 3, assume
 3, awake
-3, b
 3, backward
 3, band
 3, bathing
@@ -3597,7 +3571,6 @@
 3, halted
 3, hardly
 3, hasty
-3, he's
 3, herbert
 3, hidden
 3, hiding
@@ -3608,7 +3581,6 @@
 3, hopping
 3, horizontal
 3, hotter
-3, i've
 3, ideas
 3, illuminated
 3, imagination
@@ -3668,7 +3640,6 @@
 3, noises
 3, noted
 3, numbers
-3, o'clock
 3, obscurity
 3, occupied
 3, official
@@ -3724,7 +3695,6 @@
 3, run
 3, rushed
 3, rust
-3, s
 3, science
 3, scientific
 3, score
@@ -3917,7 +3887,6 @@
 4, frenzy
 4, friend
 4, fro
-4, g
 4, geometry
 4, gesture
 4, ghosts
@@ -3926,7 +3895,6 @@
 4, greatly
 4, groping
 4, grotesque
-4, h
 4, harsh
 4, having
 4, headlong
@@ -4068,7 +4036,6 @@
 5, breath
 5, brighter
 5, burning
-5, c
 5, calm
 5, carried
 5, carry
@@ -4564,10 +4531,8 @@
 10, determined
 10, exactly
 10, except
-10, f
 10, house
 10, humanity
-10, i'm
 10, idea
 10, imagine
 10, including
@@ -4628,7 +4593,6 @@
 11, trademark
 11, united
 11, upper
-12, am
 12, beautiful
 12, because
 12, below
@@ -4711,7 +4675,6 @@
 16, fell
 16, followed
 16, going
-16, it's
 16, lay
 16, less
 16, license
@@ -4743,7 +4706,6 @@
 19, earth
 19, flowers
 19, gallery
-19, go
 19, laboratory
 19, match
 19, matches
@@ -4786,7 +4748,6 @@
 22, without
 23, above
 23, air
-23, e
 23, head
 23, make
 23, psychologist
@@ -4854,7 +4815,6 @@
 36, than
 36, things
 36, think
-36, us
 37, after
 37, another
 37, well
@@ -4863,7 +4823,6 @@
 38, same
 38, such
 39, away
-39, do
 39, him
 40, back
 40, began
@@ -4899,7 +4858,6 @@
 54, over
 55, traveller
 55, work
-56, tm
 56, when
 57, felt
 57, thought
@@ -4911,13 +4869,11 @@
 62, again
 65, thing
 67, are
-69, if
 69, man
 72, seemed
 74, her
 74, like
 74, out
-74, up
 75, been
 75, its
 76, what
@@ -4930,55 +4886,35 @@
 86, them
 86, very
 87, project
-88, an
 88, saw
 89, said
-90, we
 91, machine
 91, their
 92, which
 93, could
 95, some
-102, no
 105, came
-112, be
 113, little
-113, so
 114, into
 115, upon
 117, one
-122, he
-123, by
 125, they
 127, have
 127, there
 129, his
-133, is
 134, then
 135, not
 136, all
 137, from
-148, on
 158, were
-162, or
 198, this
 203, you
 205, time
 209, but
 247, for
-258, at
 263, with
-281, as
-281, me
 354, had
-435, it
-440, my
 454, that
 551, was
-598, in
-775, to
-873, a
-1250, i
-1272, of
 1313, and
 2439, the

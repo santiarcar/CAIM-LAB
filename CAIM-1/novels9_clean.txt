@@ -141,7 +141,6 @@
 1, battle
 1, bay
 1, bays
-1, bc
 1, beard
 1, becomes
 1, becoming
@@ -238,7 +237,6 @@
 1, clears
 1, click
 1, clings
-1, co
 1, coast
 1, coastwise
 1, code
@@ -367,7 +365,6 @@
 1, currently
 1, custom
 1, customs
-1, d
 1, daily
 1, dales
 1, damage
@@ -591,7 +588,6 @@
 1, extraordinary
 1, extreme
 1, eye
-1, f
 1, fables
 1, facilities
 1, facsimile
@@ -735,7 +731,6 @@
 1, identify
 1, identifying
 1, iii
-1, il
 1, illness
 1, imagined
 1, immaterial
@@ -824,7 +819,6 @@
 1, jealousy
 1, joined
 1, journal
-1, jr
 1, judgment
 1, july
 1, jurisdiction
@@ -835,7 +829,6 @@
 1, kingdom
 1, knave
 1, knowledge
-1, l
 1, laborers
 1, labors
 1, ladder
@@ -912,7 +905,6 @@
 1, massachusetts
 1, master
 1, maturity
-1, me
 1, meddle
 1, meddling
 1, meet
@@ -951,8 +943,6 @@
 1, mortgage
 1, mostly
 1, movable
-1, mr
-1, ms
 1, multiple
 1, municipal
 1, mutilate
@@ -989,7 +979,6 @@
 1, november
 1, nowhere
 1, numberless
-1, o
 1, obedience
 1, obliterate
 1, observations
@@ -1027,7 +1016,6 @@
 1, owing
 1, owner
 1, owners
-1, pa
 1, page
 1, paper
 1, par
@@ -1180,7 +1168,6 @@
 1, rates
 1, ratio
 1, ravings
-1, re
 1, reached
 1, reader
 1, readily
@@ -1377,7 +1364,6 @@
 1, sporadic
 1, sport
 1, spreading
-1, st
 1, stage
 1, stake
 1, standard
@@ -1583,7 +1569,6 @@
 1, withering
 1, woe
 1, wonder
-1, x
 1, xxxvii
 1, year's
 1, yield
@@ -1662,7 +1647,6 @@
 2, carried
 2, carrying
 2, case
-2, cd
 2, cease
 2, cecilia
 2, census
@@ -1845,7 +1829,6 @@
 2, hundreds
 2, husbandman
 2, hypertext
-2, i
 2, idle
 2, immediate
 2, imminent
@@ -1872,7 +1855,6 @@
 2, john
 2, judicious
 2, justly
-2, l'europe
 2, late
 2, lead
 2, leading
@@ -1946,20 +1928,16 @@
 2, origin
 2, orleans
 2, otherwise
-2, ou
 2, owes
 2, owns
-2, p
 2, pages
 2, partnership
 2, pay
 2, persuaded
-2, pg
 2, philadelphia
 2, philosophical
 2, physical
 2, powerful
-2, pp
 2, practical
 2, premises
 2, prepare
@@ -2207,7 +2185,6 @@
 3, fortunes
 3, france
 3, french
-3, go
 3, habit
 3, hence
 3, historical
@@ -2282,7 +2259,6 @@
 3, rich
 3, rulers
 3, rural
-3, s
 3, secure
 3, secured
 3, sense
@@ -2454,7 +2430,6 @@
 5, almost
 5, books
 5, bring
-5, c
 5, carnegie
 5, cause
 5, certainly
@@ -2562,7 +2537,6 @@
 6, tendency
 6, term
 6, thousand
-6, tm
 6, too
 6, town
 6, vast
@@ -2663,7 +2637,6 @@
 9, she
 9, though
 9, two
-9, up
 9, view
 9, war
 10, clause
@@ -2770,7 +2743,6 @@
 19, now
 19, under
 20, form
-20, he
 21, present
 21, some
 21, them
@@ -2783,15 +2755,12 @@
 24, who
 25, among
 25, much
-25, us
 26, only
 26, when
 27, even
 28, gutenberg
 28, people
-29, an
 29, can
-29, do
 30, most
 30, power
 31, etext
@@ -2807,18 +2776,14 @@
 37, government
 37, great
 39, our
-40, so
-42, if
 42, states
 42, york
 44, been
 44, other
 44, than
 45, one
-47, no
 48, may
 48, they
-49, at
 50, country
 50, more
 55, new
@@ -2826,7 +2791,6 @@
 56, all
 56, from
 56, you
-59, on
 61, their
 62, would
 64, but
@@ -2838,19 +2802,8 @@
 81, not
 81, which
 93, are
-101, we
-102, or
-107, by
 110, for
-118, as
 142, this
-155, be
-157, it
-205, is
 248, that
-289, a
-304, in
 385, and
-480, to
-847, of
 1210, the

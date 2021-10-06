@@ -43,9 +43,7 @@
 1, ahem
 1, ahoo
 1, ahuwora
-1, ai
 1, aihai
-1, ak
 1, alala
 1, alcove
 1, aleut
@@ -485,8 +483,6 @@
 1, curling
 1, curves
 1, cuts
-1, d
-1, d'you
 1, daily
 1, damaged
 1, dandelion
@@ -661,7 +657,6 @@
 1, epilepsy
 1, ere
 1, errors
-1, es
 1, escaped
 1, establishment
 1, examining
@@ -893,7 +888,6 @@
 1, gurgle
 1, gurgly
 1, gypsies
-1, h
 1, habit
 1, habits
 1, hail
@@ -956,7 +950,6 @@
 1, hits
 1, hive
 1, hives
-1, hm
 1, hmph
 1, hoarse
 1, hobbled
@@ -1234,7 +1227,6 @@
 1, messy
 1, method
 1, methods
-1, mf
 1, milky
 1, millet
 1, mired
@@ -1291,7 +1283,6 @@
 1, natives
 1, natural
 1, naught
-1, ne'er
 1, neat
 1, neath
 1, neatly
@@ -1333,7 +1324,6 @@
 1, nursing
 1, nutting
 1, nuzzling
-1, o'clock
 1, objection
 1, obsolete
 1, occasion
@@ -1375,7 +1365,6 @@
 1, overlook
 1, overlooked
 1, overtaking
-1, ow
 1, owed
 1, owest
 1, owl
@@ -1438,7 +1427,6 @@
 1, perpendicular
 1, pershad
 1, pewter
-1, pg
 1, pglaf
 1, phosphorescent
 1, pickers
@@ -2045,7 +2033,6 @@
 1, tire
 1, tis
 1, title
-1, tm's
 1, toe
 1, ton
 1, toot
@@ -2137,7 +2124,6 @@
 1, useless
 1, usual
 1, usually
-1, ut
 1, uttered
 1, valleys
 1, variety
@@ -2265,7 +2251,6 @@
 1, youth
 1, zaharrof
 1, zip
-1, ï
 2, accept
 2, accidents
 2, accordance
@@ -2295,7 +2280,6 @@
 2, attend
 2, available
 2, avoid
-2, ay
 2, bachelors
 2, backing
 2, bade
@@ -2480,7 +2464,6 @@
 2, dotted
 2, doubled
 2, doubt
-2, dr
 2, dragging
 2, drank
 2, drawing
@@ -2498,7 +2481,6 @@
 2, elders
 2, eldest
 2, electronically
-2, em
 2, employees
 2, enjoying
 2, enter
@@ -2584,7 +2566,6 @@
 2, guddee
 2, guess
 2, gull
-2, ha
 2, hadn't
 2, haired
 2, hairy
@@ -2735,7 +2716,6 @@
 2, nosing
 2, notion
 2, nut
-2, o'er
 2, obeys
 2, obtaining
 2, odds
@@ -2819,7 +2799,6 @@
 2, ranks
 2, rattled
 2, ravines
-2, re
 2, reaching
 2, readable
 2, receipt
@@ -3016,7 +2995,6 @@
 2, tripped
 2, trips
 2, trombone
-2, ts
 2, tucked
 2, tunk
 2, tusk
@@ -3111,7 +3089,6 @@
 3, applicable
 3, assembly
 3, awful
-3, b
 3, baggage
 3, bah
 3, bamboos
@@ -3260,7 +3237,6 @@
 3, guard
 3, guj
 3, gurgling
-3, h'm
 3, hah
 3, hammer
 3, handed
@@ -3269,7 +3245,6 @@
 3, hate
 3, heel
 3, hence
-3, hi
 3, hiss
 3, hissing
 3, holding
@@ -3401,7 +3376,6 @@
 3, rule
 3, rules
 3, rupees
-3, s
 3, sacred
 3, sad
 3, sank
@@ -3470,7 +3444,6 @@
 3, swayed
 3, sweeping
 3, swell
-3, ta
 3, takes
 3, teaching
 3, tearing
@@ -3513,7 +3486,6 @@
 3, wasn't
 3, wast
 3, waste
-3, we'll
 3, week
 3, wheat
 3, wheel
@@ -3635,7 +3607,6 @@
 4, gets
 4, goats
 4, grandfather
-4, h'sh
 4, halibut
 4, handle
 4, hanging
@@ -3745,7 +3716,6 @@
 4, sport
 4, spun
 4, squadron
-4, st
 4, stables
 4, stars
 4, started
@@ -3828,7 +3798,6 @@
 5, bridle
 5, bruised
 5, bungalow
-5, c
 5, cavalry
 5, certain
 5, chuckle
@@ -3865,12 +3834,10 @@
 5, grunting
 5, gulls
 5, happy
-5, he'll
 5, herds
 5, herself
 5, hid
 5, horns
-5, i'd
 5, ikki
 5, inland
 5, isn't
@@ -3959,10 +3926,8 @@
 5, tuft
 5, tumbled
 5, twigs
-5, un
 5, upper
 5, watching
-5, we've
 5, weave
 5, whether
 5, whisper
@@ -3975,7 +3940,6 @@
 6, able
 6, accepted
 6, afternoon
-6, ah
 6, aloud
 6, already
 6, anxious
@@ -4035,7 +3999,6 @@
 6, houses
 6, howl
 6, hunted
-6, i'll
 6, kicked
 6, kicking
 6, king's
@@ -4120,7 +4083,6 @@
 6, waiting
 6, waves
 6, waving
-6, we're
 6, web
 6, weeks
 6, weight
@@ -4267,7 +4229,6 @@
 8, haven't
 8, heels
 8, hit
-8, ho
 8, hours
 8, http
 8, imagine
@@ -4349,7 +4310,6 @@
 9, goes
 9, government
 9, grazing
-9, he's
 9, heads
 9, hidden
 9, hood
@@ -4411,7 +4371,6 @@
 10, country
 10, driven
 10, exactly
-10, f
 10, family
 10, fish
 10, flung
@@ -4639,7 +4598,6 @@
 15, front
 15, hast
 15, hind
-15, i've
 15, indeed
 15, khan's
 15, leave
@@ -4727,7 +4685,6 @@
 19, eye
 19, guns
 19, hill
-19, it's
 19, least
 19, means
 19, might
@@ -4764,7 +4721,6 @@
 21, wise
 22, foundation
 22, heavy
-22, i'm
 22, mouth
 22, ravine
 22, true
@@ -4783,7 +4739,6 @@
 23, word
 24, cattle
 24, caught
-24, e
 24, free
 24, house
 24, many
@@ -4880,12 +4835,10 @@
 34, among
 34, new
 34, nothing
-34, o
 34, think
 34, tiger
 35, gray
 35, neck
-35, oh
 35, sat
 35, troop
 36, across
@@ -4947,13 +4900,11 @@
 51, looked
 53, seals
 53, white
-53, ye
 53, young
 54, day
 54, kill
 55, last
 55, some
-56, tm
 57, father
 57, kaa
 57, still
@@ -4979,7 +4930,6 @@
 64, under
 65, made
 65, may
-66, us
 67, great
 67, here
 67, himself
@@ -4996,8 +4946,6 @@
 72, till
 73, about
 73, kotick
-74, am
-76, an
 76, good
 76, long
 76, thee
@@ -5044,11 +4992,8 @@
 112, where
 116, never
 118, bagheera
-120, go
 123, back
 126, could
-130, do
-131, so
 134, into
 137, head
 139, very
@@ -5057,10 +5002,7 @@
 145, man
 146, what
 147, jungle
-148, if
 150, their
-153, no
-160, me
 162, would
 166, were
 168, from
@@ -5069,42 +5011,25 @@
 176, one
 181, will
 187, down
-187, we
-188, my
 188, there
 190, are
-192, by
-201, be
 205, mowgli
 207, out
 212, when
 231, little
 235, have
-246, or
-268, up
 284, had
 304, not
-307, at
 329, you
 337, but
 347, all
-361, on
 367, him
 376, they
-389, it
-421, as
 422, with
 430, said
-458, is
 465, for
 520, was
-602, i
 648, his
 659, that
-735, in
-1060, he
-1153, a
-1261, to
-1318, of
 2317, and
 3637, the

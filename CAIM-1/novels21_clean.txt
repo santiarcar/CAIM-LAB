@@ -4,11 +4,8 @@
 1, _can_
 1, _climb_
 1, _down_
-1, _go_
-1, _i_
 1, _immejitly_
 1, _know_
-1, _me_
 1, _real_
 1, _went_
 1, _you_
@@ -50,7 +47,6 @@
 1, aggregation
 1, ahem
 1, ajar
-1, ak
 1, alligators
 1, alluring
 1, aloft
@@ -134,7 +130,6 @@
 1, awhile
 1, awkward
 1, awoke
-1, b'lieve
 1, babyish
 1, backs
 1, baggage
@@ -315,7 +310,6 @@
 1, clumsy
 1, clusters
 1, clutched
-1, co
 1, coal
 1, coals
 1, coarse
@@ -572,7 +566,6 @@
 1, edgewise
 1, edition
 1, educational
-1, eh
 1, ein
 1, elaborate
 1, elect
@@ -1030,7 +1023,6 @@
 1, loss
 1, lungs
 1, luscious
-1, ma'am
 1, machinery
 1, mad
 1, madly
@@ -1094,7 +1086,6 @@
 1, mortals
 1, mother's
 1, mounting
-1, mt
 1, munch
 1, murderer
 1, murderous
@@ -1107,7 +1098,6 @@
 1, mysteriously
 1, mystery
 1, mystic
-1, n
 1, nap
 1, narrower
 1, nasty
@@ -1199,7 +1189,6 @@
 1, ozite
 1, ozites
 1, ozma's
-1, p
 1, pah
 1, pain
 1, pair
@@ -1248,7 +1237,6 @@
 1, persons
 1, pert
 1, petting
-1, pg
 1, pglaf
 1, phadrig
 1, phoo
@@ -1354,7 +1342,6 @@
 1, queerest
 1, questioned
 1, quivered
-1, r
 1, racing
 1, radiance
 1, rails
@@ -1482,7 +1469,6 @@
 1, rumbled
 1, runs
 1, rush
-1, s'pose
 1, sadly
 1, safer
 1, safest
@@ -1830,7 +1816,6 @@
 1, tiresome
 1, title
 1, titles
-1, tm's
 1, toast
 1, tom
 1, ton
@@ -1919,7 +1904,6 @@
 1, useless
 1, uselessly
 1, ushered
-1, ut
 1, uttered
 1, vacant
 1, vain
@@ -1964,7 +1948,6 @@
 1, waters
 1, waved
 1, waves
-1, we'd
 1, wealth
 1, weapons
 1, weasel
@@ -2037,10 +2020,7 @@
 1, zig
 1, zip
 1, zoroaster
-1, ï
-2, _is_
 2, _one_
-2, _we_
 2, abruptly
 2, absence
 2, accent
@@ -2058,7 +2038,6 @@
 2, admire
 2, affair
 2, afternoon
-2, ah
 2, alighted
 2, alike
 2, ambled
@@ -2207,7 +2186,6 @@
 2, current
 2, curved
 2, cuts
-2, d
 2, daintily
 2, dash
 2, dazed
@@ -2243,7 +2221,6 @@
 2, doorways
 2, doubtless
 2, dozens
-2, dr
 2, dread
 2, driving
 2, drooping
@@ -2268,7 +2245,6 @@
 2, errand
 2, escaping
 2, escort
-2, ev
 2, evening
 2, evident
 2, examining
@@ -2348,7 +2324,6 @@
 2, grunting
 2, guest
 2, gump
-2, ha
 2, hadn't
 2, halls
 2, hardest
@@ -2443,7 +2418,6 @@
 2, luck
 2, lucky
 2, lustily
-2, m
 2, maiden's
 2, mail
 2, mama
@@ -2479,7 +2453,6 @@
 2, north
 2, numbers
 2, numerous
-2, o
 2, obeyed
 2, obtaining
 2, occupied
@@ -2577,7 +2550,6 @@
 2, raise
 2, raised
 2, ray
-2, re
 2, readable
 2, reading
 2, realized
@@ -2703,7 +2675,6 @@
 2, sway
 2, swim
 2, swing
-2, t
 2, takes
 2, taking
 2, talked
@@ -2786,7 +2757,6 @@
 2, yelled
 2, yonder
 2, you'd
-2, z
 2, zeb's
 3, accept
 3, accepted
@@ -2946,7 +2916,6 @@
 3, grinning
 3, groaned
 3, grumbled
-3, h
 3, halves
 3, hardly
 3, haunches
@@ -3178,7 +3147,6 @@
 4, assure
 4, attached
 4, axe
-4, b
 4, bade
 4, banks
 4, basket
@@ -3445,7 +3413,6 @@
 5, born
 5, breathe
 5, bring
-5, c
 5, calm
 5, chief
 5, chopper
@@ -3467,7 +3434,6 @@
 5, dragons
 5, draw
 5, driven
-5, em
 5, enchanted
 5, enemy
 5, enter
@@ -3557,7 +3523,6 @@
 5, row
 5, running
 5, rustles
-5, s
 5, saved
 5, seated
 5, separated
@@ -3668,7 +3633,6 @@
 6, imagine
 6, keeping
 6, killed
-6, l
 6, law
 6, leaped
 6, line
@@ -3684,7 +3648,6 @@
 6, named
 6, noise
 6, nose
-6, o'clock
 6, object
 6, obliged
 6, online
@@ -3939,8 +3902,6 @@
 8, walking
 8, wall
 8, want
-8, we'll
-8, we're
 8, wide
 8, witch
 8, wore
@@ -3971,7 +3932,6 @@
 9, hands
 9, harness
 9, hope
-9, i'd
 9, joined
 9, jumped
 9, king
@@ -3981,7 +3941,6 @@
 9, making
 9, man's
 9, mean
-9, mr
 9, night
 9, noticed
 9, outside
@@ -4023,7 +3982,6 @@
 10, ebook
 10, either
 10, else
-10, f
 10, fall
 10, fish
 10, fly
@@ -4059,7 +4017,6 @@
 10, trick
 10, trouble
 10, unseen
-10, we've
 10, wonder
 11, against
 11, agreed
@@ -4098,7 +4055,6 @@
 12, feel
 12, flew
 12, fruit
-12, he's
 12, hole
 12, houses
 12, jim's
@@ -4261,7 +4217,6 @@
 18, drew
 18, grass
 18, home
-18, i've
 18, means
 18, ran
 18, reached
@@ -4358,7 +4313,6 @@
 25, use
 26, also
 26, beautiful
-26, e
 26, find
 26, light
 26, shall
@@ -4382,7 +4336,6 @@
 29, each
 29, face
 29, seemed
-30, i'll
 30, put
 30, stood
 30, went
@@ -4392,7 +4345,6 @@
 31, looked
 32, cab
 32, cannot
-32, oh
 32, quite
 32, several
 32, together
@@ -4438,15 +4390,12 @@
 42, well
 43, friends
 43, head
-44, it's
 45, country
 45, old
 45, two
 45, why
-46, go
 46, illustration
 46, piglet
-47, am
 47, eyes
 48, may
 48, room
@@ -4464,7 +4413,6 @@
 54, work
 56, around
 56, because
-56, tm
 56, voice
 57, come
 57, once
@@ -4479,7 +4427,6 @@
 63, back
 63, came
 63, made
-64, an
 64, away
 66, great
 66, much
@@ -4490,12 +4437,10 @@
 69, just
 70, over
 70, than
-71, i'm
 71, more
 72, boy
 72, good
 74, been
-74, oz
 75, again
 75, must
 75, way
@@ -4506,7 +4451,6 @@
 77, some
 80, did
 82, man
-82, us
 83, like
 86, girl
 86, gutenberg
@@ -4533,60 +4477,38 @@
 114, can
 115, upon
 117, him
-119, up
 122, out
-131, do
 133, horse
-134, by
 135, will
 136, then
 138, have
 138, zeb
-139, me
-141, on
 141, their
 145, there
 146, little
 148, when
-156, if
 156, jim
 161, from
-170, or
-173, my
-177, no
 183, one
 201, are
 201, she
 231, her
-234, we
 241, all
 242, were
-245, at
 245, them
 248, dorothy
 250, not
 256, this
-261, be
 266, wizard
-269, is
 271, his
-272, so
-277, as
 277, said
 286, had
 302, for
 350, but
 354, with
-391, he
 399, they
-431, it
 461, that
 461, was
-469, i
 545, you
-699, in
-988, a
-1109, of
-1190, to
 1626, and
 3366, the

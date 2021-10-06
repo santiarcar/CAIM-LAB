@@ -18,7 +18,6 @@
 1, _debã
 1, _description
 1, _esdras_
-1, _ex
 1, _exod
 1, _felido_
 1, _ges
@@ -36,7 +35,6 @@
 1, _maunier
 1, _merodach_
 1, _msuhu_
-1, _na
 1, _nabã
 1, _namsukha_
 1, _nasi
@@ -59,7 +57,6 @@
 1, _tat_
 1, _tiglath
 1, _transactions_
-1, _tã
 1, _ushabti
 1, _ushabtiu_
 1, _zeitschrift
@@ -468,7 +465,6 @@
 1, azin
 1, azubtagish
 1, azã
-1, ba
 1, baala
 1, baalbazer
 1, baalbezer
@@ -601,7 +597,6 @@
 1, bitterly
 1, bitterness
 1, bittimerodach_
-1, bk
 1, blacksmith's
 1, blacksmiths
 1, bladed
@@ -779,7 +774,6 @@
 1, causeway
 1, cautious
 1, cautiously
-1, ce
 1, cedars
 1, cede
 1, celebrating
@@ -879,7 +873,6 @@
 1, clumsiness
 1, cluster
 1, clustered
-1, co
 1, coarsely
 1, coarseness
 1, coasted
@@ -1154,8 +1147,6 @@
 1, cyril
 1, cyrus
 1, cythera
-1, cã
-1, d'avennes
 1, dababã
 1, dachabaliddina
 1, dadidri
@@ -1427,7 +1418,6 @@
 1, dyers
 1, dying
 1, dyke
-1, e_
 1, eabbat
 1, eadanu
 1, eagerly
@@ -1468,7 +1458,6 @@
 1, egypt's
 1, egyptologists
 1, egypts
-1, eh
 1, ein
 1, ekharsagkurkurra
 1, elaborate
@@ -1631,7 +1620,6 @@
 1, evils
 1, eviscerated
 1, evolution
-1, ex
 1, exacting
 1, exactness
 1, exaggerating
@@ -1865,7 +1853,6 @@
 1, furtive
 1, futile
 1, futility
-1, fã
 1, gabet
 1, gabions
 1, gadites
@@ -2466,7 +2453,6 @@
 1, ittobaal
 1, ivth
 1, izebel
-1, iã
 1, jachin
 1, jacket
 1, jad
@@ -2612,8 +2598,6 @@
 1, kurnub
 1, kuru
 1, kuzzi
-1, l'egypte_
-1, la
 1, laboriously
 1, laced
 1, lad
@@ -2701,7 +2685,6 @@
 1, litã
 1, liverpool
 1, liveth
-1, lo
 1, loaded
 1, locate
 1, lodged
@@ -2740,8 +2723,6 @@
 1, lycians
 1, lydian
 1, lydians
-1, m_
-1, ma
 1, mabã
 1, mace
 1, macedon
@@ -2958,8 +2939,6 @@
 1, mouthpiece
 1, moving
 1, moã
-1, mr
-1, ms
 1, msaã
 1, mubauã
 1, mukhurilã
@@ -3085,7 +3064,6 @@
 1, numerical
 1, nun
 1, nuã
-1, ny
 1, oaks
 1, oannes
 1, oases
@@ -3122,7 +3100,6 @@
 1, officiate
 1, officio
 1, offspring
-1, oh
 1, oily
 1, olden
 1, oldfield
@@ -3136,7 +3113,6 @@
 1, onward
 1, onyx
 1, oossasans
-1, op
 1, openness
 1, opens
 1, operation
@@ -3304,7 +3280,6 @@
 1, petition
 1, petitioner
 1, petra
-1, pg
 1, pglaf
 1, phelles
 1, phials
@@ -4389,7 +4364,6 @@
 1, terrify
 1, testament
 1, textile
-1, th
 1, thankful
 1, thanksgiving
 1, thasos
@@ -4427,7 +4401,6 @@
 1, thunderstorm
 1, thwarted
 1, thyself
-1, ti_
 1, tie
 1, tigiath
 1, tile
@@ -4444,7 +4417,6 @@
 1, titular
 1, tiuã
 1, tiã
-1, tm's
 1, tmoses
 1, toes
 1, toi
@@ -4530,7 +4502,6 @@
 1, trust
 1, trusting
 1, try
-1, ts
 1, tsakbo
 1, tshopsã
 1, tubas
@@ -4671,7 +4642,6 @@
 1, ushabtiu
 1, usurped
 1, usury
-1, ut
 1, uti
 1, utility
 1, utterances
@@ -4691,7 +4661,6 @@
 1, varnish
 1, varnished
 1, vary
-1, ve
 1, vegetables
 1, vegetated
 1, vegetative
@@ -4739,7 +4708,6 @@
 1, vulgate
 1, vulnerable
 1, vultures
-1, w
 1, wages
 1, waking
 1, walk
@@ -4849,7 +4817,6 @@
 1, yore
 1, younger
 1, yourselves
-1, z
 1, zaba_
 1, zabã
 1, zachariah
@@ -4885,8 +4852,6 @@
 1, zohab
 1, zoph
 1, zora
-1, â
-1, ï
 2, _chief
 2, _crux
 2, _first
@@ -4943,7 +4908,6 @@
 2, ahaziah
 2, aided
 2, aim
-2, ak
 2, akarsallu
 2, akhlamã
 2, alarm
@@ -5082,7 +5046,6 @@
 2, beth
 2, bethlehemite
 2, beut
-2, bi
 2, bier
 2, biography
 2, birch
@@ -5406,7 +5369,6 @@
 2, eastwards
 2, eat
 2, echo
-2, ed
 2, education
 2, effaced
 2, efficient
@@ -5429,7 +5391,6 @@
 2, emissaries
 2, employees
 2, empty
-2, en
 2, enables
 2, enamel
 2, enamelled
@@ -5454,13 +5415,11 @@
 2, eraziga
 2, erman
 2, error
-2, es
 2, escapeth
 2, escort
 2, esharra
 2, essences
 2, establishments
-2, et
 2, eternally
 2, europeans
 2, evocation
@@ -5499,7 +5458,6 @@
 2, extremities
 2, extremity
 2, eziongeber
-2, eã
 2, fable
 2, facilitated
 2, faint
@@ -5549,7 +5507,6 @@
 2, foster
 2, fourths
 2, fowl
-2, fr
 2, fragment
 2, framework
 2, fruitful
@@ -5601,7 +5558,6 @@
 2, guide
 2, gurgum
 2, gypsum
-2, ha
 2, habitations
 2, habitual
 2, habu
@@ -5801,7 +5757,6 @@
 2, latest
 2, latitude
 2, lazuli
-2, le
 2, learning
 2, legally
 2, legendary
@@ -5964,7 +5919,6 @@
 2, occurrence
 2, occurrences
 2, offence
-2, og
 2, oldest
 2, olive
 2, ologists
@@ -5990,9 +5944,7 @@
 2, outskirts
 2, overtook
 2, owns
-2, ox
 2, oxford
-2, pa
 2, pages
 2, painful
 2, pains
@@ -6022,7 +5974,6 @@
 2, personified
 2, petticoat
 2, physical
-2, pi
 2, pierce
 2, pile
 2, piracy
@@ -6057,7 +6008,6 @@
 2, possesses
 2, possessors
 2, pottery
-2, pr
 2, practice
 2, practices
 2, praise
@@ -6418,7 +6368,6 @@
 2, sworn
 2, symbol
 2, symbolical
-2, ta
 2, tahnã
 2, tail
 2, tailpiece
@@ -6574,8 +6523,6 @@
 2, vith
 2, void
 2, volcanic
-2, vy
-2, vã
 2, waist
 2, wait
 2, waiting
@@ -6644,8 +6591,6 @@
 2, zobah
 3, _cortege_
 3, _donation
-3, _en
-3, _kã
 3, _pinches
 3, _synchronous
 3, abandon
@@ -6909,7 +6854,6 @@
 3, doorway
 3, doubles
 3, downwards
-3, dr
 3, dragged
 3, drah
 3, drained
@@ -7033,7 +6977,6 @@
 3, groaning
 3, guidance
 3, guided
-3, h
 3, haggith
 3, halls
 3, hamlet
@@ -7065,11 +7008,9 @@
 3, hunters
 3, hurriedly
 3, hyena
-3, i_
 3, ibriz
 3, identical
 3, idolatry
-3, il
 3, illness
 3, illustrations
 3, imagination
@@ -7194,7 +7135,6 @@
 3, meroz
 3, mesha
 3, mesopotamian
-3, mi
 3, michmash
 3, migration
 3, miles
@@ -7288,7 +7228,6 @@
 3, overlook
 3, overseers
 3, overturned
-3, p
 3, pace
 3, pacific
 3, padded
@@ -7357,7 +7296,6 @@
 3, quarrel
 3, quarries
 3, quit
-3, ra
 3, rafts
 3, rains
 3, raising
@@ -7519,7 +7457,6 @@
 3, susa
 3, swallow
 3, systems
-3, sã
 3, tamarisk
 3, tarshish
 3, taxed
@@ -7625,7 +7562,6 @@
 3, yield
 3, youngest
 3, zebub
-3, zã
 4, _kings_
 4, abijam
 4, abinadab
@@ -7767,7 +7703,6 @@
 4, deut
 4, devastated
 4, developed
-4, di
 4, disasters
 4, discontent
 4, disorder
@@ -7904,7 +7839,6 @@
 4, kedron
 4, kenites
 4, kerã
-4, ki
 4, kishon
 4, kumani
 4, labourers
@@ -8033,7 +7967,6 @@
 4, quantity
 4, quarrels
 4, quarter
-4, r_
 4, raged
 4, rallied
 4, ramesseum
@@ -8174,7 +8107,6 @@
 4, torrent
 4, torrents
 4, tower
-4, tr
 4, traffic
 4, transfer
 4, transferred
@@ -8262,7 +8194,6 @@
 5, ask
 5, assault
 5, axe
-5, b
 5, band
 5, bare
 5, barley
@@ -8434,9 +8365,7 @@
 5, joram
 5, judã
 5, justice
-5, k
 5, kadesh
-5, kh
 5, kharmis
 5, kinsmen
 5, lack
@@ -8514,7 +8443,6 @@
 5, port
 5, posts
 5, powers
-5, pp
 5, princesses
 5, principalities
 5, prisoner
@@ -8574,7 +8502,6 @@
 5, self
 5, seriously
 5, services
-5, sh
 5, shamash
 5, shapã
 5, sheba
@@ -8627,7 +8554,6 @@
 5, traced
 5, troubled
 5, troubles
-5, tã
 5, urus
 5, using
 5, utensils
@@ -8719,7 +8645,6 @@
 6, correct
 6, counsel
 6, courses
-6, d
 6, darkness
 6, defence
 6, definite
@@ -8733,7 +8658,6 @@
 6, disposed
 6, dissensions
 6, draw
-6, dã
 6, ears
 6, eighty
 6, enable
@@ -8806,7 +8730,6 @@
 6, kinds
 6, kingly
 6, knew
-6, l
 6, late
 6, leather
 6, lesser
@@ -8816,7 +8739,6 @@
 6, live
 6, lotus
 6, love
-6, lu
 6, maintenance
 6, marched
 6, mark
@@ -8840,7 +8762,6 @@
 6, necessitated
 6, neighbour
 6, nofirhotpã
-6, nu
 6, obtaining
 6, ophrah
 6, opinion
@@ -9079,7 +9000,6 @@
 7, freely
 7, frontiers
 7, functions
-7, g
 7, galilee
 7, geographical
 7, gibeon
@@ -9108,7 +9028,6 @@
 7, jearim
 7, jesse
 7, khabur
-7, kã
 7, lance
 7, language
 7, leads
@@ -9322,7 +9241,6 @@
 8, hitherto
 8, http
 8, hypostyle
-8, hã
 8, imported
 8, incidents
 8, inflicted
@@ -9339,7 +9257,6 @@
 8, libyans
 8, looked
 8, losses
-8, lã
 8, managed
 8, mass
 8, measures
@@ -9351,7 +9268,6 @@
 8, naturally
 8, ndash
 8, need
-8, nã
 8, officials
 8, onwards
 8, opening
@@ -9438,8 +9354,6 @@
 9, boat
 9, brick
 9, burying
-9, bã
-9, c
 9, celebrated
 9, chamber
 9, changed
@@ -9554,7 +9468,6 @@
 9, spread
 9, statuettes
 9, stele
-9, su
 9, subsequent
 9, substituted
 9, sufficiently
@@ -9622,7 +9535,6 @@
 10, forward
 10, frequent
 10, gate
-10, gã
 10, henceforward
 10, historical
 10, horus
@@ -9643,7 +9555,6 @@
 10, national
 10, neck
 10, next
-10, ni
 10, nirã
 10, obedience
 10, obscure
@@ -9793,7 +9704,6 @@
 11, province
 11, pyramid
 11, queen
-11, re
 11, remaining
 11, renan
 11, render
@@ -9832,7 +9742,6 @@
 11, xxth
 11, yoke
 12, although
-12, am
 12, bammã
 12, bark
 12, caleb
@@ -9845,7 +9754,6 @@
 12, collected
 12, commerce
 12, concealed
-12, de
 12, decisive
 12, dedicated
 12, destruction
@@ -9915,7 +9823,6 @@
 12, workmen
 12, xix
 12, xviiith
-12, xx
 13, abode
 13, abydos
 13, allegiance
@@ -9924,7 +9831,6 @@
 13, archive
 13, armour
 13, attention
-13, aã
 13, bear
 13, bore
 13, bulk
@@ -9984,7 +9890,6 @@
 13, refused
 13, repeated
 13, residence
-13, s
 13, sacrifice
 13, saw
 13, seized
@@ -10083,7 +9988,6 @@
 15, ephod
 15, exercised
 15, expression
-15, f
 15, fortune
 15, fresh
 15, funeral
@@ -10104,7 +10008,6 @@
 15, predecessors
 15, produced
 15, proved
-15, pã
 15, represent
 15, representing
 15, rock
@@ -10277,7 +10180,6 @@
 18, view
 18, wall
 18, wars
-18, ye
 18, your
 18, zab
 19, access
@@ -10305,7 +10207,6 @@
 19, table
 19, till
 19, until
-19, vi
 19, western
 20, adopted
 20, attached
@@ -10390,11 +10291,9 @@
 22, filled
 22, help
 22, instance
-22, ix
 22, jonathan
 22, just
 22, mention
-22, mã
 22, necropolis
 22, open
 22, phoenicians
@@ -10460,13 +10359,11 @@
 24, longer
 24, lost
 24, nearly
-24, o
 24, origin
 24, osiris
 24, race
 24, rather
 24, rest
-24, ri
 24, seen
 24, shechem
 24, site
@@ -10481,7 +10378,6 @@
 25, entered
 25, force
 25, former
-25, go
 25, ground
 25, horses
 25, obtained
@@ -10495,7 +10391,6 @@
 25, statues
 25, thee
 25, tradition
-25, x
 26, art
 26, benjamin
 26, bring
@@ -10541,7 +10436,6 @@
 28, conquest
 28, daughter
 28, deceased
-28, e
 28, foundation
 28, gold
 28, kind
@@ -10554,22 +10448,16 @@
 28, tribe
 28, viii
 28, water
-28, xv
 29, accustomed
 29, damascus
 29, fell
 29, influence
 29, jahveh
 29, kept
-29, m
 29, manner
 29, nile
 29, regions
-29, rã
 29, sovereigns
-29, ti
-29, v
-29, xi
 30, can
 30, considerable
 30, covered
@@ -10583,7 +10471,6 @@
 30, moment
 30, mummy
 30, princes
-30, r
 30, region
 30, seems
 30, stone
@@ -10597,7 +10484,6 @@
 31, existence
 31, five
 31, following
-31, iv
 31, museum
 31, neighbourhood
 31, perhaps
@@ -10621,7 +10507,6 @@
 32, since
 32, small
 32, true
-32, ã
 33, attack
 33, built
 33, centuries
@@ -10675,7 +10560,6 @@
 38, amenã
 38, cut
 38, gave
-38, me
 38, names
 38, off
 38, our
@@ -10701,7 +10585,6 @@
 40, tombs
 40, unto
 41, called
-41, cf
 41, family
 41, hundred
 41, mountains
@@ -10728,13 +10611,11 @@
 43, tomb
 43, various
 44, another
-44, el
 44, end
 44, father
 44, formed
 44, hebrews
 44, kingdom
-44, my
 44, number
 44, power
 44, towards
@@ -10770,7 +10651,6 @@
 50, man
 50, never
 50, put
-51, do
 51, inhabitants
 51, troops
 52, babylon
@@ -10794,7 +10674,6 @@
 56, make
 56, several
 56, times
-56, tm
 57, both
 57, length
 57, mentioned
@@ -10868,7 +10747,6 @@
 77, saul
 77, whole
 78, dynasty
-79, n
 79, together
 80, lord
 81, well
@@ -10880,14 +10758,11 @@
 84, philistines
 84, ramses
 85, also
-85, t
 86, having
 86, taken
 87, gutenberg
-87, ii
 87, years
 88, may
-89, us
 89, you
 90, far
 91, temple
@@ -10927,7 +10802,6 @@
 126, while
 131, country
 131, did
-132, if
 137, only
 138, place
 138, sam
@@ -10941,7 +10815,6 @@
 149, david
 151, made
 154, upon
-156, so
 159, before
 160, any
 164, illustration
@@ -10953,55 +10826,37 @@
 180, out
 185, when
 186, there
-186, up
 194, other
 199, more
 199, would
 217, two
-218, no
 223, some
 225, time
 229, king
 235, are
-239, i
 243, into
 259, these
-269, we
 293, all
 339, one
 351, who
-360, be
 364, its
 374, been
-377, an
 401, him
 408, have
 436, but
 468, them
 487, not
 546, this
-594, or
-630, is
 661, they
 678, for
 688, were
-732, on
-759, he
-766, at
 777, that
 810, from
-828, it
-878, as
 939, with
 984, their
 1019, had
 1039, which
 1115, was
-1135, by
 1210, his
-1979, a
-2362, in
-3140, to
 3850, and
-6625, of
 11449, the

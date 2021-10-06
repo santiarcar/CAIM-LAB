@@ -42,7 +42,6 @@
 1, affected
 1, affectionately
 1, afternoon's
-1, ag'in
 1, agent
 1, ages
 1, aglow
@@ -50,7 +49,6 @@
 1, ahere
 1, aid
 1, aim
-1, ak
 1, alarm
 1, alert
 1, allegiance
@@ -433,7 +431,6 @@
 1, curling
 1, curve
 1, cushions
-1, d
 1, damaged
 1, dampness
 1, dance
@@ -594,8 +591,6 @@
 1, elected
 1, element
 1, eleven
-1, em'ralds
-1, em's
 1, emerald
 1, emergency
 1, emerging
@@ -630,9 +625,6 @@
 1, est
 1, etc
 1, eucalyptus
-1, ev'r'body
-1, ev'rybody
-1, ev'rything
 1, eve
 1, ever'thing
 1, everyday
@@ -907,7 +899,6 @@
 1, hermits
 1, hesitation
 1, hev
-1, hi
 1, hickory
 1, hid
 1, highly
@@ -916,7 +907,6 @@
 1, hinged
 1, hippocampus
 1, hips
-1, hm
 1, hobble
 1, holds
 1, holler
@@ -1124,7 +1114,6 @@
 1, luck
 1, lump
 1, lurking
-1, ma
 1, macaroni
 1, machine
 1, mail
@@ -1190,7 +1179,6 @@
 1, mournfully
 1, moustache
 1, movements
-1, mr
 1, muddle
 1, muffled
 1, muffruff's
@@ -1255,7 +1243,6 @@
 1, offers
 1, officer
 1, oldest
-1, on'y
 1, onto
 1, openings
 1, operas
@@ -1292,7 +1279,6 @@
 1, owed
 1, oyster
 1, ozma
-1, p'int
 1, pace
 1, pacific
 1, package
@@ -1343,7 +1329,6 @@
 1, pertic'lars
 1, pervided
 1, petted
-1, pg
 1, pglaf
 1, phoo
 1, pick
@@ -1567,7 +1552,6 @@
 1, rush
 1, russian
 1, ruther
-1, s'pect
 1, sacharhineolaland
 1, sacho's
 1, sacks
@@ -1708,7 +1692,6 @@
 1, sneeze
 1, sneezed
 1, snorted
-1, so'm
 1, soaked
 1, soakin
 1, sober
@@ -1838,7 +1821,6 @@
 1, swirl
 1, swum
 1, synonymous
-1, t'other
 1, tackle
 1, tadpole
 1, tain't
@@ -1892,7 +1874,6 @@
 1, tipped
 1, tires
 1, tiring
-1, tm's
 1, toboggan
 1, toes
 1, token
@@ -1991,7 +1972,6 @@
 1, upright
 1, upsettin
 1, upsot
-1, ut
 1, uttering
 1, vacated
 1, vague
@@ -2094,7 +2074,6 @@
 1, wreathing
 1, wrestling
 1, wring
-1, y
 1, yawning
 1, year's
 1, yelled
@@ -2124,7 +2103,6 @@
 2, agin
 2, airs
 2, airy
-2, al
 2, alabaster
 2, aldarondo
 2, allies
@@ -2163,7 +2141,6 @@
 2, available
 2, awaiting
 2, awfully
-2, b'lieve
 2, ball
 2, balloonfish
 2, based
@@ -2428,8 +2405,6 @@
 2, hated
 2, hateful
 2, havin
-2, he'd
-2, he'll
 2, heap
 2, hearted
 2, hee
@@ -2460,7 +2435,6 @@
 2, islands
 2, issue
 2, itself
-2, j
 2, jaws
 2, jelly
 2, job
@@ -2627,7 +2601,6 @@
 2, puzzled
 2, pyramid
 2, questioned
-2, r
 2, race
 2, ranged
 2, readable
@@ -2783,7 +2756,6 @@
 2, suspect
 2, swallow
 2, swayed
-2, t
 2, takes
 2, talked
 2, tasted
@@ -2824,7 +2796,6 @@
 2, unjust
 2, unwise
 2, utterly
-2, v
 2, vanilla
 2, varieties
 2, venture
@@ -2885,7 +2856,6 @@
 3, awkward
 3, awkwardly
 3, azure
-3, b
 3, backward
 3, balls
 3, bare
@@ -2993,7 +2963,6 @@
 3, entity
 3, equipment
 3, escorted
-3, ev'ry
 3, evident
 3, evidently
 3, exactly
@@ -3073,7 +3042,6 @@
 3, intelligent
 3, interest
 3, iron
-3, it'll
 3, jacket
 3, joy
 3, julius
@@ -3186,7 +3154,6 @@
 3, rough
 3, royalty
 3, ruler
-3, s
 3, sakes
 3, salad
 3, sand
@@ -3218,7 +3185,6 @@
 3, slid
 3, smaller
 3, sneezer
-3, so's
 3, soberly
 3, sparkle
 3, speed
@@ -3264,7 +3230,6 @@
 3, warranties
 3, watchful
 3, waters
-3, we'd
 3, wearing
 3, who'd
 3, whole
@@ -3287,7 +3252,6 @@
 4, advise
 4, advised
 4, afore
-4, ah
 4, allowed
 4, anchor
 4, anger
@@ -3358,7 +3322,6 @@
 4, doll
 4, donate
 4, dozen
-4, dr
 4, dreaded
 4, drive
 4, drowned
@@ -3366,7 +3329,6 @@
 4, editions
 4, eel
 4, efforts
-4, eh
 4, ere
 4, everybody
 4, examining
@@ -3443,7 +3405,6 @@
 4, move
 4, moving
 4, mustard
-4, n
 4, neck
 4, ner
 4, numerous
@@ -3472,7 +3433,6 @@
 4, questions
 4, raised
 4, rare
-4, re
 4, read
 4, remembered
 4, requirements
@@ -3524,7 +3484,6 @@
 4, water's
 4, wave
 4, waving
-4, we'll
 4, weedles
 4, weeds
 4, whether
@@ -3557,7 +3516,6 @@
 5, bound
 5, bowed
 5, breakfast
-5, c
 5, calmly
 5, caused
 5, chain
@@ -3626,7 +3584,6 @@
 5, inky
 5, inside
 5, keeping
-5, l
 5, liable
 5, limited
 5, loud
@@ -3651,7 +3608,6 @@
 5, obey
 5, offered
 5, owner
-5, p'raps
 5, party
 5, pass
 5, passages
@@ -3785,9 +3741,7 @@
 6, gorgeous
 6, groo
 6, guarded
-6, ha
 6, hearts
-6, ho
 6, hung
 6, jellyfish
 6, jolly
@@ -3803,7 +3757,6 @@
 6, nodding
 6, number
 6, octopi
-6, oz
 6, past
 6, pay
 6, pearl
@@ -3911,7 +3864,6 @@
 7, minute
 7, money
 7, notice
-7, ol
 7, pearls
 7, peony
 7, pipe
@@ -4001,7 +3953,6 @@
 8, quietly
 8, real
 8, red
-8, s'pose
 8, served
 8, shaped
 8, ships
@@ -4049,7 +4000,6 @@
 9, flowers
 9, follow
 9, funny
-9, he's
 9, however
 9, hundred
 9, kind
@@ -4110,7 +4060,6 @@
 10, die
 10, domain
 10, everything
-10, f
 10, farther
 10, fellow
 10, food
@@ -4243,7 +4192,6 @@
 12, they're
 12, times
 12, wall
-12, we've
 12, wide
 13, above
 13, anyone
@@ -4265,7 +4213,6 @@
 13, last
 13, led
 13, literary
-13, ma'am
 13, majesty
 13, meet
 13, met
@@ -4375,7 +4322,6 @@
 19, hair
 19, perhaps
 19, use
-19, we're
 20, afraid
 20, although
 20, behind
@@ -4424,7 +4370,6 @@
 23, ain't
 23, both
 23, chapter
-23, e
 23, followed
 23, hand
 23, prisoners
@@ -4454,8 +4399,6 @@
 25, you're
 25, zog's
 26, heard
-26, i'd
-26, i'll
 26, left
 26, leg
 26, others
@@ -4494,7 +4437,6 @@
 31, inquired
 31, seen
 32, devils
-32, em
 32, first
 32, things
 32, thought
@@ -4519,7 +4461,6 @@
 35, under
 36, after
 36, began
-36, i've
 36, such
 36, yet
 37, creatures
@@ -4537,18 +4478,14 @@
 39, yes
 40, back
 40, because
-41, it's
 42, even
-43, am
 43, down
-43, o
 43, think
 44, home
 45, made
 45, once
 45, two
 46, make
-46, oh
 46, right
 47, found
 47, pretty
@@ -4574,10 +4511,8 @@
 56, earth
 56, get
 56, seemed
-56, tm
 57, princess
 58, away
-58, go
 59, long
 59, people
 60, old
@@ -4610,7 +4545,6 @@
 72, did
 72, how
 72, who
-73, up
 75, these
 77, been
 77, much
@@ -4618,7 +4552,6 @@
 78, just
 80, would
 82, aquareine
-82, i'm
 85, know
 86, way
 87, gutenberg
@@ -4645,60 +4578,37 @@
 120, when
 125, mermaids
 126, now
-130, us
 130, will
-136, my
-137, by
 141, asked
-142, me
 142, queen
-143, on
 146, from
 147, zog
-153, if
 156, one
-157, no
 161, have
-162, do
 164, like
 176, water
 179, her
-185, or
 190, their
 192, she
-198, an
 201, had
 202, sea
 238, bill
-242, be
 243, this
-244, so
 245, them
-251, at
 259, were
 265, not
 267, all
 273, are
 280, his
 282, cap'n
-290, we
 298, for
-303, is
 309, with
 310, said
 347, trot
 361, but
-365, he
-391, as
 402, that
-428, it
 450, was
 486, they
-521, i
 625, you
-649, in
-898, a
-1053, of
-1249, to
 1449, and
 2751, the

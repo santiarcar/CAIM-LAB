@@ -49,7 +49,6 @@
 1, agreed
 1, aimlessly
 1, aisles
-1, ak
 1, alaskan
 1, alertness
 1, alice
@@ -515,8 +514,6 @@
 1, customary
 1, cuts
 1, cutting
-1, d
-1, d'ye
 1, damaged
 1, damnation
 1, dams
@@ -1064,7 +1061,6 @@
 1, heroic
 1, hesitate
 1, hey
-1, hi
 1, hides
 1, highly
 1, hike
@@ -1076,7 +1072,6 @@
 1, hitch
 1, hitching
 1, hitting
-1, ho
 1, hoarse
 1, hoisted
 1, homesick
@@ -1301,7 +1296,6 @@
 1, lit
 1, literally
 1, lively
-1, ll
 1, loath
 1, loathsome
 1, locate
@@ -1616,7 +1610,6 @@
 1, pete's
 1, petted
 1, petty
-1, pg
 1, pglaf
 1, picking
 1, piece
@@ -2261,11 +2254,6 @@
 1, sworn
 1, sympathetically
 1, synonymous
-1, t'eef
-1, t'ousan
-1, t'ousand
-1, t'ree
-1, t'row
 1, tables
 1, tagish
 1, tahkeena
@@ -2340,7 +2328,6 @@
 1, tissue
 1, tissues
 1, title
-1, tm's
 1, toes
 1, tokens
 1, tolerated
@@ -2493,7 +2480,6 @@
 1, uproariously
 1, upstanding
 1, usurp
-1, ut
 1, utensils
 1, uttered
 1, uttering
@@ -2543,7 +2529,6 @@
 1, volcanoes
 1, volunteer
 1, voracious
-1, w'en
 1, wailing
 1, wailings
 1, wake
@@ -2568,8 +2553,6 @@
 1, waters
 1, waving
 1, wayfarers
-1, we'll
-1, we've
 1, weaker
 1, weakly
 1, wearing
@@ -2667,7 +2650,6 @@
 1, youth
 1, zeal
 1, zip
-1, ï
 2, abide
 2, ability
 2, able
@@ -2687,7 +2669,6 @@
 2, aged
 2, agent
 2, ages
-2, ah
 2, aid
 2, ain't
 2, alaska
@@ -2898,7 +2879,6 @@
 2, does
 2, doubt
 2, downward
-2, dr
 2, drag
 2, draggled
 2, dreamily
@@ -3048,9 +3028,7 @@
 2, hunter
 2, hurling
 2, hurry
-2, i've
 2, ignored
-2, ii
 2, iii
 2, impact
 2, imperative
@@ -3072,8 +3050,6 @@
 2, involuntarily
 2, irresistible
 2, irritating
-2, it'll
-2, iv
 2, ivan
 2, japanese
 2, jarring
@@ -3099,7 +3075,6 @@
 2, latent
 2, laugh
 2, lazily
-2, le
 2, leading
 2, ledge
 2, legal
@@ -3249,7 +3224,6 @@
 2, purpose
 2, purposely
 2, putting
-2, py
 2, queek
 2, quickened
 2, quickly
@@ -3266,7 +3240,6 @@
 2, rapped
 2, rashness
 2, raw
-2, re
 2, reaching
 2, readable
 2, realized
@@ -3483,11 +3456,9 @@
 2, unwashed
 2, urgent
 2, usual
-2, v
 2, vainly
 2, vanilla
 2, various
-2, vi
 2, vigor
 2, vii
 2, virility
@@ -3565,7 +3536,6 @@
 3, array
 3, attached
 3, avoided
-3, b
 3, bags
 3, bars
 3, bernard
@@ -3694,7 +3664,6 @@
 3, happened
 3, harder
 3, hauling
-3, he's
 3, heat
 3, hidden
 3, hope
@@ -3776,12 +3745,10 @@
 3, nostrils
 3, noted
 3, number
-3, o'brien
 3, oaths
 3, obtain
 3, obtained
 3, office
-3, oh
 3, onlookers
 3, overhead
 3, paragraphs
@@ -3831,7 +3798,6 @@
 3, rocks
 3, rough
 3, royalty
-3, s
 3, scene
 3, scent
 3, scenting
@@ -3874,7 +3840,6 @@
 3, space
 3, spark
 3, spruce
-3, st
 3, starting
 3, step
 3, stepped
@@ -3899,7 +3864,6 @@
 3, supper
 3, supremacy
 3, swayed
-3, t'ink
 3, tangle
 3, tangled
 3, tank
@@ -4103,7 +4067,6 @@
 4, lolling
 4, london
 4, loved
-4, m
 4, malingerer
 4, mastered
 4, mastery
@@ -4188,7 +4151,6 @@
 4, unbroken
 4, unless
 4, unwonted
-4, us
 4, using
 4, vague
 4, wagon
@@ -4228,7 +4190,6 @@
 5, breast
 5, bulls
 5, burst
-5, c
 5, cabin
 5, cannot
 5, chief
@@ -4238,7 +4199,6 @@
 5, compelled
 5, compliance
 5, contact
-5, de
 5, decided
 5, destroy
 5, different
@@ -4276,7 +4236,6 @@
 5, hunger
 5, hurled
 5, hurt
-5, i'm
 5, inches
 5, included
 5, jaws
@@ -4308,7 +4267,6 @@
 5, mid
 5, months
 5, move
-5, my
 5, need
 5, north
 5, official
@@ -4439,7 +4397,6 @@
 6, hind
 6, hole
 6, howl
-6, i'll
 6, joy
 6, known
 6, leader
@@ -4630,14 +4587,12 @@
 8, has
 8, http
 8, information
-8, it's
 8, king
 8, laws
 8, let
 8, light
 8, making
 8, master
-8, me
 8, met
 8, moment
 8, nest
@@ -4685,7 +4640,6 @@
 9, bristling
 9, during
 9, ears
-9, eh
 9, ever
 9, fair
 9, fang
@@ -4725,7 +4679,6 @@
 10, comes
 10, country
 10, dozen
-10, f
 10, fact
 10, far
 10, fashion
@@ -4899,7 +4852,6 @@
 15, pete
 15, states
 15, strange
-15, we
 15, whole
 16, among
 16, became
@@ -4980,7 +4932,6 @@
 22, terms
 22, turned
 22, well
-23, e
 23, own
 23, said
 23, still
@@ -5012,7 +4963,6 @@
 27, wolf
 28, behind
 28, end
-28, go
 28, good
 28, hand
 28, ice
@@ -5028,7 +4978,6 @@
 30, teeth
 31, between
 31, have
-31, i
 31, such
 31, things
 32, each
@@ -5047,7 +4996,6 @@
 34, team
 35, first
 36, before
-36, if
 37, hundred
 37, perrault
 38, only
@@ -5064,7 +5012,6 @@
 43, than
 44, about
 44, away
-44, do
 44, himself
 44, its
 44, knew
@@ -5087,8 +5034,6 @@
 55, again
 55, two
 55, while
-56, tm
-57, is
 57, never
 58, like
 59, long
@@ -5109,7 +5054,6 @@
 74, men
 76, through
 77, time
-78, be
 79, dog
 81, could
 81, there
@@ -5118,12 +5062,8 @@
 85, back
 87, gutenberg
 87, project
-90, an
-91, so
 93, man
 97, did
-105, no
-107, up
 111, when
 115, down
 115, one
@@ -5137,28 +5077,17 @@
 148, this
 154, them
 167, from
-179, or
-183, by
 202, but
 206, not
 217, were
-223, at
-237, on
 264, for
-269, as
 274, had
 290, him
 290, they
 313, buck
 322, that
 351, with
-386, it
 559, his
-599, in
 698, was
-725, a
-756, to
-817, he
-998, of
 1609, and
 2469, the

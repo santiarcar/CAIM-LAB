@@ -1,4 +1,3 @@
-1, _no
 1, _possession_
 1, _prairie_
 1, _senior_
@@ -66,7 +65,6 @@
 1, aide
 1, aim
 1, airs
-1, ak
 1, akin
 1, alas
 1, albert
@@ -636,7 +634,6 @@
 1, curve
 1, cushions
 1, cuts
-1, d'ancre
 1, damocles
 1, dance
 1, dandy
@@ -722,7 +719,6 @@
 1, devoting
 1, devour
 1, devout
-1, di
 1, dialects
 1, diane
 1, diary
@@ -908,7 +904,6 @@
 1, esteem
 1, estimated
 1, estimating
-1, et
 1, etc
 1, etext
 1, eugenie
@@ -1275,7 +1270,6 @@
 1, ignoble
 1, ignorant
 1, ignore
-1, ii
 1, iii
 1, illness
 1, imagination
@@ -1412,7 +1406,6 @@
 1, isle
 1, italian
 1, items
-1, ix
 1, jacket
 1, jackets
 1, january
@@ -1632,7 +1625,6 @@
 1, mississippi
 1, mistake
 1, mistresses
-1, mm
 1, mob
 1, mobile
 1, mockery
@@ -1889,7 +1881,6 @@
 1, pettifogging
 1, petty
 1, petulance
-1, pg
 1, pglaf
 1, phaeton
 1, philosophy
@@ -2600,7 +2591,6 @@
 1, tinge
 1, tints
 1, tired
-1, tm's
 1, tobacco
 1, toil
 1, tools
@@ -2724,7 +2714,6 @@
 1, usually
 1, usurious
 1, usurp
-1, ut
 1, utrecht
 1, uttered
 1, vacancies
@@ -2869,7 +2858,6 @@
 1, youth
 1, zayonseck
 1, zip
-1, ï
 2, accepting
 2, accounted
 2, acquire
@@ -3049,7 +3037,6 @@
 2, curls
 2, customers
 2, cuvier
-2, d'espards
 2, dagny
 2, dame
 2, daughter
@@ -3101,7 +3088,6 @@
 2, dominant
 2, doubly
 2, doubtful
-2, dr
 2, drawn
 2, draws
 2, dressing
@@ -3136,7 +3122,6 @@
 2, estate
 2, eugene
 2, eve
-2, ex
 2, examination
 2, example
 2, exclusively
@@ -3243,7 +3228,6 @@
 2, hideous
 2, higher
 2, hit
-2, hm
 2, holding
 2, hole
 2, holes
@@ -3299,7 +3283,6 @@
 2, kingdom
 2, knitted
 2, knowing
-2, l'arbalete
 2, labor
 2, landing
 2, langeais
@@ -3396,7 +3379,6 @@
 2, obtaining
 2, occasion
 2, offered
-2, oh
 2, opinions
 2, opportunities
 2, opposition
@@ -3484,7 +3466,6 @@
 2, rag
 2, rage
 2, ran
-2, re
 2, reaching
 2, readable
 2, recognize
@@ -3710,7 +3691,6 @@
 2, wounds
 2, wrapped
 2, wretches
-2, x
 2, xiii
 2, year's
 2, youthful
@@ -3745,7 +3725,6 @@
 3, attend
 3, available
 3, avoid
-3, b
 3, bag
 3, bailiff
 3, bands
@@ -4105,7 +4084,6 @@
 4, active
 4, additional
 4, agreed
-4, ah
 4, allowed
 4, alone
 4, amused
@@ -4150,7 +4128,6 @@
 4, crushed
 4, cunning
 4, cut
-4, d
 4, damages
 4, damp
 4, dark
@@ -4251,7 +4228,6 @@
 4, napoleon
 4, neighbors
 4, nephew
-4, o'clock
 4, obliged
 4, observed
 4, official
@@ -4291,7 +4267,6 @@
 4, retirement
 4, reveal
 4, rose
-4, s
 4, seals
 4, seamy
 4, seductive
@@ -4360,7 +4335,6 @@
 5, blame
 5, blood
 5, bore
-5, c
 5, camille
 5, carry
 5, certainly
@@ -4414,7 +4388,6 @@
 5, husband's
 5, illusions
 5, incapable
-5, iv
 5, jean
 5, keeper
 5, kindness
@@ -4788,7 +4761,6 @@
 10, dignity
 10, during
 10, eye
-10, f
 10, famous
 10, form
 10, france
@@ -4823,7 +4795,6 @@
 11, boys
 11, brother
 11, clear
-11, du
 11, fact
 11, fellow
 11, forth
@@ -4900,7 +4871,6 @@
 14, garden
 14, gave
 14, head
-14, la
 14, lady
 14, literary
 14, love
@@ -4934,7 +4904,6 @@
 15, twenty
 15, want
 16, always
-16, d'espard's
 16, donations
 16, found
 16, given
@@ -4949,14 +4918,12 @@
 16, petition
 16, replied
 16, think
-16, us
 16, word
 16, young
 17, brought
 17, doubt
 17, even
 17, heart
-17, le
 17, live
 17, looked
 17, persons
@@ -5003,7 +4970,6 @@
 22, uncle
 23, after
 23, business
-23, e
 23, give
 23, how
 23, nothing
@@ -5014,12 +4980,10 @@
 24, rastignac
 24, set
 24, went
-25, am
 25, much
 25, never
 25, terms
 25, use
-26, go
 26, money
 26, too
 26, years
@@ -5066,7 +5030,6 @@
 38, room
 38, very
 40, only
-40, up
 41, about
 42, court
 42, most
@@ -5085,10 +5048,7 @@
 55, old
 56, like
 56, some
-56, tm
-56, we
 58, can
-58, de
 58, without
 59, monsieur
 59, what
@@ -5100,23 +5060,17 @@
 66, work
 67, two
 67, when
-68, do
 71, there
 72, has
 72, would
 73, one
 73, them
-76, no
 83, marquis
-84, if
-84, me
-84, so
 86, any
 86, gutenberg
 87, project
 87, your
 88, madame
-90, m
 91, him
 91, they
 92, will
@@ -5127,38 +5081,21 @@
 111, all
 111, from
 112, but
-119, an
 122, are
-128, d'espard
 130, said
 130, who
 141, she
-149, or
-152, be
-158, my
-180, it
 181, not
 186, have
 191, her
 195, had
-205, at
 206, this
 207, which
-209, on
 220, for
-243, by
 253, with
 257, was
-258, he
-260, is
-272, as
-275, i
 322, that
 330, you
 386, his
-623, in
 732, and
-855, a
-925, to
-1190, of
 2153, the

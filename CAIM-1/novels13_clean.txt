@@ -116,7 +116,6 @@
 1, answering
 1, anyhow
 1, anyone
-1, ap
 1, apace
 1, apologetic
 1, apologize
@@ -220,7 +219,6 @@
 1, base
 1, battle
 1, battleships
-1, bc
 1, beams
 1, bean
 1, bearing
@@ -628,8 +626,6 @@
 1, cuts
 1, cutting
 1, czar
-1, d
-1, d'art
 1, daily
 1, daintiness
 1, dakota
@@ -841,7 +837,6 @@
 1, elsewhere
 1, elusive
 1, elysee
-1, em
 1, embers
 1, embodied
 1, emerson
@@ -890,7 +885,6 @@
 1, escapes
 1, essential
 1, estimated
-1, et
 1, ethelwind
 1, euclid
 1, eugenie
@@ -1203,7 +1197,6 @@
 1, havanas
 1, hawaii
 1, haze
-1, he'd
 1, headlong
 1, heads
 1, heartfelt
@@ -1487,7 +1480,6 @@
 1, kwas
 1, kyng
 1, kynge
-1, l
 1, label
 1, labour
 1, laboured
@@ -1555,7 +1547,6 @@
 1, listeners
 1, litter
 1, livery
-1, lo
 1, load
 1, locke
 1, looks
@@ -1573,7 +1564,6 @@
 1, lucky
 1, luncheon
 1, luxurious
-1, ma
 1, macaroon
 1, mace
 1, machiavelli
@@ -1705,7 +1695,6 @@
 1, mouth
 1, mouthed
 1, mouths
-1, ms
 1, muck
 1, muckendorf
 1, muffled
@@ -1790,7 +1779,6 @@
 1, numerous
 1, nuns
 1, nurses
-1, o'leary
 1, oath
 1, obey
 1, objected
@@ -1854,7 +1842,6 @@
 1, owner's
 1, owns
 1, oxcart
-1, p
 1, pacific
 1, pack
 1, package
@@ -1926,7 +1913,6 @@
 1, personally
 1, peruse
 1, peterson
-1, pg
 1, phalanx
 1, phenomena
 1, phew
@@ -2124,7 +2110,6 @@
 1, rastlosigkeit
 1, rattling
 1, ravens
-1, re
 1, reaches
 1, reaching
 1, reaction
@@ -2733,7 +2718,6 @@
 1, twisted
 1, twitching
 1, tyranny
-1, u
 1, uganda
 1, ullin
 1, ullin's
@@ -2954,7 +2938,6 @@
 1, younger
 1, youngest
 1, yushen
-1, z
 1, zeppelin
 1, zfwinski
 1, zooks
@@ -2966,7 +2949,6 @@
 2, accident
 2, accidentally
 2, ace
-2, ad
 2, addicted
 2, addition
 2, additions
@@ -3101,7 +3083,6 @@
 2, cats
 2, cause
 2, caused
-2, cd
 2, celebrated
 2, central
 2, champagne
@@ -3180,7 +3161,6 @@
 2, derive
 2, developing
 2, development
-2, di
 2, digest
 2, dining
 2, dip
@@ -3237,7 +3217,6 @@
 2, engaged
 2, entry
 2, equipment
-2, er
 2, erect
 2, error
 2, estimate
@@ -3351,7 +3330,6 @@
 2, hast
 2, haste
 2, hat
-2, he'll
 2, header
 2, heading
 2, heap
@@ -3407,7 +3385,6 @@
 2, irish
 2, island
 2, isolation
-2, ix
 2, jack
 2, jar
 2, jellicoe
@@ -3451,7 +3428,6 @@
 2, lots
 2, loved
 2, lovely
-2, m
 2, magnetism
 2, magnificent
 2, mail
@@ -3503,8 +3479,6 @@
 2, needn't
 2, net
 2, nights
-2, o
-2, o'er
 2, oaken
 2, objects
 2, oct
@@ -3515,8 +3489,6 @@
 2, oughtn't
 2, output
 2, overgold's
-2, oy
-2, p'keepsie
 2, pagan
 2, pain
 2, pains
@@ -3597,7 +3569,6 @@
 2, puffing
 2, pull
 2, purely
-2, q
 2, quarters
 2, quest
 2, questioned
@@ -3809,7 +3780,6 @@
 2, type
 2, typical
 2, ulster
-2, un
 2, unanimous
 2, uniforms
 2, unnecessary
@@ -3817,7 +3787,6 @@
 2, urgent
 2, users
 2, usual
-2, v
 2, vanity
 2, vastly
 2, verity
@@ -3833,7 +3802,6 @@
 2, volunteers
 2, voyage
 2, vulgar
-2, w
 2, walk
 2, walking
 2, wall
@@ -3842,8 +3810,6 @@
 2, wars
 2, waste
 2, waved
-2, we're
-2, we've
 2, weakness
 2, wealth
 2, weege
@@ -3865,16 +3831,11 @@
 2, worked
 2, wrapped
 2, writer
-2, xi
 2, xiii
 2, xiv
-2, xv
 2, xvi
 2, xvii
-2, y
 2, yak
-2, ye
-2, ye'll
 2, youth
 2, zip
 3, accept
@@ -3903,8 +3864,6 @@
 3, attack
 3, aware
 3, awe
-3, ay
-3, b
 3, baron
 3, beaming
 3, becomes
@@ -4015,7 +3974,6 @@
 3, equal
 3, equivalent
 3, essays
-3, ex
 3, exaggeration
 3, excited
 3, expense
@@ -4097,8 +4055,6 @@
 3, italian
 3, italy
 3, item
-3, iv
-3, j
 3, jacket
 3, joined
 3, joke
@@ -4214,7 +4170,6 @@
 3, questions
 3, quick
 3, quote
-3, r
 3, railway
 3, rank
 3, reads
@@ -4283,7 +4238,6 @@
 3, spiritual
 3, spread
 3, spring
-3, st
 3, staff
 3, standard
 3, stick
@@ -4457,7 +4411,6 @@
 4, happy
 4, haven't
 4, herewith
-4, ii
 4, iii
 4, imagine
 4, included
@@ -4606,8 +4559,6 @@
 4, warmly
 4, watch
 4, watched
-4, we'd
-4, we'll
 4, wearing
 4, wet
 4, whenever
@@ -4664,7 +4615,6 @@
 5, earth
 5, east
 5, educated
-5, eh
 5, either
 5, eleven
 5, entirely
@@ -4723,7 +4673,6 @@
 5, names
 5, nice
 5, north
-5, o'clock
 5, offer
 5, ordinary
 5, organization
@@ -4821,7 +4770,6 @@
 6, desk
 6, died
 6, different
-6, dr
 6, drive
 6, education
 6, empire
@@ -4900,7 +4848,6 @@
 6, writes
 6, you've
 7, account
-7, ah
 7, anxious
 7, appeared
 7, attention
@@ -4935,7 +4882,6 @@
 7, happened
 7, huge
 7, hungarian
-7, i'd
 7, jarvis
 7, kitchener
 7, large
@@ -4983,9 +4929,7 @@
 7, therefore
 7, thinking
 7, throw
-7, tm
 7, vast
-7, vi
 7, wanted
 7, west
 7, whose
@@ -5055,7 +4999,6 @@
 8, river
 8, row
 8, run
-8, s
 8, seem
 8, shook
 8, short
@@ -5081,7 +5024,6 @@
 8, write
 8, writing
 8, wrong
-8, x
 9, along
 9, american
 9, anecdotes
@@ -5090,7 +5032,6 @@
 9, author
 9, because
 9, bring
-9, c
 9, chance
 9, cheque
 9, class
@@ -5156,7 +5097,6 @@
 10, fellow
 10, forth
 10, hath
-10, he's
 10, laid
 10, met
 10, midnight
@@ -5425,7 +5365,6 @@
 22, eyes
 22, five
 22, himself
-22, i've
 22, place
 22, ten
 22, till
@@ -5436,7 +5375,6 @@
 23, dollars
 23, gone
 23, head
-23, i'll
 23, off
 23, talk
 23, why
@@ -5498,7 +5436,6 @@
 35, face
 36, club
 36, going
-36, i'm
 36, its
 36, project
 36, these
@@ -5506,7 +5443,6 @@
 37, half
 37, knew
 37, moment
-38, oh
 38, quite
 38, should
 38, things
@@ -5524,14 +5460,11 @@
 42, take
 43, too
 44, answered
-44, de
 44, even
 44, right
 45, came
-45, go
 45, hand
 45, most
-46, am
 46, than
 47, through
 48, every
@@ -5551,7 +5484,6 @@
 58, down
 59, book
 59, get
-59, it's
 60, how
 60, other
 61, don't
@@ -5568,7 +5500,6 @@
 64, such
 67, been
 68, two
-68, us
 69, may
 69, now
 69, which
@@ -5597,52 +5528,28 @@
 98, were
 102, here
 104, will
-108, up
-112, do
-113, an
 118, out
-124, no
-127, if
 134, what
 135, them
 136, our
 139, from
 139, there
-145, by
-147, my
-148, mr
 152, are
-161, so
-163, be
-167, me
 168, him
 177, had
 184, one
 186, have
 189, they
-194, or
 202, not
 221, this
 224, all
 232, but
 262, for
-277, as
 286, with
-299, on
-301, at
 321, his
-334, we
 363, was
-364, is
 371, said
 425, you
 533, that
-560, he
-678, in
-717, it
-962, a
 980, and
-998, i
-1039, to
-1324, of
 2141, the

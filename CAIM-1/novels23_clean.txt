@@ -1,4 +1,3 @@
-1, _ab
 1, _above_
 1, _absoluta_
 1, _absolutely
@@ -15,7 +14,6 @@
 1, _anticipationes
 1, _any
 1, _are
-1, _as
 1, _attributes_
 1, _august
 1, _bad_
@@ -32,7 +30,6 @@
 1, _capere_
 1, _category_
 1, _certainly_
-1, _cf
 1, _chest
 1, _circumstantial
 1, _civil
@@ -56,7 +53,6 @@
 1, _convertend_
 1, _courage_
 1, _custom
-1, _da_
 1, _deduction_
 1, _definition_
 1, _destructive_
@@ -118,8 +114,6 @@
 1, _humour_
 1, _hypercategorematic_
 1, _hypotheses
-1, _i
-1, _if_
 1, _immediate
 1, _immediately_
 1, _inductive
@@ -129,14 +123,12 @@
 1, _intellectual
 1, _intellectus
 1, _ipso
-1, _j
 1, _july
 1, _june
 1, _kind_
 1, _knowledge
 1, _landlord_
 1, _latens
-1, _le
 1, _line_
 1, _literary
 1, _magnum
@@ -166,7 +158,6 @@
 1, _nous_
 1, _november
 1, _octohedrite_
-1, _of
 1, _only
 1, _ontologically_
 1, _organon_
@@ -232,7 +223,6 @@
 1, _simpliciter_
 1, _sitting_
 1, _smell
-1, _so
 1, _socialism_
 1, _socrates_
 1, _soldier_
@@ -257,7 +247,6 @@
 1, _themata
 1, _there_
 1, _they
-1, _to
 1, _training_
 1, _true_
 1, _ubi_
@@ -283,8 +272,6 @@
 1, _with_
 1, _without_
 1, _woman
-1, _ã
-1, a's
 1, a______contraries______e
 1, aar
 1, abel
@@ -379,7 +366,6 @@
 1, agnoia
 1, agreements
 1, agricultural
-1, ah
 1, ahead
 1, aid
 1, aided
@@ -388,7 +374,6 @@
 1, ailment
 1, ailments
 1, aiteisthai
-1, ak
 1, akra
 1, akron
 1, akrã
@@ -553,7 +538,6 @@
 1, awkward
 1, axis
 1, axiã
-1, b_
 1, b_r_a_m_a_nt_i_p_
 1, b_r_a_m_a_nt_ip
 1, babel
@@ -679,7 +663,6 @@
 1, butler's
 1, butt
 1, bystanders
-1, c'est
 1, cab
 1, cabdriver
 1, cabs
@@ -1020,8 +1003,6 @@
 1, customer
 1, cutting
 1, cycle
-1, cã
-1, d'auteroche
 1, damaged
 1, damp
 1, dangers
@@ -1304,7 +1285,6 @@
 1, eccentricities
 1, echã
 1, economy_
-1, ed
 1, edges
 1, edinburgh
 1, edited
@@ -1416,7 +1396,6 @@
 1, era
 1, err
 1, erred
-1, es
 1, esoteric
 1, especial
 1, essay
@@ -1778,7 +1757,6 @@
 1, hipparchus
 1, hirsch
 1, hirsch's
-1, ho
 1, hog
 1, hole
 1, holy
@@ -2084,7 +2062,6 @@
 1, knowledge_
 1, kraal
 1, krã
-1, l'homme
 1, label
 1, laboratory
 1, labors
@@ -2166,7 +2143,6 @@
 1, lurk
 1, lurking
 1, lykeiã
-1, ma
 1, magistrate
 1, magnanimity
 1, magnanimous
@@ -2566,7 +2542,6 @@
 1, persuasion
 1, perturbation
 1, pervert
-1, pg
 1, pglaf
 1, phanai
 1, pharmacopeia
@@ -2832,7 +2807,6 @@
 1, rating
 1, ratios
 1, ray
-1, re_
 1, reaction
 1, readily
 1, readiness
@@ -3000,7 +2974,6 @@
 1, rushed
 1, rushing
 1, russian
-1, s_s
 1, sacraments
 1, sacred
 1, sacrifice
@@ -3220,7 +3193,6 @@
 1, spurning
 1, squares
 1, squirrel
-1, st
 1, stable
 1, staff
 1, staggered
@@ -3368,7 +3340,6 @@
 1, synonyms
 1, synthesis
 1, systematised
-1, ta
 1, tables
 1, tabulated
 1, tactics
@@ -3386,7 +3357,6 @@
 1, tasters
 1, taxed
 1, taxes
-1, te
 1, teach
 1, teacher's
 1, teaches
@@ -3457,7 +3427,6 @@
 1, tissue
 1, tissues
 1, tithe
-1, tm's
 1, tolerable
 1, tollendo
 1, tollens_
@@ -3759,29 +3728,23 @@
 2, _cannot_
 2, _clerk_
 2, _connotat_
-2, _d_
 2, _differentiã
 2, _discourse_
-2, _e_
 2, _education_
 2, _empirical
 2, _ens
 2, _essay
-2, _ex
 2, _examiner_
 2, _exponibiles_
 2, _forma_
 2, _fruit
 2, _generally_
 2, _history
-2, _if
 2, _illicit
 2, _inst
 2, _intuitive_
-2, _is_
 2, _lectures_
 2, _logically_
-2, _m_
 2, _man
 2, _material
 2, _men
@@ -3791,7 +3754,6 @@
 2, _must_
 2, _none
 2, _noumena_
-2, _of_
 2, _oligarchy_
 2, _opus
 2, _par
@@ -3923,7 +3885,6 @@
 2, binding
 2, bishop
 2, bit
-2, bk
 2, blackboard
 2, blackness
 2, blind
@@ -4060,7 +4021,6 @@
 2, counts
 2, courage
 2, courtesy
-2, cp
 2, create
 2, creature
 2, creep
@@ -4077,7 +4037,6 @@
 2, cup
 2, curly
 2, cut
-2, da
 2, da_r_a_pt_i
 2, da_t_i_s_i
 2, damage
@@ -4291,7 +4250,6 @@
 2, functionally
 2, functions
 2, furnished
-2, g
 2, gathered
 2, generalised
 2, generalising
@@ -4323,7 +4281,6 @@
 2, guidance
 2, gunshot
 2, gutenberg's
-2, h
 2, halamek
 2, handbooks
 2, hansom
@@ -4362,7 +4319,6 @@
 2, husband
 2, husbands
 2, hypotheticals
-2, ic
 2, icebergs
 2, ideals
 2, identities
@@ -4383,7 +4339,6 @@
 2, impressed
 2, improperly
 2, impulsive
-2, in_
 2, inadvertence
 2, inbred
 2, inch
@@ -4433,10 +4388,8 @@
 2, iron
 2, irresistibly
 2, irrespective
-2, is_
 2, issued
 2, item
-2, j
 2, judged
 2, judgments
 2, juggler
@@ -4451,8 +4404,6 @@
 2, kent
 2, knave
 2, knight
-2, l
-2, la
 2, laertes
 2, late
 2, latimer
@@ -4530,7 +4481,6 @@
 2, moulded
 2, mouths
 2, moving
-2, mp
 2, multiplication
 2, multiply
 2, multitude
@@ -4732,7 +4682,6 @@
 2, rationality
 2, raw
 2, rays
-2, re
 2, readers
 2, reading
 2, realising
@@ -4851,7 +4800,6 @@
 2, shorter
 2, shortness
 2, shoulders
-2, si
 2, similarity
 2, similitude
 2, simpler
@@ -4988,7 +4936,6 @@
 2, trunk
 2, trusted
 2, twice
-2, u
 2, ubi
 2, unambiguous
 2, uncle
@@ -5011,7 +4958,6 @@
 2, unwarrantable
 2, urbanity
 2, usages
-2, ut
 2, uttered
 2, vanilla
 2, varied
@@ -5039,7 +4985,6 @@
 2, voluminous
 2, vote
 2, vows
-2, w
 2, waking
 2, wall
 2, wallace
@@ -5078,8 +5023,6 @@
 2, zeno
 2, zeno's
 2, zulus
-2, â
-3, _ad
 3, _ambiguity
 3, _animal_
 3, _bring
@@ -5173,7 +5116,6 @@
 3, caution
 3, celarent
 3, centres
-3, ch
 3, challenged
 3, characterised
 3, characteristic
@@ -5309,7 +5251,6 @@
 3, estimate
 3, ethics
 3, evolved
-3, ex
 3, excellent
 3, exempt
 3, exhausted
@@ -5388,9 +5329,7 @@
 3, hundred
 3, hurry
 3, hypothetically
-3, ia
 3, ideal
-3, ie
 3, ignore
 3, imaginary
 3, imagine
@@ -5431,7 +5370,6 @@
 3, lacing
 3, laden
 3, laugh
-3, le
 3, learner
 3, liar
 3, liars
@@ -5485,7 +5423,6 @@
 3, nominalist
 3, notably
 3, nurse
-3, oa
 3, occam
 3, occasional
 3, occasionally
@@ -5496,16 +5433,13 @@
 3, official
 3, older
 3, omni
-3, oo
 3, oppose
 3, oral
 3, orders
 3, organ
 3, organs
-3, ou
 3, overlooked
 3, owed
-3, ox
 3, paragraphs
 3, partial
 3, patients
@@ -5562,7 +5496,6 @@
 3, proverbs
 3, purposeless
 3, purse
-3, q
 3, qualify
 3, qualifying
 3, questioner's
@@ -5639,7 +5572,6 @@
 3, singleness
 3, sleep
 3, slightly
-3, sm
 3, snow
 3, snowball
 3, soldier
@@ -5682,7 +5614,6 @@
 3, thinker
 3, thirteenth
 3, thorough
-3, ti
 3, tight
 3, timid
 3, tollens
@@ -5737,19 +5668,15 @@
 3, wit
 3, wood
 3, youth
-4, _a
 4, _culture_
 4, _fallacia
 4, _idola_
 4, _inductio
-4, _s_
-4, aa
 4, aberdeen
 4, ability
 4, abstraction
 4, absurdity
 4, accidens_
-4, ad
 4, additional
 4, admitting
 4, advancement
@@ -5757,7 +5684,6 @@
 4, affect
 4, affirm
 4, agreed
-4, ai
 4, aims
 4, allowed
 4, ambiguous
@@ -5782,7 +5708,6 @@
 4, balls
 4, bar
 4, barbara
-4, be_
 4, bears
 4, beasts
 4, begun
@@ -5880,7 +5805,6 @@
 4, drinking
 4, drug
 4, dwell
-4, ea
 4, earnest
 4, eats
 4, editions
@@ -5971,12 +5895,10 @@
 4, intervals
 4, inventor
 4, investigators
-4, io
 4, irrational
 4, irritable
 4, isolate
 4, isolation
-4, ix
 4, jump
 4, justice
 4, kai
@@ -6019,9 +5941,7 @@
 4, nous
 4, obscured
 4, obstacles
-4, of_
 4, offered
-4, oi
 4, ones
 4, ontological
 4, orderly
@@ -6049,7 +5969,6 @@
 4, proves
 4, providing
 4, province
-4, pt
 4, pupils
 4, pushed
 4, qualifications
@@ -6173,22 +6092,16 @@
 4, worked
 4, write
 4, writes
-4, x
-4, y
 4, yesterday
 4, zero
-5, _a_
-5, _c_
 5, _differentia_
 5, _fundamentum
-5, _is
 5, _socrates
 5, _species_
 5, accounting
 5, accustomed
 5, acted
 5, adjectives
-5, ae
 5, ages
 5, allied
 5, allow
@@ -6199,7 +6112,6 @@
 5, angled
 5, answered
 5, anyone
-5, ao
 5, apprehension
 5, approach
 5, arriving
@@ -6284,8 +6196,6 @@
 5, divisionis_
 5, dropped
 5, drops
-5, ee
-5, ei
 5, elaborate
 5, employ
 5, enable
@@ -6293,7 +6203,6 @@
 5, endemic
 5, england
 5, enter
-5, eo
 5, est
 5, evil
 5, exactness
@@ -6359,7 +6268,6 @@
 5, modification
 5, monarchy
 5, moon
-5, ms
 5, murder
 5, mutual
 5, myself
@@ -6376,7 +6284,6 @@
 5, observer
 5, occurring
 5, occurs
-5, oe
 5, omni_
 5, operating
 5, opponents
@@ -6392,14 +6299,12 @@
 5, perplexities
 5, phenomenal
 5, play
-5, pm
 5, poet
 5, poetry
 5, portion
 5, post
 5, posted
 5, postulate
-5, pp
 5, preceded
 5, presently
 5, prince
@@ -6526,7 +6431,6 @@
 6, advantages
 6, affair
 6, affected
-6, am
 6, analogous
 6, apparently
 6, appeal
@@ -6655,7 +6559,6 @@
 6, protection
 6, psychologically
 6, published
-6, r
 6, realised
 6, recognition
 6, record
@@ -6712,9 +6615,7 @@
 6, wits
 6, working
 6, yourself
-6, z
 7, _canon
-7, _de
 7, _man_
 7, _petitio
 7, _vice
@@ -6780,7 +6681,6 @@
 7, early
 7, ebooks
 7, eminent
-7, en
 7, english
 7, enthymemes
 7, entirely
@@ -6901,7 +6801,6 @@
 7, whiteness
 7, wisdom
 7, writing
-8, _in
 8, _mambro_
 8, accept
 8, accordingly
@@ -7042,7 +6941,6 @@
 8, suggest
 8, survey
 8, symbols
-8, t
 8, testing
 8, took
 8, towards
@@ -7052,7 +6950,6 @@
 8, whenever
 8, wound
 9, _ignoratio
-9, _p_
 9, _post
 9, _therefore_
 9, affirmed
@@ -7064,7 +6961,6 @@
 9, bain's
 9, came
 9, changes
-9, co
 9, coincidences
 9, colours
 9, constitution
@@ -7182,7 +7078,6 @@
 10, exercised
 10, experiments
 10, extent
-10, f
 10, fall
 10, fallacious
 10, feel
@@ -7243,11 +7138,9 @@
 10, tendencies
 10, throughout
 10, triangle
-10, tã
 10, useless
 10, variation
 10, variations
-10, vi
 10, whately
 10, young
 11, _novum
@@ -7270,7 +7163,6 @@
 11, distribution
 11, energy
 11, essential
-11, et
 11, ever
 11, exist
 11, experiment
@@ -7332,7 +7224,6 @@
 11, trademark
 11, undistributed
 11, unknown
-11, v
 11, victories
 11, wheat
 11, wide
@@ -7353,7 +7244,6 @@
 12, confidence
 12, connotative
 12, corresponding
-12, de
 12, doing
 12, else
 12, ends
@@ -7443,7 +7333,6 @@
 13, intended
 13, interpreted
 13, introduction
-13, me
 13, moral
 13, note
 13, observing
@@ -7631,7 +7520,6 @@
 17, importance
 17, knowing
 17, left
-17, n
 17, named
 17, occur
 17, opposite
@@ -7651,8 +7539,6 @@
 17, understanding
 17, war
 17, year
-17, ã
-18, _b_
 18, better
 18, bring
 18, certainty
@@ -7794,7 +7680,6 @@
 24, best
 24, contrapositive
 24, doubt
-24, dr
 24, due
 24, explained
 24, forth
@@ -7841,7 +7726,6 @@
 26, help
 26, immediate
 26, infer
-26, iv
 26, material
 26, power
 26, proceed
@@ -7884,7 +7768,6 @@
 29, accident
 29, account
 29, character
-29, d
 29, differences
 29, empirical
 29, end
@@ -7903,7 +7786,6 @@
 30, inasmuch
 30, limited
 30, making
-30, my
 30, neither
 30, none
 30, practice
@@ -7951,7 +7833,6 @@
 34, distributed
 34, error
 34, let
-34, mr
 34, relations
 34, right
 35, application
@@ -7976,10 +7857,8 @@
 36, says
 36, sometimes
 37, fallacy
-37, go
 37, life
 37, necessary
-37, o
 37, opposition
 37, phenomenon
 37, resemblance
@@ -8020,7 +7899,6 @@
 42, nothing
 42, phenomena
 42, why
-43, b
 43, dialectic
 43, like
 43, never
@@ -8037,7 +7915,6 @@
 45, less
 45, sequence
 45, taken
-46, c
 46, circumstance
 46, experience
 46, mill's
@@ -8066,7 +7943,6 @@
 51, instances
 51, put
 51, unless
-51, up
 51, various
 52, quantity
 52, species
@@ -8085,7 +7961,6 @@
 56, means
 56, point
 56, scientific
-56, tm
 56, your
 57, through
 58, among
@@ -8094,7 +7969,6 @@
 58, often
 58, relation
 59, causal
-59, e
 59, number
 59, shall
 60, know
@@ -8122,7 +7996,6 @@
 65, though
 65, thought
 66, good
-66, ii
 66, negative
 66, simple
 67, part
@@ -8195,7 +8068,6 @@
 94, question
 95, observation
 95, out
-95, us
 95, use
 97, science
 98, say
@@ -8233,11 +8105,9 @@
 139, subject
 140, had
 140, inference
-144, do
 144, would
 145, first
 145, method
-147, m
 147, syllogism
 147, thus
 148, proposition
@@ -8260,8 +8130,6 @@
 219, name
 222, our
 223, can
-231, so
-232, i
 235, logic
 241, more
 245, them
@@ -8273,43 +8141,24 @@
 281, only
 283, there
 292, has
-293, s
-295, no
 295, other
 304, they
 305, some
-309, p
-320, at
 333, what
-376, on
 380, his
 394, one
-400, if
-431, he
 442, was
 446, which
 451, from
 456, may
 460, have
-494, an
 518, all
 575, but
 607, for
 616, with
-647, by
 816, this
 859, are
 908, not
-938, we
-1001, be
-1052, as
-1096, or
-1394, it
 1787, that
 2178, and
-2436, a
-2573, to
-2595, in
-3067, is
-4980, of
 7381, the

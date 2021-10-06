@@ -10,14 +10,11 @@
 1, _already_
 1, _alterations_
 1, _always_
-1, _am_
 1, _another
 1, _another's
 1, _ape_
 1, _applauses_
 1, _are_
-1, _as
-1, _at
 1, _aukward_
 1, _back_
 1, _bad_
@@ -110,7 +107,6 @@
 1, _glinn_
 1, _gloomy
 1, _gloomy_
-1, _go_
 1, _god
 1, _good
 1, _good_
@@ -119,13 +115,11 @@
 1, _greatly_
 1, _guess_
 1, _guitarre_
-1, _h
 1, _handsome
 1, _happiness_
 1, _has
 1, _has_
 1, _have
-1, _he
 1, _hear_
 1, _heavenly_
 1, _high_
@@ -144,7 +138,6 @@
 1, _interest_
 1, _intruder_
 1, _irresolution_
-1, _is_
 1, _jealous_
 1, _jewel_
 1, _john
@@ -186,7 +179,6 @@
 1, _neither_
 1, _nero_
 1, _next
-1, _no
 1, _none_
 1, _obedience_
 1, _odso_
@@ -248,7 +240,6 @@
 1, _soul_
 1, _speak_
 1, _spoke_
-1, _st
 1, _strange
 1, _superlative_
 1, _suspect_
@@ -282,8 +273,6 @@
 1, _virtuous_
 1, _visionary_
 1, _was
-1, _we
-1, _we_
 1, _weak_
 1, _well
 1, _where_
@@ -363,7 +352,6 @@
 1, aided
 1, ails
 1, airs
-1, ak
 1, alarmed
 1, alderman's
 1, all_
@@ -378,7 +366,6 @@
 1, alternate
 1, alternately
 1, alternative
-1, am_
 1, amazing
 1, amazingly
 1, amazon
@@ -417,7 +404,6 @@
 1, array
 1, artful
 1, artless
-1, as_
 1, ascendency
 1, aspect
 1, aspire
@@ -842,7 +828,6 @@
 1, curse
 1, cursing
 1, curst
-1, d's
 1, dagger
 1, dairy
 1, damaged
@@ -862,7 +847,6 @@
 1, day_
 1, days_
 1, dazzling
-1, de
 1, deaden
 1, deaden'd
 1, deadly
@@ -1058,7 +1042,6 @@
 1, duties
 1, dwelt
 1, dyed
-1, e_
 1, eagerly
 1, eagerness
 1, earlier
@@ -1367,7 +1350,6 @@
 1, glimmering
 1, glinn
 1, gloss
-1, go_
 1, goals
 1, godson
 1, govern'd
@@ -1427,8 +1409,6 @@
 1, haughty_
 1, have_
 1, hawk
-1, he'd
-1, he's
 1, head_
 1, healing
 1, hears
@@ -1481,12 +1461,9 @@
 1, huzzaing
 1, hypertext
 1, hypocrite_
-1, hã
-1, i've
 1, identification
 1, identify
 1, idle
-1, if_
 1, ignorance
 1, iii
 1, ill_
@@ -1627,8 +1604,6 @@
 1, islands
 1, issued
 1, italy
-1, iv
-1, ix
 1, jane
 1, jealous
 1, jealousy
@@ -1660,7 +1635,6 @@
 1, knot
 1, knots
 1, know_
-1, l
 1, labour
 1, laboured
 1, lac'd
@@ -1835,7 +1809,6 @@
 1, musing
 1, muslin
 1, mutter'd
-1, n
 1, named
 1, nameless
 1, names
@@ -1878,7 +1851,6 @@
 1, numerous
 1, nuptials
 1, nursery
-1, o'clock_
 1, oak
 1, oaths
 1, obduracy
@@ -2010,7 +1982,6 @@
 1, perverseness
 1, perversenss
 1, petitioned
-1, pg
 1, pglaf
 1, phaeton
 1, phantoms
@@ -2156,7 +2127,6 @@
 1, push
 1, pushed
 1, pushing
-1, pã
 1, quaking
 1, qualifications
 1, quarrelled
@@ -2167,7 +2137,6 @@
 1, questions
 1, quitting
 1, quiver'd
-1, r
 1, race
 1, racks
 1, rage
@@ -2506,7 +2475,6 @@
 1, squeaker
 1, squeez'd
 1, squeezing
-1, st
 1, stable
 1, staff
 1, stages
@@ -2643,7 +2611,6 @@
 1, symptom
 1, synonymous
 1, syrens
-1, t
 1, table_
 1, tables
 1, tacking
@@ -2702,7 +2669,6 @@
 1, tired
 1, titles
 1, tittle
-1, tm's
 1, toes
 1, too_
 1, tooth
@@ -2811,11 +2777,8 @@
 1, updated
 1, upper
 1, uproar
-1, us_
 1, ushering
-1, ut
 1, utterance
-1, v
 1, vacant
 1, vainly
 1, valets
@@ -2841,7 +2804,6 @@
 1, vexations
 1, vexed
 1, vexes
-1, vi
 1, vice
 1, vices
 1, viewed
@@ -2868,7 +2830,6 @@
 1, vow'd
 1, voyage
 1, vulcan
-1, w
 1, waddle
 1, waddling
 1, waistcoat
@@ -2949,23 +2910,18 @@
 1, wretchedest
 1, writes
 1, writings
-1, x
-1, xi
 1, xii
 1, xiii
 1, xiv
 1, xix
-1, xl
 1, xli
 1, xlii
 1, xliii
 1, xliv
 1, xlv
-1, xv
 1, xvi
 1, xvii
 1, xviii
-1, xx
 1, xxi
 1, xxii
 1, xxiii
@@ -2985,8 +2941,6 @@
 1, xxxvi
 1, xxxvii
 1, xxxviii
-1, y
-1, ye
 1, yoke
 1, york
 1, you_
@@ -2999,7 +2953,6 @@
 2, _another's_
 2, _believe
 2, _but
-2, _by_
 2, _darcey_
 2, _declaring
 2, _don't_
@@ -3013,19 +2966,15 @@
 2, _happy_
 2, _her
 2, _his
-2, _if
 2, _immaterial_
 2, _impatience_
 2, _important
-2, _in
 2, _indeed_
 2, _jenkings's_
 2, _lives
 2, _long_
 2, _man_
-2, _me
 2, _money_
-2, _mr
 2, _myself_
 2, _next_
 2, _officers_
@@ -3052,7 +3001,6 @@
 2, _told
 2, _true_
 2, _two
-2, _us_
 2, _virtue_
 2, _well_
 2, _when_
@@ -3262,7 +3210,6 @@
 2, curious
 2, curtis
 2, cut
-2, d
 2, damage
 2, damn'd
 2, danced
@@ -3304,14 +3251,12 @@
 2, distressing
 2, divided
 2, divinity
-2, do_
 2, dogs
 2, domestics
 2, doors
 2, double
 2, doubly
 2, dowager
-2, dr
 2, dragg'd
 2, dram
 2, dreadfully
@@ -3474,7 +3419,6 @@
 2, hill
 2, him_
 2, history
-2, ho
 2, hoarse
 2, honours
 2, hop'd
@@ -3490,10 +3434,7 @@
 2, hung
 2, hurrying
 2, hypocrisy
-2, i'm
-2, i_
 2, idol
-2, ii
 2, ills
 2, immense
 2, implements
@@ -3623,7 +3564,6 @@
 2, novel
 2, numberless
 2, nuts
-2, nã
 2, oath
 2, obey'd
 2, objection
@@ -3972,7 +3912,6 @@
 3, _dead_
 3, _dean_
 3, _did_
-3, _do_
 3, _edmund
 3, _every
 3, _for
@@ -3980,7 +3919,6 @@
 3, _hate_
 3, _heart_
 3, _her_
-3, _if_
 3, _last_
 3, _may_
 3, _miss_
@@ -4027,7 +3965,6 @@
 3, asking
 3, assure
 3, avarice
-3, b
 3, banker
 3, batchelors
 3, begging
@@ -4200,7 +4137,6 @@
 3, guard
 3, guilty
 3, gunning
-3, h
 3, hall
 3, happiest
 3, happily
@@ -4226,8 +4162,6 @@
 3, intimate
 3, intreaties
 3, introduc'd
-3, it_
-3, j
 3, joined
 3, jump'd
 3, kindly
@@ -4246,7 +4180,6 @@
 3, loud
 3, love_
 3, lover
-3, m
 3, mansion
 3, marks
 3, maternal
@@ -4331,7 +4264,6 @@
 3, purity
 3, raise
 3, rapture
-3, re
 3, reading
 3, receipt
 3, recital
@@ -4453,7 +4385,6 @@
 3, yacht
 3, yard
 3, zounds
-4, _a
 4, _bath_
 4, _can_
 4, _dare_
@@ -4471,7 +4402,6 @@
 4, _them_
 4, _this
 4, _thursday_
-4, _to
 4, _too
 4, _what_
 4, _yes_
@@ -4502,7 +4432,6 @@
 4, attentively
 4, avail
 4, awake
-4, ay
 4, banker's
 4, bare
 4, batchelor
@@ -4623,7 +4552,6 @@
 4, interest
 4, interview
 4, introducing
-4, is_
 4, itself
 4, juncture
 4, kill
@@ -4707,7 +4635,6 @@
 4, rise
 4, rising
 4, roof
-4, s
 4, scotland
 4, seal
 4, seiz'd
@@ -4769,13 +4696,10 @@
 4, year
 4, you'll
 5, _another_
-5, _as_
 5, _dover_
-5, _it
 5, _london_
 5, _never_
 5, _not_
-5, _so
 5, _what
 5, accident
 5, accidentally
@@ -4874,7 +4798,6 @@
 5, loves
 5, mad
 5, mark
-5, me_
 5, medium
 5, mercy
 5, minds
@@ -4965,7 +4888,6 @@
 5, trouble
 5, try
 5, uncommon
-5, us'd
 5, usual
 5, ventur'd
 5, venture
@@ -4982,7 +4904,6 @@
 5, wishes
 5, wonder
 5, yonder
-5, ã
 6, _friendship_
 6, _love_
 6, _mine_
@@ -5170,7 +5091,6 @@
 7, graceful
 7, grateful
 7, greater
-7, ha
 7, heavens
 7, hint
 7, impatient
@@ -5230,11 +5150,7 @@
 7, warley's
 7, windows
 8, _from
-8, _i
-8, _it_
 8, _more_
-8, _my
-8, _my_
 8, _our_
 8, _own_
 8, _she_
@@ -5315,7 +5231,6 @@
 8, water
 8, whether
 9, _all_
-9, _i_
 9, _one_
 9, _your_
 9, above
@@ -5383,7 +5298,6 @@
 9, white
 9, women
 10, _his_
-10, _no_
 10, access
 10, admire
 10, agree
@@ -5471,7 +5385,6 @@
 11, letters
 11, light
 11, lovely
-11, o'clock
 11, offer
 11, opportunity
 11, oxfordshire
@@ -5497,7 +5410,6 @@
 11, trademark
 11, unhappy
 11, used
-12, _he_
 12, _mame_
 12, abroad
 12, absence
@@ -5551,7 +5463,6 @@
 13, longer
 13, looks
 13, met
-13, o
 13, occasion
 13, opposite
 13, pain
@@ -5566,7 +5477,6 @@
 13, thank
 13, times
 13, united
-14, ah
 14, air
 14, attempt
 14, brought
@@ -5604,10 +5514,8 @@
 14, vain
 14, window
 14, yours
-15, _me_
 15, _too_
 15, attend
-15, c
 15, call
 15, chaise
 15, dearest
@@ -5688,7 +5596,6 @@
 18, flew
 18, gentleman
 18, given
-18, i'll
 18, john
 18, looking
 18, meet
@@ -5759,7 +5666,6 @@
 22, years
 23, coach
 23, end
-23, f
 23, former
 23, foundation
 23, half
@@ -5796,7 +5702,6 @@
 25, these
 25, word
 25, yourself
-26, _so_
 26, affection
 26, honourable
 26, knew
@@ -5812,7 +5717,6 @@
 27, something
 27, thousand
 28, daughter
-28, e
 28, happiness
 28, pleasure
 28, sent
@@ -5859,7 +5763,6 @@
 34, world
 34, yes
 35, life
-35, oh
 35, soul
 35, those
 35, upon
@@ -5925,7 +5828,6 @@
 53, risby
 55, friend
 56, house
-56, tm
 57, cannot
 58, moment
 59, like
@@ -5956,13 +5858,11 @@
 74, now
 75, down
 76, our
-76, us
 79, letter
 82, did
 82, jenkings
 82, than
 82, why
-83, go
 83, know
 84, heart
 84, molesworth
@@ -5988,14 +5888,12 @@
 111, been
 111, must
 114, think
-115, do
 115, warley
 119, before
 119, see
 126, should
 129, james
 132, never
-132, up
 135, their
 139, they
 142, them
@@ -6004,60 +5902,37 @@
 147, out
 147, shall
 149, one
-149, we
 154, said
 158, darcey
 161, which
-167, am
 170, when
-173, an
 175, has
 177, all
-179, or
 180, how
 194, would
-195, so
 201, had
-208, no
 211, miss
 211, sir
 238, powis
 239, are
-246, by
 251, will
-252, if
 258, lord
 262, him
-277, as
 282, what
 285, your
 294, she
-297, mr
 309, from
 310, but
 318, lady
 326, this
-332, on
-333, at
 367, that
 398, for
 442, have
 449, her
-470, be
 475, his
 479, with
 491, was
-527, he
-544, me
-551, is
-559, it
 584, not
-702, in
 749, you
 838, and
-918, my
-1005, a
-1243, of
-1710, to
-2033, i
 2076, the

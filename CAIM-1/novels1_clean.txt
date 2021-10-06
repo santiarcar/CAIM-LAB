@@ -1,12 +1,9 @@
 1, _absolutely_
 1, _admiration_
 1, _agents_
-1, _an
 1, _anima
 1, _anything_
 1, _aristocracy_
-1, _be
-1, _be_
 1, _brother_
 1, _brusquerie_
 1, _cardinal_
@@ -14,9 +11,7 @@
 1, _case_
 1, _cases_
 1, _convents_
-1, _de
 1, _direct_
-1, _e_
 1, _editions_
 1, _excessive_
 1, _facio_
@@ -43,8 +38,6 @@
 1, _natural_
 1, _not
 1, _noverca_
-1, _ob
-1, _ob_
 1, _officia_
 1, _passive_
 1, _philanthropy_
@@ -53,7 +46,6 @@
 1, _public
 1, _punctum_
 1, _quasi_
-1, _re
 1, _recreation_
 1, _rectus_
 1, _right_
@@ -61,7 +53,6 @@
 1, _schoolmen_
 1, _seem_
 1, _sin_
-1, _so_
 1, _sympathy_
 1, _unfit_
 1, _unfitness_
@@ -175,7 +166,6 @@
 1, agony
 1, aimed
 1, aimless
-1, ak
 1, alcohol
 1, alertness
 1, alexander
@@ -751,8 +741,6 @@
 1, custom
 1, customs
 1, cut
-1, cã
-1, cå
 1, dams
 1, dangers
 1, dare
@@ -1003,7 +991,6 @@
 1, dutyâ
 1, dwarfed
 1, dweller
-1, dã
 1, earn
 1, earned
 1, earnestly
@@ -2024,7 +2011,6 @@
 1, owed
 1, owned
 1, ownâ
-1, p
 1, pacific
 1, pagan
 1, pagans
@@ -2095,7 +2081,6 @@
 1, perversion
 1, perverts
 1, pestilential
-1, pg
 1, phantasms
 1, phases
 1, philanthropists
@@ -2993,7 +2978,6 @@
 1, uselessly
 1, usurp
 1, usurpation
-1, ut
 1, utf
 1, utilities
 1, utilize
@@ -3133,10 +3117,6 @@
 1, zipped
 1, zoã
 1, îµï
-2, _a_
-2, _b_
-2, _c_
-2, _d_
 2, _due_
 2, _duty_
 2, _fitness_
@@ -3293,7 +3273,6 @@
 2, classification
 2, climate
 2, cloud
-2, co
 2, codes
 2, coexist
 2, coin
@@ -3370,7 +3349,6 @@
 2, damaged
 2, daysâ
 2, dayâ
-2, de
 2, dearest
 2, dearth
 2, deceive
@@ -4154,7 +4132,6 @@
 2, variance
 2, variety
 2, varying
-2, vi
 2, vices
 2, vii
 2, viii
@@ -4193,17 +4170,12 @@
 2, wretchedness
 2, writes
 2, wrought
-2, x
-2, xi
 2, xii
 2, xiii
 2, xiv
-2, xv
 2, yielded
 2, yoke
 2, zeno
-2, µ
-2, îµ
 3, abstain
 3, accurate
 3, acquiring
@@ -4251,7 +4223,6 @@
 3, available
 3, availing
 3, avoid
-3, b
 3, befitting
 3, belonging
 3, benefactor
@@ -4488,7 +4459,6 @@
 3, internal
 3, interpretation
 3, issue
-3, ix
 3, joy
 3, kindnesses
 3, king
@@ -4605,7 +4575,6 @@
 3, purchasing
 3, quality
 3, rank
-3, re
 3, reaching
 3, reader
 3, reading
@@ -4674,7 +4643,6 @@
 3, speak
 3, speaking
 3, spring
-3, st
 3, stage
 3, stands
 3, steps
@@ -4766,8 +4734,6 @@
 3, wisely
 3, wonted
 3, youth
-3, µï
-3, ã
 4, _virtus_
 4, ability
 4, academy
@@ -4885,7 +4851,6 @@
 4, distress
 4, division
 4, doubtful
-4, dr
 4, dues
 4, earns
 4, editions
@@ -4918,7 +4883,6 @@
 4, fullest
 4, furnished
 4, generation
-4, go
 4, gods
 4, governed
 4, gross
@@ -5161,7 +5125,6 @@
 5, beneficial
 5, bossuet
 5, burden
-5, c
 5, careful
 5, censure
 5, century
@@ -5224,7 +5187,6 @@
 5, friends
 5, fundamental
 5, furnish
-5, fã
 5, gave
 5, greatest
 5, habitual
@@ -5269,7 +5231,6 @@
 5, nations
 5, neglected
 5, neutralize
-5, nã
 5, objective
 5, occasioned
 5, occupy
@@ -5538,7 +5499,6 @@
 6, unwise
 6, using
 6, utter
-6, v
 6, vary
 6, victims
 6, views
@@ -5554,7 +5514,6 @@
 6, working
 6, worse
 6, writing
-6, ye
 6, yielding
 7, able
 7, administration
@@ -5915,7 +5874,6 @@
 10, enterprise
 10, evils
 10, express
-10, f
 10, facts
 10, fair
 10, fit
@@ -5930,7 +5888,6 @@
 10, injury
 10, intelligence
 10, intention
-10, iv
 10, judgment
 10, justly
 10, land
@@ -6016,7 +5973,6 @@
 11, takes
 11, trademark
 11, vice
-11, ï
 12, belong
 12, benevolent
 12, consequences
@@ -6059,7 +6015,6 @@
 12, veracity
 12, wise
 13, aims
-13, am
 13, archive
 13, attainment
 13, bear
@@ -6070,7 +6025,6 @@
 13, concerned
 13, contingent
 13, copy
-13, d
 13, defined
 13, demands
 13, domestic
@@ -6131,7 +6085,6 @@
 14, undoubtedly
 14, view
 14, worthy
-14, á
 15, about
 15, after
 15, aim
@@ -6146,7 +6099,6 @@
 15, found
 15, highest
 15, hope
-15, ii
 15, indulgence
 15, instance
 15, material
@@ -6160,7 +6112,6 @@
 15, similar
 15, taste
 15, type
-15, up
 16, abstinence
 16, bad
 16, called
@@ -6192,7 +6143,6 @@
 16, temptation
 16, tendency
 16, world
-16, î
 17, actual
 17, becomes
 17, beyond
@@ -6239,7 +6189,6 @@
 18, latter
 18, maintained
 18, makes
-18, me
 18, mental
 18, oaths
 18, opinion
@@ -6314,7 +6263,6 @@
 22, uses
 23, appetite
 23, desires
-23, e
 23, habits
 23, interest
 23, outward
@@ -6487,7 +6435,6 @@
 55, cases
 55, made
 55, section
-56, my
 56, often
 57, then
 59, should
@@ -6510,7 +6457,6 @@
 67, some
 68, action
 68, every
-68, us
 69, duties
 69, part
 70, public
@@ -6530,12 +6476,10 @@
 84, human
 85, been
 86, men
-88, i
 88, project
 89, were
 89, without
 91, must
-92, do
 92, virtue
 93, knowledge
 98, good
@@ -6559,10 +6503,8 @@
 129, own
 131, would
 132, one
-132, s
 142, any
 142, man
-150, at
 150, will
 160, only
 161, has
@@ -6570,9 +6512,6 @@
 169, life
 169, who
 174, more
-179, â
-193, so
-202, if
 209, can
 229, our
 229, they
@@ -6580,33 +6519,18 @@
 230, their
 236, all
 243, have
-248, an
-248, he
-253, no
-267, on
 273, from
 274, its
 289, this
 295, may
 303, there
-319, we
 354, but
 384, his
 404, with
 422, not
 490, for
-521, by
 535, are
-541, as
 566, which
 620, that
-632, it
-678, be
-747, or
-998, a
-1049, is
-1378, in
-1702, to
 2224, and
-2919, of
 3719, the
