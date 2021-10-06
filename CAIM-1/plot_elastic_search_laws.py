@@ -1,13 +1,11 @@
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 import os
 from scipy.optimize import curve_fit
 from delete_noise import noise_cleaner
 
 import warnings
-
-import matplotlib.pyplot as plt
-
 
 warnings.filterwarnings('error')
 
@@ -18,7 +16,7 @@ files_zipf = ['news', 'novels']
 
 def func_zipf(x, a, b, c):
     try:
-        return c / pow(x + b, a)
+        return c / pow(x + b, 1)
     except:
         return 0
 
