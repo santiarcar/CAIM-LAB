@@ -173,8 +173,11 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.title("HEAP'S: {0}".format(file_basic))
     plt.savefig("heaps_{0}{1}.png".format(file_basic, "_zoomed"*zoomed))
 
+    plt.clf()
+
 
 zipf_checker(files=files_zipf)
+
 heaps_checker(file_basic='novels', num_of_files=32, zoomed=False)
 heaps_checker(file_basic='novels', num_of_files=32, zoomed=True)
 
