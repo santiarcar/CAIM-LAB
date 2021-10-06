@@ -77,7 +77,7 @@ def zipf_checker(files: list):
         # FIT ZIPFS
         popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=([0, 0, 100000], [3, 20000, np.inf]))
         plt.plot(xdata, func_zipf(xdata, *popt), 'gx--',
-                 label='ZIPF\S FIT\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
+                 label='ZIPF\'S FIT\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
 
         # FIT A/X
         popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
