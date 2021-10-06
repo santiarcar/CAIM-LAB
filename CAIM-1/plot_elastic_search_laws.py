@@ -14,9 +14,9 @@ cwd = os.getcwd()
 files_zipf = ['news', 'novels']
 
 
-def func_zipf(x, a, b, c):
+def func_zipf(x, b, c):
     try:
-        return c / pow(x + b, 1)
+        return c /((x + b)**2.345)
     except:
         return 0
 
@@ -54,27 +54,28 @@ def zipf_checker(files: list):
         ydata = df_fr_main['freq'].array
 
         # DATA
+
         plt.plot(xdata, ydata, 'b-', label='data')
 
         # FIT ZIPFS
-        popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
+        popt, pcov = curve_fit(func_zipf, xdata, ydata, bounds=(0, [np.inf, np.inf]))
         plt.plot(xdata, func_zipf(xdata, *popt), 'g--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c/(x+b)^a' % tuple(popt))
+                 label='fit-with-bounds\nfit: a=2.3, b=%5.3f, c=%5.3f\nf = c/(x+b)^a' % tuple(popt))
 
         # FIT A/X
-        popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
-        plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
-                 label='fit-with-bounds\nfit: a=%5.3f\nf = a/x' % tuple(popt))
+        #popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf]))
+        #plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
+        #         label='fit-with-bounds\nfit: a=%5.3f\nf = a/x' % tuple(popt))
 
         # FIT LN(X)
-        popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_ln(xdata, *popt), 'y--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = -a * ln(x*b)' % tuple(popt))
+        #popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+        #plt.plot(xdata, func_ln(xdata, *popt), 'y--',
+        #         label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = -a * ln(x*b)' % tuple(popt))
 
         # FIT inverse exponential
-        popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
-                 label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = a * e^(b/x)' % tuple(popt))
+        #popt, pcov = curve_fit(func_invexp, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+        #plt.plot(xdata, func_invexp(xdata, *popt), 'k--',
+        #         label='fit-with-bounds\nfit: a=%5.3f, b=%5.3f\nf = a * e^(b/x)' % tuple(popt))
 
         # PLOT
 
@@ -169,9 +170,6 @@ def heaps_checker(file_basic: str, num_of_files: int, index_and_count: bool = Fa
     plt.show()
 
 
-# a = zipf_checker(files=files_zipf)
+a = zipf_checker(files=files_zipf)
 
-b = heaps_checker(files=files_heap)
-
-
-
+#b = heaps_checker(files=files_heap)
