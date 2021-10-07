@@ -80,9 +80,9 @@ def zipf_checker(files: list):
                  label='ZIPF\'S FIT\nfit: a=%5.3f, b=%5.3f, c=%5.3f\nf = c / (x+b)^a' % tuple(popt))
 
         # FIT A/X
-        popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
-        plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
-                label='fit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
+        # popt, pcov = curve_fit(func_a_over_x, xdata, ydata, bounds=(0, [np.inf, np.inf]))
+        # plt.plot(xdata, func_a_over_x(xdata, *popt), 'r--',
+        #         label='fit: a=%5.3f, b=%5.3f\nf = a/(x+b)' % tuple(popt))
 
         # FIT LN(X)
         # popt, pcov = curve_fit(func_ln, xdata, ydata, bounds=(0, [np.inf, np.inf, np.inf]))
