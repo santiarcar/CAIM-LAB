@@ -84,15 +84,18 @@ def toTFIDF(client, index, file_id):
     file_tv, file_df = document_term_vector(client, index, file_id)
 
     max_freq = max([f for _, f in file_tv])
+    print(f"max freq : {max_freq}")
 
     dcount = doc_count(client, index)
-
+    print(f"dcount : {dcount}")
     tfidfw = []
-    for (t, w),(_, df) in zip(file_tv, file_df):
-        #
-        # Something happens here
-        #
-        pass
+    for (t, w), (_, df) in zip(file_tv, file_df):
+        print(f"w: {w}. df: {df}")
+        tf_di = w / max_freq
+        idf_i = np.log2(dcount / df)
+        tfidfw.append((t, tf_di * idf_i))
+
+    print(tfidfw)
 
     return normalize(tfidfw)
 
@@ -102,10 +105,9 @@ def print_term_weigth_vector(twv):
     :param twv:
     :return:
     """
-    #
-    # Program something here
-    #
-    pass
+
+    for (t, w) in twv:
+        print(f'({t}, {w})')
 
 
 def normalize(tw):
@@ -115,10 +117,16 @@ def normalize(tw):
     :param tw:
     :return:
     """
-    #
-    # Program something here
-    #
-    return None
+
+    mag = 0
+
+    for (_, freq) in tw:
+        mag += freq**2
+    mag = np.sqrt(mag)
+    print(f"mag = {mag}")
+    print([(t, freq/mag) for (t, freq) in tw])
+
+    return [(t, freq/mag) for (t, freq) in tw]
 
 
 def cosine_similarity(tw1, tw2):
@@ -128,10 +136,29 @@ def cosine_similarity(tw1, tw2):
     :param tw2:
     :return:
     """
-    #
-    # Program something here
-    #
-    return 0
+    # tw1 * tw2 / |tw1| * |tw2|
+
+    """
+    As the weight vectors are ordered alphabetically,
+    the plan is to advance through both vectors in parallel
+    while looking for every vector's word in the other vector
+    """
+
+    iter_tw1 = iter_tw2 = 0
+    sim = 0
+    while iter_tw1 < len(tw1) and iter_tw2 < len(tw2):
+        (t1, w1) = tw1[iter_tw1]
+        (t2, w2) = tw2[iter_tw2]
+        if t1 == t2:
+            print(f"Term: {t1}, weights: {w1}, {w2}")
+            sim += w1 * w2
+            iter_tw1 += 1
+            iter_tw2 += 1
+        elif t1 > t2:
+            iter_tw2 += 1
+        else:
+            iter_tw1 += 1
+    return sim
 
 def doc_count(client, index):
     """
