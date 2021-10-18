@@ -22,7 +22,7 @@ IndexFiles
 :Authors:
     bejar
 
-:Version: 
+:Version:
 
 :Date:  23/06/2017
 """
@@ -60,7 +60,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--path', required=True, default=None, help='Path to the files')
     parser.add_argument('--index', required=True, default=None, help='Index for the files')
-    parser.add_argument('--token', default='standard', choices=['standard', 'whitespace', 'classic', 'letter'],
+    parser.add_argument('--token', default='standard', choices=['standard', 'whitespace', 'classic', 'letter','uax_url_email'],
                         help='Text tokenizer')
     parser.add_argument('--filter', default=['lowercase'], nargs=argparse.REMAINDER, help='Text filter: lowercase, '
                                                                                           'asciifolding, stop, porter_stem, kstem, snowball')
