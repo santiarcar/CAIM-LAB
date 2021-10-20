@@ -129,12 +129,14 @@ def cosine_similarity(tw1, tw2):
     :param tw2:
     :return:
     """
-    # tw1 * tw2 / |tw1| * |tw2|
 
     """
     As the weight vectors are ordered alphabetically,
     the plan is to advance through both vectors in parallel
     while looking for every vector's word in the other vector
+    
+    Also as the modules are 1 (vectors have been normalized),
+    we do not need to divide by the module
     """
 
     iter_tw1 = iter_tw2 = 0
