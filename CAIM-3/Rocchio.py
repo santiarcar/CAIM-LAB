@@ -127,7 +127,6 @@ def get_dict_from_query(query):
 def get_query_from_dict(d: dict):
     q = []
     for term in d:
-        print(f'TERM: {term}\n{term.split("^")[0]}\n{d[term]["importance"]}')
         q.append(f'{term.split("^")[0]}^{d[term]["importance"]}')
 
     return q
@@ -146,18 +145,19 @@ def computeTFIDF(client, index, documents):
     return tfidf_l
 
 
-def get_term_relevance(d_query, tfidf_l):
-    tfidf_result = dict.fromkeys(d_query.keys(), 0)
-
-    for tfidf_doc in tfidf_l:
-        print(f"d_query:\n{d_query}")
-        for term, information in d_query.items():
-            tfidf_result[term] += (tfidf_doc.get(information['word']) or 0)
+def get_term_relevance(tfidf_l):
+    tfidf_result = {}
+    for doc in tfidf_l:
+        for word in doc.keys():
+            if tfidf_result.get(word):
+                tfidf_result[word] += doc[word]
+            else:
+                tfidf_result[word] = doc[word]
 
     return tfidf_result
 
 
-def get_most_relevant_docs(query):
+def get_most_relevant_docs(query, k):
     if query is not None:
         q = Q('query_string', query=query[0])
         s = Search(using=client, index=index)
@@ -181,16 +181,43 @@ def reorder_query(query):
     return query
 
 
-def Rocchio(alpha, beta, dict_query, tfidf_dict):
+def Rocchio(alpha, beta, k, dict_query, tfidf_dict):
     new_dict_query = {}
     for term, information in dict_query.items():
-        print(f"len(tfidf_dict) : {len(tfidf_dict)}")
-        mean_weight = tfidf_dict[term] / len(tfidf_dict)
-        new_query_importance = float(alpha) * information['importance'] + float(beta) * mean_weight
-        new_dict_query[term] = {'word': information['word'],
-                                'importance': new_query_importance,
-                                }
+        new_query_importance_alpha = float(alpha) * information['importance']
+        if new_dict_query.get(information['word']):
+            new_dict_query[information['word']]['importance'] = (new_dict_query[information['word']]['importance']
+                                                                 + new_query_importance_alpha)
+        else:
+            new_dict_query[information['word']] = {'word': information['word'],
+                                                   'importance': new_query_importance_alpha,
+                                                   }
+    for word in tfidf_dict:
+        mean_weight = tfidf_dict[word] / k
+        new_query_importance_beta = float(beta) * mean_weight
+        if new_dict_query.get(word):
+            new_dict_query[word]['importance'] = new_dict_query[word]['importance'] + new_query_importance_beta
+        else:
+            new_dict_query[word] = {'word': word,
+                                    'importance': new_query_importance_beta,
+                                    }
     return new_dict_query
+
+
+def prune_dictionary(full_dict: dict, old_dict: dict, R: int = None):
+    d = {}
+    for key in old_dict:
+        d[key] = full_dict[old_dict[key]['word']]
+        full_dict.pop(old_dict[key]['word'])
+
+    for key, v in sorted(full_dict.items(), key=lambda e: e[1]["importance"], reverse=True)[:R]:
+        d[key] = v
+
+    return d
+
+
+def order_dictionary(d: dict):
+    return {k: v for k, v in sorted(d.items(), key=lambda item: item[1])}
 
 
 if __name__ == '__main__':
@@ -198,9 +225,9 @@ if __name__ == '__main__':
     parser.add_argument('--index', required=True, default=None, help='Index for the files')
     parser.add_argument('--k', default=10, type=int, help='Number of top documents considered relevant for each round')
     parser.add_argument('--nrounds', default=10, type=int, help='Number of applications of Roccchio\'s rule')
-    parser.add_argument('--R', default=10, type=int, help='Maximum number of terms to be ke in the new query')
-    parser.add_argument('--alpha', default=1, type=int, help='Value fro "alpha", first weight of the Rochio rule')
-    parser.add_argument('--beta', default=1.5, type=int, help='Value fro "beta", second weight of the Rochio rule')
+    parser.add_argument('--R', default=5, type=int, help='Maximum number of terms to be ke in the new query')
+    parser.add_argument('--alpha', default=1, type=float, help='Value fro "alpha", first weight of the Rochio rule')
+    parser.add_argument('--beta', default=0.5, type=float, help='Value fro "beta", second weight of the Rochio rule')
     parser.add_argument('--query', required=True, default=None, nargs=argparse.REMAINDER,
                         help='List of words to search')
 
@@ -225,29 +252,32 @@ if __name__ == '__main__':
         # Obtain most relevant docs
         if i > 0:
             print(query)
-        rel_docs = get_most_relevant_docs(query)
+        rel_docs = get_most_relevant_docs(query, k=k)
 
         tfidf_l = computeTFIDF(client=client,
                                index=index,
                                documents=rel_docs)
         # Apply Rocchio
         dict_query = get_dict_from_query(query=query)
-        tfidf_query = get_term_relevance(d_query=dict_query,
-                                         tfidf_l=tfidf_l)
+        tfidf_relevance = get_term_relevance(tfidf_l=tfidf_l)
 
         dict_new_query = Rocchio(alpha=alpha,
                                  beta=beta,
+                                 k=k,
                                  dict_query=dict_query,
-                                 tfidf_dict=tfidf_query)
+                                 tfidf_dict=tfidf_relevance)
 
-        query = get_query_from_dict(dict_new_query)
+        reduced_dict_new_query = prune_dictionary(full_dict=dict_new_query,
+                                                  old_dict=dict_query,
+                                                  R=R)
 
-    rel_docs = get_most_relevant_docs(query)
+        query = get_query_from_dict(reduced_dict_new_query)
+
+    rel_docs = get_most_relevant_docs(query, k=k)
+
 
     for r in rel_docs:  # only returns a specific number of results
         print(f'ID= {r.meta.id} SCORE={r.meta.score}')
         print(f'PATH= {r.path}')
         print(f'TEXT: {r.text[:50]}')
         print('-----------------------------------------------------------------')
-
-
