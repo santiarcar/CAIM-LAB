@@ -10,7 +10,6 @@ from elasticsearch.client import CatClient
 import numpy as np
 import operator
 
-
 """
 Functions provided by the teachers in previous sessions
 """
@@ -21,10 +20,11 @@ def doc_count(client, index):
 
 
 def search_file_by_path(client, index, path):
-    s = Search(using=client, index=index)
     q = Q('match', path=path)  # exact search in the path field
-    s = s.query(q)
-    result = s.execute()
+    s = Search(using=client, index=index)
+
+    res = s.query(q)
+    result = res.execute()
 
     lfiles = [r for r in result]
     if len(lfiles) == 0:
@@ -33,18 +33,15 @@ def search_file_by_path(client, index, path):
         return lfiles[0].meta.id
 
 
-def document_term_vector(client, index, id):
+def document_term_vector(client, index, file_id):
     """
     Returns the term vector of a document and its statistics a two sorted list of pairs (word, count)
     The first one is the frequency of the term in the document, the second one is the number of documents
     that contain the term
 
-    :param client:
-    :param index:
-    :param id:
     :return:
     """
-    termvector = client.termvectors(index=index, id=id, fields=['text'],
+    termvector = client.termvectors(index=index, id=file_id, fields=['text'],
                                     positions=False, term_statistics=True)
 
     file_td = {}
@@ -66,22 +63,24 @@ def toTFIDF(client, index, file_id):
     """
     Returns the term weights of a document
 
-    :param file:
+    :param file_id:
     :return:
     """
 
     # Get the frequency of the term in the document, and the number of documents
     # that contain the term
-    file_tv, file_df = document_term_vector(client, index, file_id)
+    file_tv, file_df = document_term_vector(client=client,
+                                            index=index,
+                                            file_id=file_id)
 
     max_freq = max([f for _, f in file_tv])
 
     dcount = doc_count(client, index)
-    tfidfw = []
+    tfidfw = {}
     for (t, w), (_, df) in zip(file_tv, file_df):
         tf_di = w / max_freq
         idf_i = np.log2(dcount / df)
-        tfidfw.append((t, tf_di * idf_i))
+        tfidfw[t] = tf_di * idf_i
 
     return normalize(tfidfw)
 
@@ -96,52 +95,53 @@ def normalize(tw):
 
     mag = 0
 
-    for (_, freq) in tw:
-        mag += freq**2
+    for key in tw:
+        mag += tw[key] ** 2
     mag = np.sqrt(mag)
 
-    return [(t, freq/mag) for (t, freq) in tw]
+    return {key: tw[key] / mag for key in tw}
 
 
-def get_dict_from_query(query: str):
+def get_dict_from_query(query):
     d = {}
-    for word in query:
-        word_values = {}
-    if '~' in word:
-        res_word = word.split('~')[0]
-        value = word.split('~')[1]
-        d[res_word] = {'sign': '~',
-                       'value': value}
-    elif '^' in word:
-        res_word = word.split('^')[0]
-        value = word.split('^')[1]
-        d[res_word] = {'sign': '^',
-                       'value': value}
-    else:
-        d[word] = {}
+    for term in query:
+        if '^' in term:
+            main_term = term.split('^')[0]
+            value = term.split('^')[1]
+        else:
+            main_term = term
+            value = 1
+
+        if '~' in main_term:
+            word = main_term.split('~')[0]
+        else:
+            word = main_term
+
+        d[term] = {'word': word,
+                   'importance': float(value),
+                   }
 
     return d
 
 
 def get_query_from_dict(d: dict):
-    query = []
-    for word in d:
-        if word.__len__() > 0:
-            query.append(f'{word}{d[word["sign"]]}{d[word["value"]]}')
-        else:
-            query.append(f'{word}')
+    q = []
+    for term in d:
+        print(f'TERM: {term}\n{term.split("^")[0]}\n{d[term]["importance"]}')
+        q.append(f'{term.split("^")[0]}^{d[term]["importance"]}')
 
-    return query
+    return q
 
 
-def computeTFIDF(documents, client, index):
+def computeTFIDF(client, index, documents):
     tfidf_l = []
     for doc in documents:
-        file_id = search_file_by_path(client, index, doc.path)
+        file_id = search_file_by_path(client=client,
+                                      index=index,
+                                      path=doc.path)
         tfidf_doc = toTFIDF(client=client,
                             index=index,
-                            file_id=file_id,
-                            )
+                            file_id=file_id)
         tfidf_l.append(tfidf_doc)
     return tfidf_l
 
@@ -149,37 +149,63 @@ def computeTFIDF(documents, client, index):
 def get_term_relevance(d_query, tfidf_l):
     tfidf_result = dict.fromkeys(d_query.keys(), 0)
 
-    for doc in tfidf_l:
-        for word,_  in d_query.items():
-            tfidf_result[word] += tfidf_doc[word]
+    for tfidf_doc in tfidf_l:
+        print(f"d_query:\n{d_query}")
+        for term, information in d_query.items():
+            tfidf_result[term] += (tfidf_doc.get(information['word']) or 0)
 
-    #print('tfidf result', d_query)
     return tfidf_result
 
 
-def obtain_most_relevant_docs():
+def get_most_relevant_docs(query):
     if query is not None:
         q = Q('query_string', query=query[0])
+        s = Search(using=client, index=index)
         for i in range(1, len(query)):
             q &= Q('query_string', query=query[i])
-        s = s.query(q)
-        response = s[0:k].execute()
-    return response
+        response = s.query(q)
+        return response[0:k].execute()
+
+
+def reorder_query(query):
+    for j in range(len(query)):
+        if ('^' in query[j]) and ('~' in query[j]):
+            boost_pos = query[j].find('^')
+            fuzzy_pos = query[j].find('~')
+            if boost_pos < fuzzy_pos:
+                w = query[j].split('^')[0]
+                w_tail = query[j].split('^')[1]
+                boost = w_tail.split('~')[0]
+                fuzzy = w_tail.split('~')[1]
+                query[j] = f'{w}~{fuzzy}^{boost}'
+    return query
+
+
+def Rocchio(alpha, beta, dict_query, tfidf_dict):
+    new_dict_query = {}
+    for term, information in dict_query.items():
+        print(f"len(tfidf_dict) : {len(tfidf_dict)}")
+        mean_weight = tfidf_dict[term] / len(tfidf_dict)
+        new_query_importance = float(alpha) * information['importance'] + float(beta) * mean_weight
+        new_dict_query[term] = {'word': information['word'],
+                                'importance': new_query_importance,
+                                }
+    return new_dict_query
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--path', required=True, default=None, help='Path to the files')
     parser.add_argument('--index', required=True, default=None, help='Index for the files')
     parser.add_argument('--k', default=10, type=int, help='Number of top documents considered relevant for each round')
     parser.add_argument('--nrounds', default=10, type=int, help='Number of applications of Roccchio\'s rule')
     parser.add_argument('--R', default=10, type=int, help='Maximum number of terms to be ke in the new query')
-    parser.add_argument('--alpha', default=10, type=int, help='Value fro "alpha", first weight of the Rochio rule')
-    parser.add_argument('--beta', default=10, type=int, help='Value fro "beta", second weight of the Rochio rule')
-    parser.add_argument('--query', default=None, nargs=argparse.REMAINDER, help='List of words to search')
+    parser.add_argument('--alpha', default=1, type=int, help='Value fro "alpha", first weight of the Rochio rule')
+    parser.add_argument('--beta', default=1.5, type=int, help='Value fro "beta", second weight of the Rochio rule')
+    parser.add_argument('--query', required=True, default=None, nargs=argparse.REMAINDER,
+                        help='List of words to search')
 
     args = parser.parse_args()
 
-    path = args.path
     index = args.index
     k = args.k
     nrounds = args.nrounds
@@ -188,89 +214,40 @@ if __name__ == '__main__':
     beta = args.beta
     query = args.query
 
+    # For simplicity, it's better to have the boost operator at the end of every term
+    query = reorder_query(query)
+
     client = Elasticsearch()
-    s = Search(using=client, index=index)
+
+    # tfidf_l = computeTFIDF(rel_docs)
 
     for i in range(nrounds):
         # Obtain most relevant docs
+        if i > 0:
+            print(query)
+        rel_docs = get_most_relevant_docs(query)
+
+        tfidf_l = computeTFIDF(client=client,
+                               index=index,
+                               documents=rel_docs)
         # Apply Rocchio
+        dict_query = get_dict_from_query(query=query)
+        tfidf_query = get_term_relevance(d_query=dict_query,
+                                         tfidf_l=tfidf_l)
 
-    # Return k most relevant
+        dict_new_query = Rocchio(alpha=alpha,
+                                 beta=beta,
+                                 dict_query=dict_query,
+                                 tfidf_dict=tfidf_query)
+
+        query = get_query_from_dict(dict_new_query)
+
+    rel_docs = get_most_relevant_docs(query)
+
+    for r in rel_docs:  # only returns a specific number of results
+        print(f'ID= {r.meta.id} SCORE={r.meta.score}')
+        print(f'PATH= {r.path}')
+        print(f'TEXT: {r.text[:50]}')
+        print('-----------------------------------------------------------------')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # check if the filters are valid
-    for f in args.filter:
-        if f not in ['lowercase', 'asciifolding', 'stop', 'stemmer', 'porter_stem', 'kstem', 'snowball']:
-            raise NameError(
-                'Invalid filter must be a subset of: lowercase, asciifolding, stop, porter_stem, kstem, snowball')
-
-    ldocs = []
-
-    # Reads all the documents in a directory tree and generates an index operation for each
-    lfiles = generate_files_list(path)
-    print('Indexing %d files' % len(lfiles))
-    print('Reading files ...')
-    for f in lfiles:
-        ftxt = codecs.open(f, "r", encoding='iso-8859-1')
-        text = ''
-        for line in ftxt:
-            text += line
-        # Insert operation for a document with fields' path' and 'text'
-        ldocs.append({'_op_type': 'index', '_index': index, 'path': f, 'text': text})
-
-    client = Elasticsearch(timeout=1000)
-
-    # Tokenizers: whitespace classic standard letter
-    my_analyzer = analyzer('default',
-                           type='custom',
-                           tokenizer=tokenizer(args.token),
-                           filter=args.filter
-                           )
-
-    try:
-        # Drop index if it exists
-        ind = Index(index, using=client)
-        ind.delete()
-    except NotFoundError:
-        pass
-    # then create it
-    ind.settings(number_of_shards=1)
-    ind.create()
-    ind = Index(index, using=client)
-
-    # configure default analyzer
-    ind.close()  # index must be closed for configuring analyzer
-    ind.analyzer(my_analyzer)
-
-    # configure the path field so it is not tokenized and we can do exact match search
-    client.indices.put_mapping(doc_type='document', index=index, include_type_name=True, body={
-        "properties": {
-            "path": {
-                "type": "keyword",
-            }
-        }
-    })
-
-    ind.save()
-    ind.open()
-    print("Index settings=", ind.get_settings())
-    # Bulk execution of elastic search operations (faster than executing all one by one)
-    print('Indexing ...')
-    bulk(client, ldocs)
