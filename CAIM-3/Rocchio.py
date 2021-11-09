@@ -155,3 +155,122 @@ def get_term_relevance(d_query, tfidf_l):
 
     #print('tfidf result', d_query)
     return tfidf_result
+
+
+def obtain_most_relevant_docs():
+    if query is not None:
+        q = Q('query_string', query=query[0])
+        for i in range(1, len(query)):
+            q &= Q('query_string', query=query[i])
+        s = s.query(q)
+        response = s[0:k].execute()
+    return response
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--path', required=True, default=None, help='Path to the files')
+    parser.add_argument('--index', required=True, default=None, help='Index for the files')
+    parser.add_argument('--k', default=10, type=int, help='Number of top documents considered relevant for each round')
+    parser.add_argument('--nrounds', default=10, type=int, help='Number of applications of Roccchio\'s rule')
+    parser.add_argument('--R', default=10, type=int, help='Maximum number of terms to be ke in the new query')
+    parser.add_argument('--alpha', default=10, type=int, help='Value fro "alpha", first weight of the Rochio rule')
+    parser.add_argument('--beta', default=10, type=int, help='Value fro "beta", second weight of the Rochio rule')
+    parser.add_argument('--query', default=None, nargs=argparse.REMAINDER, help='List of words to search')
+
+    args = parser.parse_args()
+
+    path = args.path
+    index = args.index
+    k = args.k
+    nrounds = args.nrounds
+    R = args.R
+    alpha = args.alpha
+    beta = args.beta
+    query = args.query
+
+    client = Elasticsearch()
+    s = Search(using=client, index=index)
+
+    for i in range(nrounds):
+        # Obtain most relevant docs
+        # Apply Rocchio
+
+    # Return k most relevant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # check if the filters are valid
+    for f in args.filter:
+        if f not in ['lowercase', 'asciifolding', 'stop', 'stemmer', 'porter_stem', 'kstem', 'snowball']:
+            raise NameError(
+                'Invalid filter must be a subset of: lowercase, asciifolding, stop, porter_stem, kstem, snowball')
+
+    ldocs = []
+
+    # Reads all the documents in a directory tree and generates an index operation for each
+    lfiles = generate_files_list(path)
+    print('Indexing %d files' % len(lfiles))
+    print('Reading files ...')
+    for f in lfiles:
+        ftxt = codecs.open(f, "r", encoding='iso-8859-1')
+        text = ''
+        for line in ftxt:
+            text += line
+        # Insert operation for a document with fields' path' and 'text'
+        ldocs.append({'_op_type': 'index', '_index': index, 'path': f, 'text': text})
+
+    client = Elasticsearch(timeout=1000)
+
+    # Tokenizers: whitespace classic standard letter
+    my_analyzer = analyzer('default',
+                           type='custom',
+                           tokenizer=tokenizer(args.token),
+                           filter=args.filter
+                           )
+
+    try:
+        # Drop index if it exists
+        ind = Index(index, using=client)
+        ind.delete()
+    except NotFoundError:
+        pass
+    # then create it
+    ind.settings(number_of_shards=1)
+    ind.create()
+    ind = Index(index, using=client)
+
+    # configure default analyzer
+    ind.close()  # index must be closed for configuring analyzer
+    ind.analyzer(my_analyzer)
+
+    # configure the path field so it is not tokenized and we can do exact match search
+    client.indices.put_mapping(doc_type='document', index=index, include_type_name=True, body={
+        "properties": {
+            "path": {
+                "type": "keyword",
+            }
+        }
+    })
+
+    ind.save()
+    ind.open()
+    print("Index settings=", ind.get_settings())
+    # Bulk execution of elastic search operations (faster than executing all one by one)
+    print('Indexing ...')
+    bulk(client, ldocs)
