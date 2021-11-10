@@ -257,6 +257,7 @@ if __name__ == '__main__':
     for i in range(nrounds):
         # Obtain the k most relevant documents
         if i > 0:
+            print(f'---- Query iteration: {i} ----')
             print(query)
         rel_docs = get_most_relevant_docs(query, k=k)
 
@@ -289,7 +290,8 @@ if __name__ == '__main__':
     # Obtain the k most relevant docs
     rel_docs = get_most_relevant_docs(query, k=k)
 
-
+    print('-----------------------------------------------------------------')
+    print('#### Resulting documents ####')
     for r in rel_docs:  # only returns a specific number of results
         print(f'ID= {r.meta.id} SCORE={r.meta.score}')
         print(f'PATH= {r.path}')
