@@ -255,30 +255,38 @@ if __name__ == '__main__':
     # tfidf_l = computeTFIDF(rel_docs)
 
     for i in range(nrounds):
-        # Obtain most relevant docs
+        # Obtain the k most relevant documents
         if i > 0:
             print(query)
         rel_docs = get_most_relevant_docs(query, k=k)
 
+        # Apply Rocchio
+        # Compute the Tf-Idf of the k most relevant documents
         tfidf_l = computeTFIDF(client=client,
                                index=index,
                                documents=rel_docs)
-        # Apply Rocchio
-        dict_query = get_dict_from_query(query=query)
+        # Compute average Tf-Idf of the words in the k most relevant docs
         tfidf_relevance = get_term_relevance_average(tfidf_l=tfidf_l,
                                                      k=k)
 
+        # Obtain dictionary from query
+        dict_query = get_dict_from_query(query=query)
+
+        # Apply Rocchio
         dict_new_query = Rocchio(alpha=alpha,
                                  beta=beta,
                                  dict_query=dict_query,
                                  tfidf_dict=tfidf_relevance)
 
+        # Prune the dictionary obtained
         reduced_dict_new_query = prune_dictionary(full_dict=dict_new_query,
                                                   # old_dict=dict_query,
                                                   R=R)
 
+        # Obtain query in "normal" form from dictionary
         query = get_query_from_dict(reduced_dict_new_query)
 
+    # Obtain the k most relevant docs
     rel_docs = get_most_relevant_docs(query, k=k)
 
 
