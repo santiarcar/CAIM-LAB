@@ -206,9 +206,11 @@ def Rocchio(alpha, beta, k, dict_query, tfidf_dict):
 
 def prune_dictionary(full_dict: dict, old_dict: dict, R: int = None):
     d = {}
-    for key in old_dict:
-        d[key] = full_dict[old_dict[key]['word']]
-        full_dict.pop(old_dict[key]['word'])
+
+    # If we uncomment this, we will keep the previous terms in the query and add R new terms
+    # for key in old_dict:
+    #     d[key] = full_dict[old_dict[key]['word']]
+    #     full_dict.pop(old_dict[key]['word'])
 
     for key, v in sorted(full_dict.items(), key=lambda e: e[1]["importance"], reverse=True)[:R]:
         d[key] = v
