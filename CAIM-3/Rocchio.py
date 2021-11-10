@@ -145,7 +145,7 @@ def computeTFIDF(client, index, documents):
     return tfidf_l
 
 
-def get_term_relevance(tfidf_l):
+def get_term_relevance_average(tfidf_l, k):
     tfidf_result = {}
     for doc in tfidf_l:
         for word in doc.keys():
@@ -153,6 +153,9 @@ def get_term_relevance(tfidf_l):
                 tfidf_result[word] += doc[word]
             else:
                 tfidf_result[word] = doc[word]
+
+    for word in tfidf_result:
+        tfidf_result[word] = tfidf_result[word] / k
 
     return tfidf_result
 
@@ -181,7 +184,7 @@ def reorder_query(query):
     return query
 
 
-def Rocchio(alpha, beta, k, dict_query, tfidf_dict):
+def Rocchio(alpha, beta, dict_query, tfidf_dict):
     new_dict_query = {}
     for term, information in dict_query.items():
         new_query_importance_alpha = float(alpha) * information['importance']
@@ -193,8 +196,7 @@ def Rocchio(alpha, beta, k, dict_query, tfidf_dict):
                                                    'importance': new_query_importance_alpha,
                                                    }
     for word in tfidf_dict:
-        mean_weight = tfidf_dict[word] / k
-        new_query_importance_beta = float(beta) * mean_weight
+        new_query_importance_beta = float(beta) * tfidf_dict[word]
         if new_dict_query.get(word):
             new_dict_query[word]['importance'] = new_dict_query[word]['importance'] + new_query_importance_beta
         else:
@@ -204,7 +206,9 @@ def Rocchio(alpha, beta, k, dict_query, tfidf_dict):
     return new_dict_query
 
 
-def prune_dictionary(full_dict: dict, old_dict: dict, R: int = None):
+def prune_dictionary(full_dict: dict,
+                     # old_dict: dict,
+                     R: int = None):
     d = {}
 
     # If we uncomment this, we will keep the previous terms in the query and add R new terms
@@ -261,16 +265,16 @@ if __name__ == '__main__':
                                documents=rel_docs)
         # Apply Rocchio
         dict_query = get_dict_from_query(query=query)
-        tfidf_relevance = get_term_relevance(tfidf_l=tfidf_l)
+        tfidf_relevance = get_term_relevance_average(tfidf_l=tfidf_l,
+                                                     k=k)
 
         dict_new_query = Rocchio(alpha=alpha,
                                  beta=beta,
-                                 k=k,
                                  dict_query=dict_query,
                                  tfidf_dict=tfidf_relevance)
 
         reduced_dict_new_query = prune_dictionary(full_dict=dict_new_query,
-                                                  old_dict=dict_query,
+                                                  # old_dict=dict_query,
                                                   R=R)
 
         query = get_query_from_dict(reduced_dict_new_query)
