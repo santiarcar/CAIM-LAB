@@ -1,0 +1,1 @@
+primeraPrueba -> L==0.85, stopping_threshold==1e-12
