@@ -1,0 +1,6 @@
+Reading Airport file from airports.txt
+There were 5740 Airports with IATA code
+Reading Routes file from routes.txt
+Correct routes found : 68292
+Airports found in routes : 39387
+There are 2455 airports that are dead ends
