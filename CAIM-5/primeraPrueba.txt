@@ -5,9 +5,9 @@ Correct routes found : 68292
 Airports found in routes : 39387
 There are 2455 airports that are dead ends
 
-     ############################################################################### 
-     ............... Page Rank --- Airport name (Airport code) ..................... 
-     ############################################################################### 
+     ###############################################################################
+     ............... Page Rank --- Airport name (Airport code) .....................
+     ###############################################################################
      
 0.005574745 --- Chicago Ohare Intl, United States (ORD)
 0.0055683634 --- Los Angeles Intl, United States (LAX)
@@ -5750,4 +5750,4 @@ There are 2455 airports that are dead ends
 4.10593e-05 --- Inverell, Australia (IVR)
 4.10593e-05 --- Glen Innes, Australia (GLI)
 #Iterations: 119
-Time of computePageRanks(): 1.9092364311218262
+Time of computePageRanks(): 1.9852094650268555
