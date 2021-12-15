@@ -40,7 +40,7 @@ class MRKmeansStep(MRJob):
 
         while (iter_prot < len(prot)) and (iter_doc < len(doc)):
             if prot[iter_prot][0] == doc[iter_doc]:
-                intersection_size += 1
+                intersection_size += prot[iter_prot][1]
                 iter_prot += 1
                 iter_doc += 1
             elif prot[iter_prot][0] < doc[iter_doc]:
@@ -48,7 +48,13 @@ class MRKmeansStep(MRJob):
             else:
                 iter_doc += 1
 
-        return intersection_size / (len(prot) + len(doc) - intersection_size)
+        norm_squared_proto = 0
+        for i in range(len(prot)):
+            norm_squared_proto += prot[i][1]**2
+
+        norm_squared_doc = len(doc)
+
+        return intersection_size / (norm_squared_proto + norm_squared_doc - intersection_size)
 
     def configure_args(self):
         """
@@ -95,7 +101,7 @@ class MRKmeansStep(MRJob):
         min_dist = float('inf')
         closest_proto = None
         for key in self.prototypes:
-            dist_to_proto = self.jaccard(self.prototypes[key], lwords)
+            dist_to_proto = 1 - self.jaccard(self.prototypes[key], lwords)
             if(dist_to_proto < min_dist):
                 min_dist = dist_to_proto
                 closest_proto = key
