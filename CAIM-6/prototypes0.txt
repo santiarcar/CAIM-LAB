@@ -1,0 +1,12 @@
+CLASS0:analyt+1.0 code+1.0 input+1.0 open+1.0 practic+1.0 presenc+1.0 valid+1.0 
+CLASS1:classic+1.0 domain+1.0 either+1.0 free+1.0 minim+1.0 precis+1.0 
+CLASS2:doe+1.0 impact+1.0 often+1.0 open+1.0 practic+1.0 task+1.0 
+CLASS3:address+1.0 cost+1.0 establish+1.0 involv+1.0 practic+1.0 signal+1.0 task+1.0 
+CLASS4:around+1.0 cost+1.0 finit+1.0 magnet+1.0 often+1.0 practic+1.0 signal+1.0 spatial+1.0 
+CLASS5:common+1.0 distanc+1.0 magnet+1.0 map+1.0 practic+1.0 spatial+1.0 valid+1.0 
+CLASS6:among+1.0 cost+1.0 machin+1.0 therefor+1.0 valid+1.0 
+CLASS7:classic+1.0 complet+1.0 scheme+1.0 shown+1.0 wave+1.0 
+CLASS8:complet+1.0 contain+1.0 continu+1.0 shown+1.0 
+CLASS9:account+1.0 accur+1.0 assum+1.0 behavior+1.0 finit+1.0 flow+1.0 map+1.0 particl+1.0 scheme+1.0 total+1.0 variat+1.0 veloc+1.0 
+CLASS10:address+1.0 contain+1.0 futur+1.0 much+1.0 practic+1.0 research+1.0 tool+1.0 toward+1.0 
+CLASS11:account+1.0 art+1.0 better+1.0 magnet+1.0 map+1.0 report+1.0 resolut+1.0 spatial+1.0 typic+1.0 
